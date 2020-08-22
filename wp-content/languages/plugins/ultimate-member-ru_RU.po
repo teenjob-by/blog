@@ -1,0 +1,5097 @@
+# Translation of Plugins - Ultimate Member &#8211; User Profile &amp; Membership Plugin - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Ultimate Member &#8211; User Profile &amp; Membership Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-20 09:18:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Ultimate Member &#8211; User Profile &amp; Membership Plugin - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "The easiest way to create powerful online communities and beautiful user profiles with WordPress"
+msgstr "Самый простой способ создать мощные онлайн-сообщества и красивые профили пользователей с помощью WordPress"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#: includes/admin/core/class-admin-settings.php:1258
+msgid "Allow users to choose If they want to stay signed in even after closing the browser. If you do not show this option, the default will be to not remember login session."
+msgstr "Разрешить пользователям выбирать опцию \"Запомнить меня\", что позволит не выходить из системы даже после закрытия браузера. Если вы не показываете эту опцию, то по умолчанию будет \"Не запоминать сеанс входа\"."
+
+#: includes/admin/core/class-admin-settings.php:1256
+msgid "Show \"Remember Me\""
+msgstr "Показать \"Запомнить меня\""
+
+#: includes/admin/core/class-admin-settings.php:1251
+msgid "Switch on/off the forgot password link in login form"
+msgstr "Показывать или нет ссылку \"Забыли пароль?\" в форме входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1249
+msgid "Login Forgot Password Link"
+msgstr "Ссылка на страницу \"Забыли пароль?\" для формы входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1240
+msgid "Login Secondary Button URL"
+msgstr "URL второй кнопки для формы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1231
+msgid "Login Secondary Button Text"
+msgstr "Текст второй кнопки для формы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1224
+msgid "Login Secondary Button"
+msgstr "Вторая кнопка для формы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1216
+msgid "Login Primary Button Text"
+msgstr "Текст основной кнопки для формы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1204
+msgid "This controls the display of field icons in the login form"
+msgstr "Это управляет отображением иконок полей в форме Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1203
+msgid "Login Field Icons"
+msgstr "Иконки полей для формы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1190
+msgid "Login Shortcode Alignment"
+msgstr "Выравнивание формы на странице Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1182
+msgid "Login Maximum Width"
+msgstr "Максимальная ширина формы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1174
+msgid "This will be the default template to output login"
+msgstr "Это будет шаблон по умолчанию для вывода формы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1173
+msgid "Login Default Template"
+msgstr "Шаблон по умолчанию для страницы Входа на сайт"
+
+#: includes/admin/core/class-admin-settings.php:1160
+msgid "This will be the default role assigned to users registering thru registration form"
+msgstr "Это будет роль по умолчанию, назначенная для пользователей, отправивших данные через форму регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1159
+msgid "Registration Default Role"
+msgstr "Роль по умолчанию при регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1152
+#: includes/admin/core/class-admin-settings.php:1242
+msgid "You can replace default link for this button by entering custom URL"
+msgstr "Вы можете заменить ссылку по умолчанию для этой кнопки, введя пользовательский URL"
+
+#: includes/admin/core/class-admin-settings.php:1150
+msgid "Registration Secondary Button URL"
+msgstr "URL второй кнопки для формы Регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1143
+#: includes/admin/core/class-admin-settings.php:1233
+msgid "The text that is used for the secondary button text"
+msgstr "Текст второй кнопки"
+
+#: includes/admin/core/class-admin-settings.php:1141
+msgid "Registration Secondary Button Text"
+msgstr "Текст второй кнопки формы Регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1134
+msgid "Registration Secondary Button"
+msgstr "Вторая кнопка формы Регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1128
+#: includes/admin/core/class-admin-settings.php:1218
+msgid "The text that is used for primary button text"
+msgstr "Текст первой кнопки"
+
+#: includes/admin/core/class-admin-settings.php:1126
+msgid "Registration Primary Button Text"
+msgstr "Текст первой кнопки для формы Регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1114
+msgid "This controls the display of field icons in the registration form"
+msgstr "Это управляет отображением иконок полей в форме Регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1113
+msgid "Registration Field Icons"
+msgstr "Иконки полей формы Регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1100
+msgid "Registration Shortcode Alignment"
+msgstr "Выравнивание формы Регистрации на странице"
+
+#: includes/admin/core/class-admin-settings.php:885
+#: includes/admin/core/class-admin-settings.php:1094
+#: includes/admin/core/class-admin-settings.php:1184
+msgid "The maximum width this shortcode can take from the page width"
+msgstr "Максимальная ширина этой формы, по отношению к ширине страницы"
+
+#: includes/admin/core/class-admin-settings.php:1092
+msgid "Registration Maximum Width"
+msgstr "Макс. ширина формы Регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1084
+msgid "This will be the default template to output registration"
+msgstr "Это будет шаблон по умолчанию для формы регистрации"
+
+#: includes/admin/core/class-admin-settings.php:1083
+msgid "Registration Default Template"
+msgstr "Шаблон регистрации по умолчанию"
+
+#: includes/admin/core/class-admin-settings.php:1074
+msgid "Profile Menu"
+msgstr "Меню профиля"
+
+#: includes/admin/core/class-admin-settings.php:352
+msgid "Enable menu icons in desktop view"
+msgstr "Включить иконки меню в режиме просмотра"
+
+#: includes/admin/core/class-admin-settings.php:342
+msgid "This will be the default tab on user profile page"
+msgstr "Это будет вкладка по умолчанию на странице профиля пользователя"
+
+#: includes/admin/core/class-admin-settings.php:341
+msgid "Profile menu default tab"
+msgstr "Вкладка Меню профиля по умолчанию"
+
+#: includes/admin/core/class-admin-settings.php:328
+msgid "Choose user roles..."
+msgstr "Выбрать роли пользователя..."
+
+#: includes/admin/core/class-admin-settings.php:326
+msgid "Select the the user roles allowed to view this tab."
+msgstr "Выберите роли пользователей, которые могут просматривать эту вкладку."
+
+#: includes/admin/core/class-admin-settings.php:325
+msgid "Allowed roles"
+msgstr "Разрешенные роли"
+
+#: includes/admin/core/class-admin-settings.php:316
+msgid "Select which users can view this tab."
+msgstr "Выбрать, какие пользователи могут просматривать эту вкладку."
+
+#: includes/admin/core/class-admin-settings.php:315
+msgid "Who can see %s Tab?"
+msgstr "Кто может видеть вкладку %s?"
+
+#: includes/admin/core/class-admin-settings.php:297
+#: includes/admin/core/class-admin-settings.php:308
+msgid "%s Tab"
+msgstr "Вкладка %s"
+
+#: includes/admin/core/class-admin-settings.php:273
+msgid "Enable profile menu"
+msgstr "Включить меню профиля"
+
+#: includes/admin/core/class-admin-settings.php:1068
+msgid "Switch on/off the emoticon (sad face) that appears above the message"
+msgstr "Показывать или нет смайлик (печальное лицо), который появляется над сообщением, если профиль не заполнен."
+
+#: includes/admin/core/class-admin-settings.php:1066
+msgid "Show the emoticon"
+msgstr "Показать иконку эмоции в профиле"
+
+#: includes/admin/core/class-admin-settings.php:1061
+msgid "Switch on/off the custom message that appears when the profile is empty"
+msgstr "Показывать или нет пользовательское сообщение, которое появляется, если профиль не заполнен."
+
+#: includes/admin/core/class-admin-settings.php:1059
+msgid "Show a custom message if profile is empty"
+msgstr "Показывать заданное вручную сообщение, если профиль не заполнен"
+
+#: includes/admin/core/class-admin-settings.php:1049
+msgid "For incompatible themes, please make the menu open from left instead of bottom by default."
+msgstr "Для несовместимых тем, пожалуйста, укажите меню слева, а не внизу, как по умолчанию."
+
+#: includes/admin/core/class-admin-settings.php:1047
+msgid "Profile Header Menu Position"
+msgstr "Положение меню заголовка профиля"
+
+#: includes/admin/core/class-admin-settings.php:1040
+msgid "Maximum number of characters to allow in user description field in header."
+msgstr "Максимальное количество символов, допустимых в поле описания пользователя в заголовке."
+
+#: includes/admin/core/class-admin-settings.php:1038
+msgid "User description maximum chars"
+msgstr "Макс. кол-во символов в описании пользователя"
+
+#: includes/admin/core/class-admin-settings.php:1033
+msgid "Switch on/off to enable/disable support for html tags on user description."
+msgstr "Включение/отключение поддержки тегов HTML в описании пользователя."
+
+#: includes/admin/core/class-admin-settings.php:1027
+msgid "Switch on/off the user description on profile header"
+msgstr "Показывать или нет описание пользователя в заголовке профиля"
+
+#: includes/admin/core/class-admin-settings.php:1025
+msgid "Show user description in header"
+msgstr "Показать описание пользователя в заголовке профиля"
+
+#: includes/admin/core/class-admin-settings.php:1020
+msgid "Switch on/off the social links on profile header"
+msgstr "Показывать или нет ссылки соц. сетей в заголовке профиля"
+
+#: includes/admin/core/class-admin-settings.php:1018
+msgid "Show social links in profile header"
+msgstr "Показать ссылки на соц. сети в заголовке профиля"
+
+#: includes/admin/core/class-admin-settings.php:1013
+msgid "Switch on/off the user name on profile header"
+msgstr "Показывать или нет имя пользователя в заголовке профиля"
+
+#: includes/admin/core/class-admin-settings.php:1011
+msgid "Show display name in profile header"
+msgstr "Показать отображаемое имя в заголовке профиля"
+
+#: includes/admin/core/class-admin-settings.php:1006
+msgid "Display field icons for related user meta fields in header or not"
+msgstr "Показывать или нет в заголовке профиля иконки для связанных мета-полей пользователя"
+
+#: includes/admin/core/class-admin-settings.php:1004
+msgid "Profile Header Meta Text Icon"
+msgstr "Иконка мета-текста в заголовке профиля"
+
+#: includes/admin/core/class-admin-settings.php:990
+msgid "Choose global ratio for cover photos of profiles"
+msgstr "Выберите пропорции для фотографии обложки в профиле, которые будут действовать глобально"
+
+#: includes/admin/core/class-admin-settings.php:989
+msgid "Profile Cover Ratio"
+msgstr "Пропорции обложки для профиля"
+
+#: includes/admin/core/class-admin-settings.php:974
+msgid "Switch on/off the profile cover photos"
+msgstr "Показывать или нет фотографии профиля на обложке"
+
+#: includes/admin/core/class-admin-settings.php:972
+msgid "Profile Cover Photos"
+msgstr "Фотографии обложки для профиля"
+
+#: includes/admin/core/class-admin-settings.php:966
+msgid "The global default of profile photo size. This can be overridden by individual form settings"
+msgstr "Размер фотографии профиля, установленный глобально по умолчанию. Он может быть переопределён в индивидуальных настройках формы."
+
+#: includes/admin/core/class-admin-settings.php:950
+msgid "You can change the default cover photo globally here. Please make sure that the default cover is large enough and respects the ratio you are using for cover photos."
+msgstr "Вы можете здесь глобально изменить фото по умолчанию на обложке. Пожалуйста, убедитесь, что обложка по умолчанию является достаточно большой и сохраняет соотношение сторон, которое вы используете для фотографий обложки."
+
+#: includes/admin/core/class-admin-settings.php:949
+msgid "Default Cover Photo"
+msgstr "Фото обложки по умолчанию"
+
+#: includes/admin/core/class-admin-settings.php:938
+msgid "You can change the default profile picture globally here. Please make sure that the photo is 300x300px."
+msgstr "Вы можете здесь изменить глобальную картинку по умолчанию для профилей (пока не задана другая картинка пользователем). Пожалуйста, убедитесь, что фотография имеет разрешение 300x300 пикселей."
+
+#: includes/admin/core/class-admin-settings.php:937
+msgid "Default Profile Photo"
+msgstr "Фото профиля по умолчанию"
+
+#: includes/admin/core/class-admin-settings.php:930
+msgid "The text that is used for cancelling update profile button"
+msgstr "Текст, который используется для кнопки отмены обновления профиля"
+
+#: includes/admin/core/class-admin-settings.php:928
+msgid "Profile Secondary Button Text"
+msgstr "Текст вторичной кнопки для профиля"
+
+#: includes/admin/core/class-admin-settings.php:923
+#: includes/admin/core/class-admin-settings.php:1136
+#: includes/admin/core/class-admin-settings.php:1226
+msgid "Switch on/off the secondary button display in the form"
+msgstr "Показывать или нет вторичную кнопку в форме"
+
+#: includes/admin/core/class-admin-settings.php:921
+msgid "Profile Secondary Button"
+msgstr "Вторичная кнопка для профиля"
+
+#: includes/admin/core/class-admin-settings.php:915
+msgid "The text that is used for updating profile button"
+msgstr "Текст, который используется для кнопки обновления профиля"
+
+#: includes/admin/core/class-admin-settings.php:913
+msgid "Profile Primary Button Text"
+msgstr "Текст основной кнопки для профиля"
+
+#: includes/admin/templates/form/login_customize.php:45
+#: includes/admin/templates/form/profile_customize.php:72
+#: includes/admin/templates/form/register_customize.php:60
+#: includes/admin/core/class-admin-settings.php:906
+#: includes/admin/core/class-admin-settings.php:1119
+#: includes/admin/core/class-admin-settings.php:1209
+msgid "Turn off"
+msgstr "Выключить"
+
+#: includes/admin/templates/form/login_customize.php:44
+#: includes/admin/templates/form/profile_customize.php:71
+#: includes/admin/templates/form/register_customize.php:59
+#: includes/admin/core/class-admin-settings.php:905
+#: includes/admin/core/class-admin-settings.php:1118
+#: includes/admin/core/class-admin-settings.php:1208
+msgid "Show with label"
+msgstr "Показать с меткой (label)"
+
+#: includes/admin/templates/form/login_customize.php:43
+#: includes/admin/templates/form/profile_customize.php:70
+#: includes/admin/templates/form/register_customize.php:58
+#: includes/admin/core/class-admin-settings.php:904
+#: includes/admin/core/class-admin-settings.php:1117
+#: includes/admin/core/class-admin-settings.php:1207
+msgid "Show inside text field"
+msgstr "Показать внутри текстового поля"
+
+#: includes/admin/core/class-admin-settings.php:901
+msgid "This is applicable for edit mode only"
+msgstr "Это применимо только для режима редактирования"
+
+#: includes/admin/core/class-admin-settings.php:900
+msgid "Profile Field Icons"
+msgstr "Иконки поля профиля"
+
+#: includes/admin/core/class-admin-settings.php:1106
+#: includes/admin/core/class-admin-settings.php:1196
+msgid "Right aligned"
+msgstr "По правому краю"
+
+#: includes/admin/core/class-admin-settings.php:1105
+#: includes/admin/core/class-admin-settings.php:1195
+msgid "Left aligned"
+msgstr "Выравнивание по левому краю"
+
+#: includes/admin/core/class-admin-settings.php:1104
+#: includes/admin/core/class-admin-settings.php:1194
+msgid "Centered"
+msgstr "По центру"
+
+#: includes/admin/templates/form/profile_customize.php:59
+#: includes/admin/core/class-admin-settings.php:894
+msgid "The maximum width of the profile area inside profile (below profile header)"
+msgstr "Максимальная ширина области профиля внутри профиля (ниже заголовка профиля)"
+
+#: includes/admin/core/class-admin-settings.php:892
+msgid "Profile Area Maximum Width"
+msgstr "Максимальная ширина области профиля"
+
+#: includes/admin/core/class-admin-settings.php:883
+msgid "Profile Maximum Width"
+msgstr "Максимальная ширина формы профиля"
+
+#: includes/admin/core/class-admin-settings.php:875
+msgid "This will be the default template to output profile"
+msgstr "Это будет шаблон по умолчанию для вывода профиля"
+
+#: includes/admin/core/class-admin-settings.php:874
+msgid "Profile Default Template"
+msgstr "Шаблон профиля по умолчанию"
+
+#: includes/admin/core/class-admin-settings.php:869
+msgid "Profile"
+msgstr "Профиль"
+
+#: includes/admin/core/class-admin-settings.php:1276
+msgid "Show an asterisk for required fields"
+msgstr "Отображать звёздочку для обязательных полей"
+
+#: includes/admin/core/class-admin-settings.php:535
+msgid "General"
+msgstr "Общее"
+
+#: includes/admin/core/class-admin-settings.php:866
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: includes/admin/core/class-admin-settings.php:1289
+msgid "This will be used in the meta description that is available for search-engines."
+msgstr "Это будет использоваться в мета-поле description (описание), которое доступно для поисковых систем."
+
+#: includes/admin/core/class-admin-settings.php:1288
+msgid "User Profile Dynamic Meta Description"
+msgstr "Мета-описание профиля пользователя"
+
+#: includes/admin/core/class-admin-settings.php:1282
+msgid "This is the title that is displayed on a specific user profile"
+msgstr "Это заголовок (Title), который отображается в профиле определённого пользователя"
+
+#: includes/admin/core/class-admin-settings.php:1281
+msgid "User Profile Title"
+msgstr "Заголовок профиля пользователя"
+
+#: includes/admin/core/class-admin-settings.php:790
+msgid "This will be the minimum width for cover photo uploads"
+msgstr "Это будет минимальная ширина для загружаемой фотографии обложки"
+
+#: includes/admin/core/class-admin-settings.php:789
+msgid "Cover Photo Minimum Width (px)"
+msgstr "Мин. ширина для обложки профиля (px)"
+
+#: includes/admin/core/class-admin-settings.php:782
+msgid "Any image upload above this width will be resized to this limit automatically."
+msgstr "Любое загруженное изображение с шириной более указанной, будет уменьшено автоматически до этой величины."
+
+#: includes/admin/core/class-admin-settings.php:781
+msgid "Image Upload Maximum Width (px)"
+msgstr "Макс. ширина загружаемых изображений (px)"
+
+#: includes/admin/core/class-admin-settings.php:774
+msgid "Quality is used to determine quality of image uploads, and ranges from 0 (worst quality, smaller file) to 100 (best quality, biggest file). The default range is 60."
+msgstr "Качество используется для задания качества загружаемых изображений и колеблется от 0 (худшее качество, меньший размер файла) до 100 (наилучшее качество, наибольший размер файла). Значение по умолчанию составляет 60. Рекомендуемые значения - 85-90 - дают результат без видимой потери качества."
+
+#: includes/admin/core/class-admin-settings.php:773
+msgid "Image Quality"
+msgstr "Качество изображения"
+
+#: includes/admin/core/class-admin-settings.php:763
+msgid "Here you can define which thumbnail sizes will be created for each cover photo upload."
+msgstr "Здесь Вы можете определить, какие размеры миниатюр будут созданы для каждой загруженной фотографии обложки."
+
+#: includes/admin/core/class-admin-settings.php:762
+msgid "Cover Photo Thumbnail Sizes (px)"
+msgstr "Размер миниатюры для фото обложки (px)"
+
+#: includes/admin/core/class-admin-settings.php:755
+#: includes/admin/core/class-admin-settings.php:765
+msgid "Add New Size"
+msgstr "Добавить новый размер"
+
+#: includes/admin/core/class-admin-settings.php:753
+msgid "Here you can define which thumbnail sizes will be created for each profile photo upload."
+msgstr "Здесь Вы можете определить, какие размеры миниатюр будут созданы для каждой загруженной фотографии профиля."
+
+#: includes/admin/core/class-admin-settings.php:752
+msgid "Profile Photo Thumbnail Sizes (px)"
+msgstr "Размер миниатюры фотографии профиля (px)"
+
+#: includes/admin/core/class-admin-settings.php:746
+msgid "Sets a maximum size for the uploaded cover"
+msgstr "Устанавливает максимальный размер файла загружаемой фотографии обложки"
+
+#: includes/admin/core/class-admin-settings.php:745
+msgid "Cover Photo Maximum File Size (bytes)"
+msgstr "Макс. размер файла для обложки профиля (в байтах)"
+
+#: includes/admin/core/class-admin-settings.php:738
+msgid "Sets a maximum size for the uploaded photo"
+msgstr "Устанавливает максимальный размер загружаемой фотографии профиля"
+
+#: includes/admin/core/class-admin-settings.php:737
+msgid "Profile Photo Maximum File Size (bytes)"
+msgstr "Макс. размер файла для фотографии профиля (в байтах)"
+
+#: includes/admin/core/class-admin-settings.php:731
+msgid "Uploads"
+msgstr "Загрузки"
+
+#: includes/class-config.php:506
+msgid "Whether to receive notification when an account is deleted"
+msgstr "Следует ли отправлять администратору уведомление о том, что учётная запись пользователя удалена"
+
+#: includes/class-config.php:503
+msgid "Account Deletion Notification"
+msgstr "Уведомление об удалении учётной записи"
+
+#: includes/class-config.php:498
+msgid "Whether to receive notification when an account needs admin review"
+msgstr "Следует ли отправлять администратору уведомление о необходимости проверки учётной записи"
+
+#: includes/class-config.php:491
+msgid "Account Needs Review Notification"
+msgstr "Уведомление о необходимости проверки учётной записи"
+
+#: includes/admin/core/class-admin-settings.php:2152
+msgid "This is the content of the e-mail"
+msgstr "Это содержание электронного письма"
+
+#: includes/class-config.php:485
+msgid "Whether to receive notification when a new user account is approved"
+msgstr "Следует ли отправлять уведомление администратору о том, что учётная запись нового пользователя подтверждена"
+
+#: includes/class-config.php:479
+msgid "New User Notification"
+msgstr "Уведомление о новом пользователе"
+
+#: includes/admin/core/class-admin-settings.php:842
+msgid "Admin E-mail Address"
+msgstr "Email администратора"
+
+#: includes/class-config.php:460
+msgid "Whether to send the user an email when he request to reset password (Recommended, please keep on)"
+msgstr "Следует ли посылать пользователю письмо, когда он просит сбросить пароль (рекомендуется)"
+
+#: includes/class-config.php:453
+msgid "Password Changed Email"
+msgstr "Письмо при смене пароля"
+
+#: includes/class-config.php:447
+msgid "Whether to send an email when users changed their password (Recommended, please keep on)"
+msgstr "Следует ли посылать письмо, когда пользователи меняют свой пароль (рекомендуется, пожалуйста, оставьте эту функцию)"
+
+#: includes/class-config.php:439
+msgid "Password Reset Email"
+msgstr "Письмо при сбросе пароля"
+
+#: includes/class-config.php:433
+msgid "Whether to send the user an email when his account is deleted"
+msgstr "Следует ли посылать пользователю письмо, когда его учётная запись удалена"
+
+#: includes/class-config.php:426
+msgid "Account Deleted Email"
+msgstr "Письмо при удалении учётной записи"
+
+#: includes/class-config.php:420
+msgid "Whether to send the user an email when his account is deactivated"
+msgstr "Следует ли посылать пользователю письмо, когда его учётная запись деактивирована"
+
+#: includes/class-config.php:413
+msgid "Account Deactivated Email"
+msgstr "Письмо при деактивации учётной записи"
+
+#: includes/class-config.php:408
+msgid "Whether to send the user an email when his account is rejected"
+msgstr "Следует ли посылать письмо пользователю, когда создание его учётной записи отклонено администратором"
+
+#: includes/class-config.php:401
+msgid "Account Rejected Email"
+msgstr "Письмо при отклонении создания учётной записи"
+
+#: includes/class-config.php:396
+msgid "Whether to send the user an email when his account is approved"
+msgstr "Следует ли посылать пользователю письмо, когда его учётная запись подтверждена администратором"
+
+#: includes/class-config.php:384
+msgid "Account Approved Email"
+msgstr "Письмо при подтверждении учётной записи"
+
+#: includes/class-config.php:379
+msgid "Whether to send the user an email when his account needs admin review"
+msgstr "Следует ли посылать пользователю письмо, когда его учётная запись требует проверки администратором"
+
+#: includes/class-config.php:366
+msgid "Whether to send the user an email when his account needs e-mail activation"
+msgstr "Следует ли посылать пользователю письмо, когда его учётная запись требует активации по электронной почте"
+
+#: includes/class-config.php:358
+msgid "Account Activation Email"
+msgstr "Письмо при активации учётной записи"
+
+#: includes/admin/core/class-admin-settings.php:2150
+msgid "Message Body"
+msgstr "Текст сообщения"
+
+#: includes/admin/core/class-admin-settings.php:2145
+msgid "This is the subject line of the e-mail"
+msgstr "Укажите здесь тему письма"
+
+#: includes/admin/core/class-admin-settings.php:2143
+msgid "Subject Line"
+msgstr "Тема письма"
+
+#: includes/class-config.php:352
+msgid "Whether to send the user an email when his account is automatically approved"
+msgstr "Следует ли посылать пользователю письмо, когда его учётная запись автоматически подтверждена"
+
+#: includes/class-config.php:341
+msgid "Account Welcome Email"
+msgstr "Приветственное письмо при создании учётной записи"
+
+#: includes/admin/core/class-admin-settings.php:860
+msgid "Use HTML for E-mails?"
+msgstr "Использовать HTML для электронных писем?"
+
+#: includes/admin/core/class-admin-settings.php:843
+#: includes/admin/core/class-admin-settings.php:855
+msgid "e.g. admin@companyname.com"
+msgstr "Например, admin@companyname.com"
+
+#: includes/admin/core/class-admin-settings.php:854
+msgid "Mail appears from address"
+msgstr "E-mail адрес отправителя"
+
+#: includes/admin/core/class-admin-settings.php:849
+msgid "e.g. Site Name"
+msgstr "Например, название сайта"
+
+#: includes/admin/core/class-admin-settings.php:848
+msgid "Mail appears from"
+msgstr "Название отправителя"
+
+#: includes/admin/core/class-admin-settings.php:830
+msgid "This option lets you specify blacklist of words to prevent anyone from signing up with such a word as their username"
+msgstr "Эта опция позволяет указать чёрный список слов, защищающий от использования таких слов в имени пользователя при регистрации"
+
+#: includes/admin/core/class-admin-settings.php:829
+msgid "Blacklist Words"
+msgstr "Чёрный список слов"
+
+#: includes/admin/core/class-admin-settings.php:824
+msgid "This will block the specified e-mail addresses from being able to sign up or sign in to your site. To block an entire domain, use something like *@domain.com"
+msgstr "Указанные адреса электронной почты будут заблокированы для регистрации или входа на сайт. Чтобы заблокировать весь домен, используйте маску типа *@domain.com"
+
+#: includes/admin/core/class-admin-settings.php:823
+msgid "Blocked Email Addresses"
+msgstr "Заблокированные Адреса электронной почты"
+
+#: includes/admin/core/class-admin-settings.php:815
+msgid "Set the maximum reset password limit. If reached the maximum limit, user will be locked from using this."
+msgstr "Установите ограничение на попытки сброса пароля. Если этот предел достигнут, пользователю станет недоступна данная функция."
+
+#: includes/admin/core/class-admin-settings.php:814
+msgid "Reset Password Limit"
+msgstr "Ограничение попыток сброса пароля"
+
+#: includes/admin/core/class-admin-settings.php:809
+msgid "Enable the Reset Password Limit?"
+msgstr "Включить ограничение на попытки сброса пароля?"
+
+#: includes/admin/templates/access/restrict_content.php:121
+#: includes/admin/core/class-admin-metabox.php:452
+#: includes/admin/core/class-admin-metabox.php:610
+msgid "Custom URL"
+msgstr "Пользовательский URL"
+
+#: includes/admin/core/class-admin-settings.php:438
+msgid "Allow Category pages to be accessible"
+msgstr "Разрешить доступ к странице Категории"
+
+#: includes/admin/core/class-admin-settings.php:432
+msgid "Allow Homepage to be accessible"
+msgstr "Разрешить доступ к Главной странице"
+
+#: includes/admin/core/class-admin-settings.php:425
+msgid "Add New URL"
+msgstr "Добавить новый URL"
+
+#: includes/admin/core/class-admin-settings.php:424
+msgid "Here you can exclude URLs beside the redirect URI to be accessible to everyone"
+msgstr "Здесь Вы можете исключить те URL (помимо адресов с перенаправлением URI), которые могут быть доступным для всех"
+
+#: includes/admin/core/class-admin-settings.php:423
+msgid "Exclude the following URLs"
+msgstr "Исключить следующие адреса"
+
+#: includes/admin/core/class-admin-settings.php:417
+msgid "A logged out user will be redirected to this url If he is not permitted to access the site"
+msgstr "Вышли из пользователь будет перенаправлен на этот URL Если он не разрешен доступ к сайту"
+
+#: includes/admin/core/class-admin-settings.php:416
+msgid "Custom Redirect URL"
+msgstr "Пользовательские URL переадресации"
+
+#: includes/admin/core/class-admin-settings.php:406
+msgid "Globally control the access of your site, you can have seperate restrict options per post/page by editing the desired item."
+msgstr "Глобальное управление доступом к сайту позволяет задавать отдельные параметры ограничений для записи или страницы при редактировании соответствующего элемента."
+
+#: includes/admin/core/class-admin-settings.php:405
+msgid "Global Site Access"
+msgstr "Глобальный доступ к сайту"
+
+#: includes/admin/core/class-admin-settings.php:797
+msgid "Access"
+msgstr "Доступ"
+
+#: includes/admin/core/class-admin-settings.php:708
+msgid "Enable or disable a strong password rules on account page / change password tab"
+msgstr "Включить или отключить сложные пароли на странице учётной записи или вкладке смены пароля"
+
+#: includes/admin/core/class-admin-settings.php:707
+msgid "Require a strong password?"
+msgstr "Требовать сложный пароль?"
+
+#: includes/admin/core/class-admin-settings.php:714
+msgid "Whether to allow users changing their profile visibility from member directory in account page."
+msgstr "Предоставлять ли пользователям возможность изменять видимость своего профиля в списке участников на странице учётной записи."
+
+#: includes/admin/core/class-admin-settings.php:713
+msgid "Allow users to hide their profiles from directory"
+msgstr "Разрешить пользователям скрывать свои профили из списка"
+
+#: includes/admin/core/class-admin-settings.php:696
+msgid "Whether to allow users changing their email in account page."
+msgstr "Разрешать ли пользователям изменять их E-mail на странице учётной записи."
+
+#: includes/admin/core/class-admin-settings.php:695
+msgid "Allow users to change e-mail"
+msgstr "Разрешить пользователям менять E-mail"
+
+#: includes/admin/core/class-admin-settings.php:689
+msgid "Require first and last name?"
+msgstr "Имя и фамилия обязательны?"
+
+#: includes/admin/core/class-admin-settings.php:688
+msgid "Require First & Last Name"
+msgstr "Обязательны Имя и Фамилия"
+
+#: includes/admin/core/class-admin-settings.php:682
+msgid "Whether to allow users changing their first and last name in account page."
+msgstr "Разрешать ли пользователям изменять своё имя и фамилию на странице учётной записи."
+
+#: includes/admin/core/class-admin-settings.php:681
+msgid "Disable First & Last Name fields"
+msgstr "Отключить поля Имя и Фамилия"
+
+#: includes/admin/core/class-admin-settings.php:676
+msgid "Whether to enable these fields on the user account page by default or hide them."
+msgstr "Показать или скрыть по умолчанию эти поля на странице учётной записи пользователя."
+
+#: includes/admin/core/class-admin-settings.php:675
+msgid "Add a First & Last Name fields"
+msgstr "Добавить поля Имя и Фамилия"
+
+#: includes/admin/core/class-admin-settings.php:667
+msgid "This is custom text that will be displayed to users before they delete their accounts from your site"
+msgstr "Это текст, который будет отображаться пользователю перед удалением своей учётной записи с сайта"
+
+#: includes/class-config.php:529
+msgid "Are you sure you want to delete your account? This will erase all of your account data from the site. To delete your account enter your password below"
+msgstr "Вы уверены в том, что хотите удалить свой аккаунт? Это действие удалит все данные аккаунта с сайта. Для удаления аккаунта, введите Ваш пароль ниже"
+
+#: includes/admin/core/class-admin-settings.php:666
+msgid "Account Deletion Custom Text"
+msgstr "Пользовательский текст при удалении учётной записи"
+
+#: includes/admin/core/class-admin-settings.php:661
+msgid "Enable/disable the Delete account tab in account page"
+msgstr "Включить или отключить вкладку Удалить учётную запись на странице пользователя"
+
+#: includes/admin/core/class-admin-settings.php:660
+msgid "Delete Account Tab"
+msgstr "Вкладка Удалить учётную запись"
+
+#: includes/admin/core/class-admin-settings.php:655
+msgid "Enable/disable the Notifications account tab in account page"
+msgstr "Включить или отключить вкладку Уведомления на странице пользователя"
+
+#: includes/admin/core/class-admin-settings.php:654
+msgid "Notifications Account Tab"
+msgstr "Вкладка Уведомления"
+
+#: includes/admin/core/class-admin-settings.php:649
+msgid "Enable/disable the Privacy account tab in account page"
+msgstr "Включить или отключить вкладку Безопасность (Privacy) на странице пользователя"
+
+#: includes/admin/core/class-admin-settings.php:648
+msgid "Privacy Account Tab"
+msgstr "Вкладка Безопасность"
+
+#: includes/admin/core/class-admin-settings.php:642
+msgid "Password Account Tab"
+msgstr "Вкладка Пароль"
+
+#: includes/admin/core/class-admin-settings.php:632
+msgid "Enable or disable a strong password rules on password reset and change procedure"
+msgstr "Включить или отключить требование ввода сложного пароля во время сброса пароля пользователем"
+
+#: includes/admin/core/class-admin-settings.php:631
+msgid "Require a strong password? (when user resets password only)"
+msgstr "Требуется сложный пароль во время сброса пароля?"
+
+#: includes/admin/core/class-admin-settings.php:625
+msgid "Do you want to use the plugin default avatar instead of the gravatar default photo (If the user did not upload a custom profile photo / avatar)"
+msgstr "Хотите использовать аватар по умолчанию для плагина вместо фото по умолчанию для Gravatar (в случае, если пользователь не загрузил фото для своего профиля или аватар)?"
+
+#: includes/admin/core/class-admin-settings.php:624
+msgid "Use Default plugin avatar as Gravatar's Default avatar"
+msgstr "Использовать аватар плагина по умолчанию в качестве аватара Gravatar по умолчанию"
+
+#: includes/admin/core/class-admin-settings.php:616
+msgid "Blank ( a transparent PNG image )"
+msgstr "Пустое (прозрачное изображение PNG)"
+
+#: includes/admin/core/class-admin-settings.php:615
+msgid "Retro"
+msgstr "Ретро"
+
+#: includes/admin/core/class-admin-settings.php:614
+msgid "Wavatar"
+msgstr "Wavatar"
+
+#: includes/admin/core/class-admin-settings.php:613
+msgid "Monsterid"
+msgstr "Monsterid"
+
+#: includes/admin/core/class-admin-settings.php:612
+msgid "Identicon"
+msgstr "Identicon"
+
+#: includes/admin/core/class-admin-settings.php:611
+msgid "Mystery Man"
+msgstr "Mystery Man"
+
+#: includes/admin/core/class-admin-settings.php:610
+msgid "404 ( File Not Found response )"
+msgstr "404 ( Страница не найдена )"
+
+#: includes/admin/core/class-admin-settings.php:607
+msgid "Gravatar has a number of built in options which you can also use as defaults"
+msgstr "Gravatar уже имеет ряд встроенных опций, которые вы также можете использовать по умолчанию"
+
+#: includes/admin/core/class-admin-settings.php:606
+msgid "Use Gravatar builtin image"
+msgstr "Использовать встроенное изображение Gravatar"
+
+#: includes/admin/core/class-admin-settings.php:601
+msgid "Do you want to use gravatars instead of the default plugin profile photo (If the user did not upload a custom profile photo / avatar)"
+msgstr "Хотите использовать Gravatar вместо глобальной фотографии профиля по умолчанию, заданной в этом плагине (в случае, если пользователь не загрузил фото для своего профиля или аватар)?"
+
+#: includes/admin/core/class-admin-settings.php:600
+msgid "Use Gravatars?"
+msgstr "Использовать граватары?"
+
+#: includes/admin/core/class-admin-settings.php:595
+msgid "Control whether to enable or disable member directories on this site"
+msgstr "Включить или отключить списки участников на этом сайте"
+
+#: includes/admin/core/class-admin-settings.php:594
+msgid "Enable Members Directory"
+msgstr "Включить ведение списка участников"
+
+#: includes/admin/core/class-admin-settings.php:589
+msgid "If enabled, author pages will automatically redirect to the user's profile page"
+msgstr "Если включить, страница автора будет перенаправляться на страницу профиля пользователя."
+
+#: includes/admin/core/class-admin-settings.php:588
+msgid "Automatically redirect author page to their profile?"
+msgstr "Автоматически перенаправлять страницу автора на его профиль?"
+
+#: includes/admin/core/class-admin-settings.php:582
+msgid "Specify the custom field meta key or custom fields seperated by comma that you want to use to display users name on the frontend of your site"
+msgstr "Укажите мета-ключ для пользовательского (произвольного) поля или пользовательские поля, разделённых запятыми, которые вы хотите использовать для отображения имён пользователей в лицевой части вашего сайта"
+
+#: includes/admin/core/class-admin-settings.php:581
+msgid "Display Name Custom Field(s)"
+msgstr "Произвольное(ые) поле(я) для отображаемого имени пользователя"
+
+#: includes/admin/core/class-admin-settings.php:574
+msgid "Custom field(s)"
+msgstr "Произвольное(ые) (пользовательское(ие)) поле(я)"
+
+#: includes/admin/core/class-admin-settings.php:573
+msgid "First name only"
+msgstr "Только имя"
+
+#: includes/admin/core/class-admin-settings.php:572
+msgid "First initial of first name & last name"
+msgstr "Первые инициалы имени и фамилия"
+
+#: includes/admin/core/class-admin-settings.php:571
+msgid "First name & first initial of last name"
+msgstr "Имя и первые инициалы фамилиии"
+
+#: includes/admin/core/class-admin-settings.php:570
+msgid "Last name & first name"
+msgstr "Фамилия и имя"
+
+#: includes/admin/core/class-admin-settings.php:569
+msgid "First name & last name"
+msgstr "Имя и фамилия"
+
+#: includes/admin/core/class-admin-settings.php:566
+msgid "Default WP Display Name"
+msgstr "Отображаемое имя по умолчанию из настроек WP"
+
+#: includes/admin/core/class-admin-settings.php:564
+msgid "This is the name that will be displayed for users on the front end of your site. Default setting uses first/last name as display name if it exists"
+msgstr "Это имя будет отображаться для пользователей на вашем сайте. По умолчанию используются имя и фамилия"
+
+#: includes/admin/core/class-admin-settings.php:563
+msgid "User Display Name"
+msgstr "Отображать как"
+
+#: includes/admin/core/class-admin-settings.php:557
+#: includes/admin/core/class-admin-settings.php:576
+msgid "Select..."
+msgstr "Выбрать..."
+
+#: includes/admin/core/class-admin-settings.php:555
+msgid "User ID"
+msgstr "ID пользователя"
+
+#: includes/admin/core/class-admin-settings.php:554
+msgid "First and Last Name with '+'"
+msgstr "Имя и Фамилия с '+'"
+
+#: includes/admin/core/class-admin-settings.php:553
+msgid "First and Last Name with '-'"
+msgstr "Имя и Фамилия с '-'"
+
+#: includes/admin/core/class-admin-settings.php:552
+msgid "First and Last Name with '.'"
+msgstr "Имя и Фамилия с '.'"
+
+#: includes/admin/core/class-admin-settings.php:548
+msgid "Profile Permalink Base"
+msgstr "Основа формирования постоянной ссылки на профиль"
+
+#: includes/admin/core/class-admin-settings.php:261
+msgid "Choose a page..."
+msgstr "Выбор страницы..."
+
+#: includes/admin/core/class-admin-settings.php:251
+msgid "Add page ID"
+msgstr "Добавить ID страницы"
+
+#: includes/admin/templates/access/restrict_content.php:120
+#: includes/admin/core/class-admin-metabox.php:451
+#: includes/admin/core/class-admin-metabox.php:609
+msgid "Login page"
+msgstr "Страница входа (Login)"
+
+#: templates/searchform.php:9
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: templates/searchform.php:8 templates/searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr "Что искать:"
+
+#: templates/profile/posts.php:37
+msgid "This user has not created any posts."
+msgstr "Этот пользователь ещё не создал ни одной записи."
+
+#: templates/profile/posts.php:35
+msgid "You have not created any posts."
+msgstr "Вы не создали ни одной записи."
+
+#: templates/profile/posts.php:23
+msgid "load more posts"
+msgstr "загрузить ещё записи"
+
+#: templates/profile/posts-single.php:36
+msgid "1 comment"
+msgstr "1 комментарий"
+
+#: templates/profile/posts-single.php:32
+msgid "no comments"
+msgstr "нет комментариев"
+
+#: templates/profile/posts-single.php:26
+msgid "in"
+msgstr "в"
+
+#: templates/profile/posts-single.php:23
+msgid "%s ago"
+msgstr "%s назад"
+
+#: templates/profile/comments.php:38
+msgid "This user has not made any comments."
+msgstr "Этот пользователь ещё ничего не комментировал."
+
+#: templates/profile/comments.php:36
+msgid "You have not made any comments."
+msgstr "Вы не писали никаких комментировали."
+
+#: templates/profile/comments.php:24
+msgid "load more comments"
+msgstr "загрузить ещё комментарии"
+
+#: templates/profile/comments-single.php:14
+msgid "On <a href=\"%1$s\">%2$s</a>"
+msgstr "На <a href=\"%1$s\">%2$s</a>"
+
+#: templates/password-reset.php:10
+msgid "We have sent you a password reset link to your e-mail. Please check your inbox."
+msgstr "Мы отправили на ваш E-mail ссылку для сброса пароля. Пожалуйста, проверьте вашу почту."
+
+#: includes/widgets/class-um-search-widget.php:73
+msgid "Search Users"
+msgstr "Искать пользователей"
+
+#: includes/widgets/class-um-search-widget.php:27
+msgid "Ultimate Member - Search"
+msgstr "Ultimate Member - Поиск"
+
+#: includes/core/class-user.php:997
+msgid "Membership Inactive"
+msgstr "Участие не активировано"
+
+#: includes/core/class-user.php:993
+msgid "Membership Rejected"
+msgstr "Участие отклонено"
+
+#: includes/core/class-profile.php:149
+msgid "Comments"
+msgstr "Комментарии"
+
+#: includes/core/class-profile.php:145
+msgid "Posts"
+msgstr "Записи"
+
+#: includes/core/class-common.php:95
+msgid "Search Member Directories"
+msgstr "Поиск по спискам участников"
+
+#: includes/core/class-common.php:93
+msgid "You did not create any member directories yet"
+msgstr "Вы ещё не создали ни одного списка участников"
+
+#: includes/core/class-common.php:92
+msgid "Edit Member Directory"
+msgstr "Редактировать список участников"
+
+#: includes/core/class-common.php:91
+msgid "Add New Member Directory"
+msgstr "Добавить новый список участников"
+
+#: includes/core/class-common.php:89
+msgid "Member Directory"
+msgstr "Список участников"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:19
+msgid "Search User Roles"
+msgstr "Искать роли пользователей"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:17
+msgid "You did not create any user roles yet"
+msgstr "Вы ещё не создали ни одной роли пользователя"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:16
+msgid "Edit User Role"
+msgstr "Редактировать роль пользователя"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:15
+msgid "Add New User Role"
+msgstr "Добавить новую роль пользователя"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:13
+msgid "User Role"
+msgstr "Роль пользователя"
+
+#: includes/core/class-common.php:65
+msgid "Search Forms"
+msgstr "Поисковые формы"
+
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:18
+#: includes/core/class-common.php:64 includes/core/class-common.php:94
+msgid "Nothing found in Trash"
+msgstr "Ничего не найдено в Корзине"
+
+#: includes/core/class-common.php:63
+msgid "You did not create any forms yet"
+msgstr "Вы ещё не создали ни одной формы"
+
+#: includes/core/class-common.php:62
+msgid "Edit Form"
+msgstr "Редактировать форму"
+
+#: includes/core/class-common.php:61
+msgid "Add New Form"
+msgstr "Добавить новую форму"
+
+#: includes/admin/templates/role/role-edit.php:156
+#: includes/admin/core/list-tables/roles-list-table.php:485
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:14
+#: includes/core/class-common.php:60 includes/core/class-common.php:90
+msgid "Add New"
+msgstr "Добавить"
+
+#: includes/um-short-functions.php:792 includes/um-short-functions.php:800
+#: includes/core/class-common.php:59
+msgid "Form"
+msgstr "Форма"
+
+#: includes/core/class-shortcodes.php:936
+msgid "Default Template"
+msgstr "Шаблон по умолчанию"
+
+#: includes/core/class-shortcodes.php:363
+msgid "This content has been restricted to logged in users only. Please <a href=\"{login_referrer}\">login</a> to view this content."
+msgstr "Доступ к этому содержимому разрешён только для пользователей, зашедших на сайт под своей учётной записью. Пожалуйста, <a href=\"{login_referrer}\">войдите </a>для просмотра этого содержимого."
+
+#: includes/um-short-functions.php:758 includes/um-short-functions.php:954
+#: includes/um-short-functions.php:991
+msgid "(empty)"
+msgstr "(пусто)"
+
+#: includes/um-short-functions.php:752 includes/um-short-functions.php:985
+msgid "date submitted"
+msgstr "дата отправки данных"
+
+#: includes/class-config.php:132 includes/class-config.php:264
+#: includes/class-config.php:272 includes/class-config.php:790
+msgid "Login"
+msgstr "Войти"
+
+#: includes/class-config.php:133 includes/class-config.php:262
+#: includes/class-config.php:276 includes/class-config.php:791
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: includes/core/class-permalinks.php:191
+msgid "This activation link is expired or have already been used."
+msgstr "Эта ссылка для активации истекла или уже использовалась."
+
+#: includes/admin/core/class-admin-navmenu.php:87
+#: includes/admin/core/class-admin-navmenu.php:253
+msgid "Select the member roles that can see this link"
+msgstr "Выберите роли участников, которые могут видеть эту ссылку"
+
+#: includes/admin/core/class-admin-navmenu.php:78
+#: includes/admin/core/class-admin-navmenu.php:237
+msgid "Who can see this menu link?"
+msgstr "Кто может видеть эту ссылку меню?"
+
+#: includes/admin/core/class-admin-navmenu.php:29
+msgid "By Role"
+msgstr "По роли"
+
+#: includes/admin/core/class-admin-navmenu.php:28
+msgid "Display Mode"
+msgstr "Вид отображения"
+
+#: includes/core/um-filters-user.php:50
+msgid "Login as this user"
+msgstr "Войти как этот пользователь"
+
+#: includes/core/um-filters-user.php:46
+msgid "Delete this user"
+msgstr "Удалить пользователя"
+
+#: includes/core/um-filters-user.php:40
+msgid "Reactivate this account"
+msgstr "Повторно активировать эту учётную запись"
+
+#: includes/core/um-filters-user.php:36
+msgid "Deactivate this account"
+msgstr "Деактивировать учётную запись"
+
+#: includes/admin/core/class-admin-users.php:181
+msgid "Reactivate"
+msgstr "Повторно активировать"
+
+#: includes/admin/core/class-admin-users.php:178
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: includes/admin/core/class-admin-users.php:175
+#: includes/core/um-filters-user.php:32
+msgid "Resend Activation E-mail"
+msgstr "Повторно выслать письмо об активации"
+
+#: includes/admin/core/class-admin-users.php:172
+#: includes/core/um-filters-user.php:28
+msgid "Put as Pending Review"
+msgstr "Перевести в статус ожидания утверждения"
+
+#: includes/admin/core/class-admin-users.php:169
+#: includes/core/um-filters-user.php:20
+msgid "Reject Membership"
+msgstr "Отказать в участии"
+
+#: includes/admin/core/class-admin-users.php:166
+#: includes/core/um-filters-user.php:19 includes/core/um-filters-user.php:24
+msgid "Approve Membership"
+msgstr "Подтвердить участие"
+
+#: includes/core/um-filters-profile.php:81
+#: includes/core/um-filters-profile.php:102
+msgid "max"
+msgstr "максимум"
+
+#: includes/core/class-profile.php:141
+msgid "About"
+msgstr "О себе"
+
+#: includes/core/um-filters-fields.php:301
+msgid "Untitled photo"
+msgstr "Фото без названия"
+
+#: includes/core/class-fields.php:2709 includes/core/um-filters-fields.php:267
+msgid "This file has been removed."
+msgstr "Файл был удалён."
+
+#: includes/core/um-filters-fields.php:124
+msgid "Joined %s"
+msgstr "Дата регистрации на сайте: %s"
+
+#: includes/core/um-filters-fields.php:34
+msgid "Invalid soundcloud track ID"
+msgstr "Неверный ID записи на SoundCloud"
+
+#: includes/admin/core/class-admin-forms.php:318
+#: includes/core/um-filters-fields.php:15
+msgid "Required"
+msgstr "Обязательно"
+
+#: includes/admin/core/class-admin-settings.php:1268
+msgid "Licenses"
+msgstr "Лицензии"
+
+#: includes/core/class-uploader.php:759 includes/core/class-uploader.php:761
+msgid "Your photo is too small. It must be at least %spx wide."
+msgstr "Ваше изображение слишком маленькое! Оно должно быть как минимум %s пикселей в ширину."
+
+#: includes/core/class-uploader.php:753
+msgid "Your image is invalid or too large!"
+msgstr "Ваше изображение в неверном формате или оно слишком большое!"
+
+#: includes/core/class-uploader.php:705
+msgid "This media type is not recognized."
+msgstr "Тип медиаданных не опознан."
+
+#: includes/core/class-fields.php:4279
+msgid "This user has not added any information to their profile yet."
+msgstr "Этот пользователь ещё не добавил информацию в свой профиль."
+
+#: includes/core/class-fields.php:4277
+msgid "Your profile is looking a little empty. Why not <a href=\"%s\">add</a> some information!"
+msgstr "Ваш профиль смотрится слишком пустым. Почему бы не <a href=\"%s\">добавить</a> немного информации!"
+
+#: includes/core/class-fields.php:2742
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/core/class-fields.php:2712 includes/core/class-fields.php:2742
+msgid "Change file"
+msgstr "Изменить файл"
+
+#: includes/core/class-fields.php:2643 includes/core/class-fields.php:2742
+msgid "Processing..."
+msgstr "Обработка..."
+
+#: includes/core/class-fields.php:2597
+msgid "Upload Photo"
+msgstr "Загрузить фото"
+
+#: includes/core/class-fields.php:2353
+msgid "Confirm %s"
+msgstr "Подтвердить %s"
+
+#: includes/core/class-fields.php:2319
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: includes/core/class-fields.php:2288
+msgid "Current Password"
+msgstr "Текущий пароль"
+
+#: includes/core/class-fields.php:1760
+msgid "You can only upload one file"
+msgstr "Вы можете загрузить только один файл"
+
+#: includes/core/class-fields.php:1757
+msgid "This file is too small!"
+msgstr "Этот файл слишком маленький!"
+
+#: includes/core/class-fields.php:1754
+msgid "This file is too large!"
+msgstr "Этот файл слишком большой!"
+
+#: includes/core/class-fields.php:1751
+msgid "Sorry this is not a valid file."
+msgstr "Извините, это некорректный тип файла."
+
+#: includes/core/class-fields.php:1719
+msgid "You can only upload one image"
+msgstr "Вы можете загрузить только одно изображение"
+
+#: includes/core/class-fields.php:1716
+msgid "This image is too small!"
+msgstr "Это изображение слишком маленькое!"
+
+#: includes/core/class-fields.php:1713
+msgid "This image is too large!"
+msgstr "Это изображение слишком большое!"
+
+#: includes/core/class-fields.php:1710
+msgid "Sorry this is not a valid image."
+msgstr "Извините, это некорректное изображение."
+
+#: includes/core/class-fields.php:1696
+msgid "Please upload a valid image!"
+msgstr "Пожалуйста, загрузите корректный файл изображения!"
+
+#: includes/core/class-fields.php:1353
+msgid "Custom Field"
+msgstr "Произвольное (пользовательское) поле"
+
+#: includes/core/class-date-time.php:152
+msgid "Less than 1 year old"
+msgstr "Меньше 1 года"
+
+#: includes/core/class-date-time.php:149
+msgid "%s years old"
+msgstr "%s лет"
+
+#: includes/core/class-date-time.php:146
+msgid "%s year old"
+msgstr "%s год"
+
+#: includes/core/class-date-time.php:84 includes/core/class-date-time.php:89
+#: includes/core/class-date-time.php:93 includes/core/class-date-time.php:97
+msgid "%s at %s"
+msgstr "%s в %s"
+
+#: includes/core/class-date-time.php:82
+msgid "Yesterday at %s"
+msgstr "вчера в %s"
+
+#: includes/core/class-date-time.php:72
+msgid "%s hr"
+msgid_plural "%s hrs"
+msgstr[0] "%s ч."
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/core/class-date-time.php:63
+msgid "%s min"
+msgid_plural "%s mins"
+msgstr[0] "%s мин."
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/core/class-date-time.php:54
+msgid "just now"
+msgstr "только что"
+
+#: includes/core/class-cron.php:62
+msgid "Once Weekly"
+msgstr "Раз в неделю"
+
+#: includes/core/class-builtin.php:1837
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+#: includes/core/class-builtin.php:1836
+msgid "Zambia"
+msgstr "Замбия"
+
+#: includes/core/class-builtin.php:1835
+msgid "Yemen"
+msgstr "Йемен"
+
+#: includes/core/class-builtin.php:1834
+msgid "Western Sahara"
+msgstr "Западная Сахара"
+
+#: includes/core/class-builtin.php:1833
+msgid "Wallis and Futuna"
+msgstr "Уоллис и Футуна"
+
+#: includes/core/class-builtin.php:1832
+msgid "Virgin Islands, U.S."
+msgstr "Виргинские острова, США"
+
+#: includes/core/class-builtin.php:1831
+msgid "Virgin Islands, British"
+msgstr "Виргинские острова, Великобритания"
+
+#: includes/core/class-builtin.php:1830
+msgid "Viet Nam"
+msgstr "Вьетнам"
+
+#: includes/core/class-builtin.php:1829
+msgid "Venezuela, Bolivarian Republic of"
+msgstr "Венесуэла, Боливарианская Республика"
+
+#: includes/core/class-builtin.php:1828
+msgid "Vanuatu"
+msgstr "Вануату"
+
+#: includes/core/class-builtin.php:1827
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+#: includes/core/class-builtin.php:1826
+msgid "Uruguay"
+msgstr "Уругвай"
+
+#: includes/core/class-builtin.php:1825
+msgid "United States Minor Outlying Islands"
+msgstr "Внешние малые острова США"
+
+#: includes/core/class-builtin.php:1824
+msgid "United States"
+msgstr "Соединённые Штаты Америки"
+
+#: includes/core/class-builtin.php:1823
+msgid "United Kingdom"
+msgstr "Великобритания"
+
+#: includes/core/class-builtin.php:1822
+msgid "United Arab Emirates"
+msgstr "Объединённые Арабские Эмираты"
+
+#: includes/core/class-builtin.php:1821
+msgid "Ukraine"
+msgstr "Украина"
+
+#: includes/core/class-builtin.php:1820
+msgid "Uganda"
+msgstr "Уганда"
+
+#: includes/core/class-builtin.php:1819
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+#: includes/core/class-builtin.php:1818
+msgid "Turks and Caicos Islands"
+msgstr "Теркс и Кайкос"
+
+#: includes/core/class-builtin.php:1817
+msgid "Turkmenistan"
+msgstr "Туркменистан"
+
+#: includes/core/class-builtin.php:1816
+msgid "Turkey"
+msgstr "Турция"
+
+#: includes/core/class-builtin.php:1815
+msgid "Tunisia"
+msgstr "Тунис"
+
+#: includes/core/class-builtin.php:1814
+msgid "Trinidad and Tobago"
+msgstr "Тринидад и Тобаго"
+
+#: includes/core/class-builtin.php:1812
+msgid "Tokelau"
+msgstr "Токелау"
+
+#: includes/core/class-builtin.php:1811
+msgid "Togo"
+msgstr "Того"
+
+#: includes/core/class-builtin.php:1810
+msgid "Timor-Leste"
+msgstr "Восточный Тимор"
+
+#: includes/core/class-builtin.php:1809
+msgid "Thailand"
+msgstr "Таиланд"
+
+#: includes/core/class-builtin.php:1808
+msgid "Tanzania, United Republic of"
+msgstr "Танзания, Объединенная Республика"
+
+#: includes/core/class-builtin.php:1807
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+#: includes/core/class-builtin.php:1806
+msgid "Taiwan, Province of China"
+msgstr "Тайвань, провинция Китая"
+
+#: includes/core/class-builtin.php:1805
+msgid "Syrian Arab Republic"
+msgstr "Сирийская Арабская Республика"
+
+#: includes/core/class-builtin.php:1804
+msgid "Switzerland"
+msgstr "Швейцария"
+
+#: includes/core/class-builtin.php:1803
+msgid "Sweden"
+msgstr "Швеция"
+
+#: includes/core/class-builtin.php:1802
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+#: includes/core/class-builtin.php:1801
+msgid "Svalbard and Jan Mayen"
+msgstr "Свальбард и Ян-Майен"
+
+#: includes/core/class-builtin.php:1800
+msgid "Suriname"
+msgstr "Суринам"
+
+#: includes/core/class-builtin.php:1799
+msgid "Sudan"
+msgstr "Судан"
+
+#: includes/core/class-builtin.php:1798
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+#: includes/core/class-builtin.php:1797
+msgid "Spain"
+msgstr "Испания"
+
+#: includes/core/class-builtin.php:1796
+msgid "South Sudan"
+msgstr "Южный Судан"
+
+#: includes/core/class-builtin.php:1795
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Южная Георгия и Южные Сандвичевы острова"
+
+#: includes/core/class-builtin.php:1794
+msgid "South Africa"
+msgstr "ЮАР"
+
+#: includes/core/class-builtin.php:1793
+msgid "Somalia"
+msgstr "Сомали"
+
+#: includes/core/class-builtin.php:1792
+msgid "Solomon Islands"
+msgstr "Соломоновы острова"
+
+#: includes/core/class-builtin.php:1791
+msgid "Slovenia"
+msgstr "Словения"
+
+#: includes/core/class-builtin.php:1790
+msgid "Slovakia"
+msgstr "Словакия"
+
+#: includes/core/class-builtin.php:1789
+msgid "Singapore"
+msgstr "Сингапур"
+
+#: includes/core/class-builtin.php:1788
+msgid "Sierra Leone"
+msgstr "Сьерра-Леоне"
+
+#: includes/core/class-builtin.php:1787
+msgid "Seychelles"
+msgstr "Сейшельские острова"
+
+#: includes/core/class-builtin.php:1786
+msgid "Serbia"
+msgstr "Сербия"
+
+#: includes/core/class-builtin.php:1785
+msgid "Senegal"
+msgstr "Сенегал"
+
+#: includes/core/class-builtin.php:1784
+msgid "Saudi Arabia"
+msgstr "Саудовская Аравия"
+
+#: includes/core/class-builtin.php:1783
+msgid "Sao Tome and Principe"
+msgstr "Сан-Томе и Принсипи"
+
+#: includes/core/class-builtin.php:1782
+msgid "San Marino"
+msgstr "Сан-Марино"
+
+#: includes/core/class-builtin.php:1781
+msgid "Samoa"
+msgstr "Самоа"
+
+#: includes/core/class-builtin.php:1780
+msgid "Saint Vincent and the Grenadines"
+msgstr "Сент-Винсент и Гренадины"
+
+#: includes/core/class-builtin.php:1779
+msgid "Saint Pierre and Miquelon"
+msgstr "Сен-Пьер и Микелон"
+
+#: includes/core/class-builtin.php:1778
+msgid "Saint Martin (French part)"
+msgstr "Сен-Мартен (французская часть)"
+
+#: includes/core/class-builtin.php:1777
+msgid "Saint Lucia"
+msgstr "Сент-Люсия"
+
+#: includes/core/class-builtin.php:1776
+msgid "Saint Kitts and Nevis"
+msgstr "Сент-Китс и Невис"
+
+#: includes/core/class-builtin.php:1775
+msgid "Saint Helena"
+msgstr "Остров Святой Елены"
+
+#: includes/core/class-builtin.php:1774
+msgid "Saint Barthélemy"
+msgstr "Сен-Бартелеми"
+
+#: includes/core/class-builtin.php:1773
+msgid "Rwanda"
+msgstr "Руанда"
+
+#: includes/core/class-builtin.php:1772
+msgid "Russian Federation"
+msgstr "Российская Федерация"
+
+#: includes/core/class-builtin.php:1771
+msgid "Romania"
+msgstr "Румыния"
+
+#: includes/core/class-builtin.php:1770
+msgid "Réunion"
+msgstr "Реюньон"
+
+#: includes/core/class-builtin.php:1769
+msgid "Qatar"
+msgstr "Катар"
+
+#: includes/core/class-builtin.php:1768
+msgid "Puerto Rico"
+msgstr "Пуэрто-Рико"
+
+#: includes/core/class-builtin.php:1767
+msgid "Portugal"
+msgstr "Португалия"
+
+#: includes/core/class-builtin.php:1766
+msgid "Poland"
+msgstr "Польша"
+
+#: includes/core/class-builtin.php:1765
+msgid "Pitcairn"
+msgstr "Питкэрн"
+
+#: includes/core/class-builtin.php:1764
+msgid "Philippines"
+msgstr "Филиппины"
+
+#: includes/core/class-builtin.php:1763
+msgid "Peru"
+msgstr "Перу"
+
+#: includes/core/class-builtin.php:1762
+msgid "Paraguay"
+msgstr "Парагвай"
+
+#: includes/core/class-builtin.php:1761
+msgid "Papua New Guinea"
+msgstr "Папуа - Новая Гвинея"
+
+#: includes/core/class-builtin.php:1760
+msgid "Panama"
+msgstr "Панама"
+
+#: includes/core/class-builtin.php:1759
+msgid "Palestine"
+msgstr "Палестина"
+
+#: includes/core/class-builtin.php:1758
+msgid "Palau"
+msgstr "Палау"
+
+#: includes/core/class-builtin.php:1757
+msgid "Pakistan"
+msgstr "Пакистан"
+
+#: includes/core/class-builtin.php:1756
+msgid "Oman"
+msgstr "Оман"
+
+#: includes/core/class-builtin.php:1755
+msgid "Norway"
+msgstr "Норвегия"
+
+#: includes/core/class-builtin.php:1754
+msgid "Northern Mariana Islands"
+msgstr "Северные Марианские острова"
+
+#: includes/core/class-builtin.php:1753
+msgid "Norfolk Island"
+msgstr "Остров Норфолк"
+
+#: includes/core/class-builtin.php:1752
+msgid "Niue"
+msgstr "Ниуэ"
+
+#: includes/core/class-builtin.php:1751
+msgid "Nigeria"
+msgstr "Нигерия"
+
+#: includes/core/class-builtin.php:1750
+msgid "Niger"
+msgstr "Нигер"
+
+#: includes/core/class-builtin.php:1749
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+#: includes/core/class-builtin.php:1748
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+#: includes/core/class-builtin.php:1747
+msgid "New Caledonia"
+msgstr "Новая Каледония"
+
+#: includes/core/class-builtin.php:1746
+msgid "Netherlands Antilles"
+msgstr "Нидерландские Антильские острова"
+
+#: includes/core/class-builtin.php:1745
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+#: includes/core/class-builtin.php:1744
+msgid "Nepal"
+msgstr "Непал"
+
+#: includes/core/class-builtin.php:1742
+msgid "Namibia"
+msgstr "Намибия"
+
+#: includes/core/class-builtin.php:1741
+msgid "Myanmar"
+msgstr "Мьянма"
+
+#: includes/core/class-builtin.php:1740
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+#: includes/core/class-builtin.php:1739
+msgid "Morocco"
+msgstr "Марокко"
+
+#: includes/core/class-builtin.php:1738
+msgid "Montserrat"
+msgstr "Монсеррат"
+
+#: includes/core/class-builtin.php:1737
+msgid "Montenegro"
+msgstr "Черногория"
+
+#: includes/core/class-builtin.php:1736
+msgid "Mongolia"
+msgstr "Монголия"
+
+#: includes/core/class-builtin.php:1735
+msgid "Monaco"
+msgstr "Монако"
+
+#: includes/core/class-builtin.php:1734
+msgid "Moldova, Republic of"
+msgstr "Молдова, Республика"
+
+#: includes/core/class-builtin.php:1733
+msgid "Micronesia, Federated States of"
+msgstr "Микронезия, Федеративные Штаты"
+
+#: includes/core/class-builtin.php:1732
+msgid "Mexico"
+msgstr "Мексика"
+
+#: includes/core/class-builtin.php:1731
+msgid "Mayotte"
+msgstr "Майотта"
+
+#: includes/core/class-builtin.php:1730
+msgid "Mauritius"
+msgstr "Маврикий"
+
+#: includes/core/class-builtin.php:1729
+msgid "Mauritania"
+msgstr "Мавритания"
+
+#: includes/core/class-builtin.php:1728
+msgid "Martinique"
+msgstr "Мартиника"
+
+#: includes/core/class-builtin.php:1727
+msgid "Marshall Islands"
+msgstr "Маршалловы острова"
+
+#: includes/core/class-builtin.php:1726
+msgid "Malta"
+msgstr "Мальта"
+
+#: includes/core/class-builtin.php:1725
+msgid "Mali"
+msgstr "Мали"
+
+#: includes/core/class-builtin.php:1724
+msgid "Maldives"
+msgstr "Мальдивы"
+
+#: includes/core/class-builtin.php:1723
+msgid "Malaysia"
+msgstr "Малайзия"
+
+#: includes/core/class-builtin.php:1722
+msgid "Malawi"
+msgstr "Малави"
+
+#: includes/core/class-builtin.php:1721
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+#: includes/core/class-builtin.php:1720
+msgid "Macedonia, the former Yugoslav Republic of"
+msgstr "Македония, бывшая Югославская Республика"
+
+#: includes/core/class-builtin.php:1719
+msgid "Macao"
+msgstr "Макао"
+
+#: includes/core/class-builtin.php:1718
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+#: includes/core/class-builtin.php:1717
+msgid "Lithuania"
+msgstr "Литва"
+
+#: includes/core/class-builtin.php:1716
+msgid "Liechtenstein"
+msgstr "Лихтенштейн"
+
+#: includes/core/class-builtin.php:1715
+msgid "Libyan Arab Jamahiriya"
+msgstr "Ливийская Арабская Джамахирия"
+
+#: includes/core/class-builtin.php:1714
+msgid "Liberia"
+msgstr "Либерия"
+
+#: includes/core/class-builtin.php:1713
+msgid "Lesotho"
+msgstr "Лесото"
+
+#: includes/core/class-builtin.php:1712
+msgid "Lebanon"
+msgstr "Ливан"
+
+#: includes/core/class-builtin.php:1711
+msgid "Latvia"
+msgstr "Латвия"
+
+#: includes/core/class-builtin.php:1710
+msgid "Lao People's Democratic Republic"
+msgstr "Лаосская Народно-Демократическая Республика"
+
+#: includes/core/class-builtin.php:1709
+msgid "Kyrgyzstan"
+msgstr "Кыргызстан"
+
+#: includes/core/class-builtin.php:1708
+msgid "Kuwait"
+msgstr "Кувейт"
+
+#: includes/core/class-builtin.php:1707
+msgid "Korea, Republic of"
+msgstr "Корея, Республика"
+
+#: includes/core/class-builtin.php:1706
+msgid "Korea, Democratic People's Republic of"
+msgstr "Корейская Народно-Демократическая Республика"
+
+#: includes/core/class-builtin.php:1705
+msgid "Kiribati"
+msgstr "Кирибати"
+
+#: includes/core/class-builtin.php:1704
+msgid "Kenya"
+msgstr "Кения"
+
+#: includes/core/class-builtin.php:1703
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+#: includes/core/class-builtin.php:1702
+msgid "Jordan"
+msgstr "Иордания"
+
+#: includes/core/class-builtin.php:1701
+msgid "Jersey"
+msgstr "Джерси"
+
+#: includes/core/class-builtin.php:1700
+msgid "Japan"
+msgstr "Япония"
+
+#: includes/core/class-builtin.php:1699
+msgid "Jamaica"
+msgstr "Ямайка"
+
+#: includes/core/class-builtin.php:1698
+msgid "Italy"
+msgstr "Италия"
+
+#: includes/core/class-builtin.php:1697
+msgid "Israel"
+msgstr "Израиль"
+
+#: includes/core/class-builtin.php:1696
+msgid "Isle of Man"
+msgstr "Остров Мэн"
+
+#: includes/core/class-builtin.php:1695
+msgid "Ireland"
+msgstr "Ирландия"
+
+#: includes/core/class-builtin.php:1694
+msgid "Iraq"
+msgstr "Ирак"
+
+#: includes/core/class-builtin.php:1693
+msgid "Iran, Islamic Republic of"
+msgstr "Иран, Исламская Республика"
+
+#: includes/core/class-builtin.php:1692
+msgid "Indonesia"
+msgstr "Индонезия"
+
+#: includes/core/class-builtin.php:1691
+msgid "India"
+msgstr "Индия"
+
+#: includes/core/class-builtin.php:1690
+msgid "Iceland"
+msgstr "Исландия"
+
+#: includes/core/class-builtin.php:1689
+msgid "Hungary"
+msgstr "Венгрия"
+
+#: includes/core/class-builtin.php:1688
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+#: includes/core/class-builtin.php:1687
+msgid "Honduras"
+msgstr "Гондурас"
+
+#: includes/core/class-builtin.php:1686
+msgid "Holy See (Vatican City State)"
+msgstr "Святой Престол (государство-город Ватикан)"
+
+#: includes/core/class-builtin.php:1685
+msgid "Heard Island and McDonald Islands"
+msgstr "Остров Херд и острова Макдональд"
+
+#: includes/core/class-builtin.php:1684
+msgid "Haiti"
+msgstr "Гаити"
+
+#: includes/core/class-builtin.php:1683
+msgid "Guyana"
+msgstr "Гайана"
+
+#: includes/core/class-builtin.php:1682
+msgid "Guinea-Bissau"
+msgstr "Гвинея-Бисау"
+
+#: includes/core/class-builtin.php:1681
+msgid "Guinea"
+msgstr "Гвинея"
+
+#: includes/core/class-builtin.php:1680
+msgid "Guernsey"
+msgstr "Гернси"
+
+#: includes/core/class-builtin.php:1679
+msgid "Guatemala"
+msgstr "Гватемала"
+
+#: includes/core/class-builtin.php:1678
+msgid "Guam"
+msgstr "Гуам"
+
+#: includes/core/class-builtin.php:1677
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+#: includes/core/class-builtin.php:1676
+msgid "Grenada"
+msgstr "Гренада"
+
+#: includes/core/class-builtin.php:1675
+msgid "Greenland"
+msgstr "Гренландия"
+
+#: includes/core/class-builtin.php:1674
+msgid "Greece"
+msgstr "Греция"
+
+#: includes/core/class-builtin.php:1673
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+#: includes/core/class-builtin.php:1672
+msgid "Ghana"
+msgstr "Гана"
+
+#: includes/core/class-builtin.php:1671
+msgid "Germany"
+msgstr "Германия"
+
+#: includes/core/class-builtin.php:1670
+msgid "Georgia"
+msgstr "Грузия"
+
+#: includes/core/class-builtin.php:1669
+msgid "Gambia"
+msgstr "Гамбия"
+
+#: includes/core/class-builtin.php:1668
+msgid "Gabon"
+msgstr "Габон"
+
+#: includes/core/class-builtin.php:1667
+msgid "French Southern Territories"
+msgstr "Южные Французские Территории"
+
+#: includes/core/class-builtin.php:1666
+msgid "French Polynesia"
+msgstr "Французская Полинезия"
+
+#: includes/core/class-builtin.php:1665
+msgid "French Guiana"
+msgstr "Французская Гвиана"
+
+#: includes/core/class-builtin.php:1664
+msgid "France"
+msgstr "Франция"
+
+#: includes/core/class-builtin.php:1663
+msgid "Finland"
+msgstr "Финляндия"
+
+#: includes/core/class-builtin.php:1662
+msgid "Fiji"
+msgstr "Фиджи"
+
+#: includes/core/class-builtin.php:1661
+msgid "Faroe Islands"
+msgstr "Фарерские острова"
+
+#: includes/core/class-builtin.php:1660
+msgid "Falkland Islands (Malvinas)"
+msgstr "Фолклендские (Мальвинские) острова"
+
+#: includes/core/class-builtin.php:1659
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+#: includes/core/class-builtin.php:1658
+msgid "Estonia"
+msgstr "Эстония"
+
+#: includes/core/class-builtin.php:1657
+msgid "Eritrea"
+msgstr "Эритрея"
+
+#: includes/core/class-builtin.php:1656
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+#: includes/core/class-builtin.php:1655
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+#: includes/core/class-builtin.php:1654
+msgid "Egypt"
+msgstr "Египет"
+
+#: includes/core/class-builtin.php:1653
+msgid "Ecuador"
+msgstr "Эквадор"
+
+#: includes/core/class-builtin.php:1652
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+#: includes/core/class-builtin.php:1651
+msgid "Dominica"
+msgstr "Доминика"
+
+#: includes/core/class-builtin.php:1650
+msgid "Djibouti"
+msgstr "Джибути"
+
+#: includes/core/class-builtin.php:1649
+msgid "Denmark"
+msgstr "Дания"
+
+#: includes/core/class-builtin.php:1648
+msgid "Czech Republic"
+msgstr "Чехия"
+
+#: includes/core/class-builtin.php:1647
+msgid "Cyprus"
+msgstr "Кипр"
+
+#: includes/core/class-builtin.php:1646
+msgid "Cuba"
+msgstr "Куба"
+
+#: includes/core/class-builtin.php:1645
+msgid "Croatia"
+msgstr "Хорватия"
+
+#: includes/core/class-builtin.php:1644
+msgid "Côte d'Ivoire"
+msgstr "Кот-д'Ивуар, Берег Слоновой Кости"
+
+#: includes/core/class-builtin.php:1643
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+#: includes/core/class-builtin.php:1642
+msgid "Cook Islands"
+msgstr "Острова Кука"
+
+#: includes/core/class-builtin.php:1641
+msgid "Congo, the Democratic Republic of the"
+msgstr "Конго, Демократическая Республика"
+
+#: includes/core/class-builtin.php:1640
+msgid "Congo"
+msgstr "Конго"
+
+#: includes/core/class-builtin.php:1639
+msgid "Comoros"
+msgstr "Коморские острова"
+
+#: includes/core/class-builtin.php:1638
+msgid "Colombia"
+msgstr "Колумбия"
+
+#: includes/core/class-builtin.php:1637
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосовые (Килинг) острова"
+
+#: includes/core/class-builtin.php:1636
+msgid "Christmas Island"
+msgstr "Остров Рождества"
+
+#: includes/core/class-builtin.php:1635
+msgid "China"
+msgstr "Китай"
+
+#: includes/core/class-builtin.php:1634
+msgid "Chile"
+msgstr "Чили"
+
+#: includes/core/class-builtin.php:1633
+msgid "Chad"
+msgstr "Чад"
+
+#: includes/core/class-builtin.php:1632
+msgid "Central African Republic"
+msgstr "Центрально-Африканская Республика"
+
+#: includes/core/class-builtin.php:1631
+msgid "Cayman Islands"
+msgstr "Каймановы острова"
+
+#: includes/core/class-builtin.php:1630
+msgid "Cape Verde"
+msgstr "Кабо-Верде"
+
+#: includes/core/class-builtin.php:1629
+msgid "Canada"
+msgstr "Канада"
+
+#: includes/core/class-builtin.php:1628
+msgid "Cameroon"
+msgstr "Камерун"
+
+#: includes/core/class-builtin.php:1627
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+#: includes/core/class-builtin.php:1626
+msgid "Burundi"
+msgstr "Бурунди"
+
+#: includes/core/class-builtin.php:1625
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+#: includes/core/class-builtin.php:1624
+msgid "Bulgaria"
+msgstr "Болгария"
+
+#: includes/core/class-builtin.php:1623
+msgid "Brunei Darussalam"
+msgstr "Бруней-Даруссалам"
+
+#: includes/core/class-builtin.php:1622
+msgid "British Indian Ocean Territory"
+msgstr "Британская территория в Индийском океане"
+
+#: includes/core/class-builtin.php:1621
+msgid "Brazil"
+msgstr "Бразилия"
+
+#: includes/core/class-builtin.php:1620
+msgid "Bouvet Island"
+msgstr "Остров Буве"
+
+#: includes/core/class-builtin.php:1619
+msgid "Botswana"
+msgstr "Ботсвана"
+
+#: includes/core/class-builtin.php:1618
+msgid "Bosnia and Herzegovina"
+msgstr "Босния и Герцеговина"
+
+#: includes/core/class-builtin.php:1617
+msgid "Bolivia, Plurinational State of"
+msgstr "Боливия, многонациональное государство"
+
+#: includes/core/class-builtin.php:1616
+msgid "Bhutan"
+msgstr "Бутан"
+
+#: includes/core/class-builtin.php:1615
+msgid "Bermuda"
+msgstr "Бермудские острова"
+
+#: includes/core/class-builtin.php:1614
+msgid "Benin"
+msgstr "Бенин"
+
+#: includes/core/class-builtin.php:1613
+msgid "Belize"
+msgstr "Белиз"
+
+#: includes/core/class-builtin.php:1612
+msgid "Belgium"
+msgstr "Бельгия"
+
+#: includes/core/class-builtin.php:1611
+msgid "Belarus"
+msgstr "Беларусь"
+
+#: includes/core/class-builtin.php:1610
+msgid "Barbados"
+msgstr "Барбадос"
+
+#: includes/core/class-builtin.php:1609
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+#: includes/core/class-builtin.php:1608
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+#: includes/core/class-builtin.php:1607
+msgid "Bahamas"
+msgstr "Багамские острова"
+
+#: includes/core/class-builtin.php:1606
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+#: includes/core/class-builtin.php:1605
+msgid "Austria"
+msgstr "Австрия"
+
+#: includes/core/class-builtin.php:1604
+msgid "Australia"
+msgstr "Австралия"
+
+#: includes/core/class-builtin.php:1603
+msgid "Aruba"
+msgstr "Аруба"
+
+#: includes/core/class-builtin.php:1602
+msgid "Armenia"
+msgstr "Армения"
+
+#: includes/core/class-builtin.php:1601
+msgid "Argentina"
+msgstr "Аргентина"
+
+#: includes/core/class-builtin.php:1600
+msgid "Antigua and Barbuda"
+msgstr "Антигуа и Барбуда"
+
+#: includes/core/class-builtin.php:1599
+msgid "Antarctica"
+msgstr "Антарктида"
+
+#: includes/core/class-builtin.php:1598
+msgid "Anguilla"
+msgstr "Ангилья"
+
+#: includes/core/class-builtin.php:1597
+msgid "Angola"
+msgstr "Ангола"
+
+#: includes/core/class-builtin.php:1596
+msgid "Andorra"
+msgstr "Андорра"
+
+#: includes/core/class-builtin.php:1595
+msgid "American Samoa"
+msgstr "Американское Самоа"
+
+#: includes/core/class-builtin.php:1594
+msgid "Algeria"
+msgstr "Алжир"
+
+#: includes/core/class-builtin.php:1593
+msgid "Albania"
+msgstr "Албания"
+
+#: includes/core/class-builtin.php:1592
+msgid "Åland Islands"
+msgstr "Аландские острова"
+
+#: includes/core/class-builtin.php:1591
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+#: includes/core/class-builtin.php:1585
+msgid "Zulu"
+msgstr "Зулу"
+
+#: includes/core/class-builtin.php:1584
+msgid "Chinese"
+msgstr "Китайский"
+
+#: includes/core/class-builtin.php:1583
+msgid "Zhuang"
+msgstr "Чжуан"
+
+#: includes/core/class-builtin.php:1582
+msgid "Yoruba"
+msgstr "Йоруба"
+
+#: includes/core/class-builtin.php:1581
+msgid "Yiddish"
+msgstr "Идиш"
+
+#: includes/core/class-builtin.php:1580
+msgid "Xhosa"
+msgstr "Коса"
+
+#: includes/core/class-builtin.php:1579
+msgid "Wolof"
+msgstr "Волоф"
+
+#: includes/core/class-builtin.php:1578
+msgid "Walloon"
+msgstr "Валлонский"
+
+#: includes/core/class-builtin.php:1577
+msgid "Volapuk"
+msgstr "Волапюк"
+
+#: includes/core/class-builtin.php:1576
+msgid "Vietnamese"
+msgstr "Вьетнамский"
+
+#: includes/core/class-builtin.php:1575
+msgid "Venda"
+msgstr "Венда"
+
+#: includes/core/class-builtin.php:1574
+msgid "Uzbek"
+msgstr "Узбекский"
+
+#: includes/core/class-builtin.php:1573
+msgid "Urdu"
+msgstr "Урду"
+
+#: includes/core/class-builtin.php:1572
+msgid "Ukrainian"
+msgstr "Украинский"
+
+#: includes/core/class-builtin.php:1571
+msgid "Uighur"
+msgstr "Уйгурский"
+
+#: includes/core/class-builtin.php:1570
+msgid "Tahitian"
+msgstr "Таитянский"
+
+#: includes/core/class-builtin.php:1569
+msgid "Twi"
+msgstr "Чви"
+
+#: includes/core/class-builtin.php:1568
+msgid "Tatar"
+msgstr "Татарский"
+
+#: includes/core/class-builtin.php:1567
+msgid "Tsonga"
+msgstr "Тсонга"
+
+#: includes/core/class-builtin.php:1566
+msgid "Turkish"
+msgstr "Турецкий"
+
+#: includes/core/class-builtin.php:1565 includes/core/class-builtin.php:1813
+msgid "Tonga"
+msgstr "Тонга"
+
+#: includes/core/class-builtin.php:1564
+msgid "Tswana"
+msgstr "Тсвана"
+
+#: includes/core/class-builtin.php:1563
+msgid "Tagalog"
+msgstr "Тагалог"
+
+#: includes/core/class-builtin.php:1562
+msgid "Turkmen"
+msgstr "Туркменский"
+
+#: includes/core/class-builtin.php:1561
+msgid "Tigrinya"
+msgstr "Тигринья"
+
+#: includes/core/class-builtin.php:1560
+msgid "Thai"
+msgstr "Тайский"
+
+#: includes/core/class-builtin.php:1559
+msgid "Tajik"
+msgstr "Таджикский"
+
+#: includes/core/class-builtin.php:1558
+msgid "Telugu"
+msgstr "Телугу"
+
+#: includes/core/class-builtin.php:1557
+msgid "Tamil"
+msgstr "Тамильский"
+
+#: includes/core/class-builtin.php:1556
+msgid "Swahili"
+msgstr "Суахили"
+
+#: includes/core/class-builtin.php:1555
+msgid "Swedish"
+msgstr "Шведский"
+
+#: includes/core/class-builtin.php:1554
+msgid "Sundanese"
+msgstr "Суданский"
+
+#: includes/core/class-builtin.php:1553
+msgid "Southern Sotho"
+msgstr "Южное Сото"
+
+#: includes/core/class-builtin.php:1552
+msgid "Swati"
+msgstr "Суати"
+
+#: includes/core/class-builtin.php:1551
+msgid "Serbian"
+msgstr "Сербский"
+
+#: includes/core/class-builtin.php:1550
+msgid "Albanian"
+msgstr "Албанский"
+
+#: includes/core/class-builtin.php:1549
+msgid "Somali"
+msgstr "Сомалийский"
+
+#: includes/core/class-builtin.php:1548
+msgid "Shona"
+msgstr "Шона"
+
+#: includes/core/class-builtin.php:1547
+msgid "Samoan"
+msgstr "Самоанский"
+
+#: includes/core/class-builtin.php:1546
+msgid "Slovenian"
+msgstr "Словенский"
+
+#: includes/core/class-builtin.php:1545
+msgid "Slovak"
+msgstr "Словацкий"
+
+#: includes/core/class-builtin.php:1544
+msgid "Sinhala"
+msgstr "Сингальский"
+
+#: includes/core/class-builtin.php:1543
+msgid "Sango"
+msgstr "Санго"
+
+#: includes/core/class-builtin.php:1542
+msgid "Northern Sami"
+msgstr "Северное Сами"
+
+#: includes/core/class-builtin.php:1541
+msgid "Sindhi"
+msgstr "Синдхи"
+
+#: includes/core/class-builtin.php:1540
+msgid "Sardinian"
+msgstr "Сардинский"
+
+#: includes/core/class-builtin.php:1539
+msgid "Sanskrit"
+msgstr "Санскрит"
+
+#: includes/core/class-builtin.php:1538
+msgid "Kinyarwanda"
+msgstr "Киньяруандский"
+
+#: includes/core/class-builtin.php:1537
+msgid "Russian"
+msgstr "Русский"
+
+#: includes/core/class-builtin.php:1536
+msgid "Romanian"
+msgstr "Румынский"
+
+#: includes/core/class-builtin.php:1535
+msgid "Kirundi"
+msgstr "Кирунди"
+
+#: includes/core/class-builtin.php:1534
+msgid "Raeto-Romance"
+msgstr "Ретороманский"
+
+#: includes/core/class-builtin.php:1533
+msgid "Quechua"
+msgstr "Кечуа"
+
+#: includes/core/class-builtin.php:1532
+msgid "Portuguese"
+msgstr "Португальский"
+
+#: includes/core/class-builtin.php:1531
+msgid "Pashto"
+msgstr "Пушту"
+
+#: includes/core/class-builtin.php:1530
+msgid "Polish"
+msgstr "Польский"
+
+#: includes/core/class-builtin.php:1529
+msgid "Pali"
+msgstr "Пали"
+
+#: includes/core/class-builtin.php:1528
+msgid "Panjabi"
+msgstr "Панджаби"
+
+#: includes/core/class-builtin.php:1527
+msgid "Ossetian"
+msgstr "Осетинский"
+
+#: includes/core/class-builtin.php:1526
+msgid "Oriya"
+msgstr "Ория"
+
+#: includes/core/class-builtin.php:1525
+msgid "Oromo"
+msgstr "Оромо"
+
+#: includes/core/class-builtin.php:1524
+msgid "Ojibwa"
+msgstr "Оджибва"
+
+#: includes/core/class-builtin.php:1523
+msgid "Occitan"
+msgstr "Окситанский"
+
+#: includes/core/class-builtin.php:1522
+msgid "Chichewa"
+msgstr "Chichewa"
+
+#: includes/core/class-builtin.php:1521
+msgid "Navajo"
+msgstr "Навахо"
+
+#: includes/core/class-builtin.php:1520
+msgid "South Ndebele"
+msgstr "Южное Ндебеле"
+
+#: includes/core/class-builtin.php:1519
+msgid "Norwegian"
+msgstr "Норвежский"
+
+#: includes/core/class-builtin.php:1518
+msgid "Norwegian Nynorsk"
+msgstr "Норвежский Нюнорск"
+
+#: includes/core/class-builtin.php:1517
+msgid "Dutch"
+msgstr "Голландский"
+
+#: includes/core/class-builtin.php:1516
+msgid "Ndonga"
+msgstr "Ндонга"
+
+#: includes/core/class-builtin.php:1515
+msgid "Nepali"
+msgstr "Непальский"
+
+#: includes/core/class-builtin.php:1514
+msgid "North Ndebele"
+msgstr "Северное Ндебеле"
+
+#: includes/core/class-builtin.php:1513
+msgid "Norwegian Bokmal"
+msgstr "Норвежский Бокмал"
+
+#: includes/core/class-builtin.php:1512 includes/core/class-builtin.php:1743
+msgid "Nauru"
+msgstr "Науру"
+
+#: includes/core/class-builtin.php:1511
+msgid "Burmese"
+msgstr "Бурмезе"
+
+#: includes/core/class-builtin.php:1510
+msgid "Maltese"
+msgstr "Малтезе"
+
+#: includes/core/class-builtin.php:1509
+msgid "Malay"
+msgstr "Малау"
+
+#: includes/core/class-builtin.php:1508
+msgid "Marathi"
+msgstr "Маратхи"
+
+#: includes/core/class-builtin.php:1507
+msgid "Mongolian"
+msgstr "Монгольский"
+
+#: includes/core/class-builtin.php:1506
+msgid "Malayalam"
+msgstr "Малаялам"
+
+#: includes/core/class-builtin.php:1505
+msgid "Macedonian"
+msgstr "Македонский"
+
+#: includes/core/class-builtin.php:1504
+msgid "Maori"
+msgstr "Маори"
+
+#: includes/core/class-builtin.php:1503
+msgid "Marshallese"
+msgstr "Маршаллезе"
+
+#: includes/core/class-builtin.php:1502
+msgid "Malagasy"
+msgstr "Малагасу"
+
+#: includes/core/class-builtin.php:1501
+msgid "Latvian"
+msgstr "Латвийский"
+
+#: includes/core/class-builtin.php:1500
+msgid "Luba-Katanga"
+msgstr "Луба-Катанга"
+
+#: includes/core/class-builtin.php:1499
+msgid "Lithuanian"
+msgstr "Литовский"
+
+#: includes/core/class-builtin.php:1498
+msgid "Lao"
+msgstr "Лаосский"
+
+#: includes/core/class-builtin.php:1497
+msgid "Lingala"
+msgstr "Лингала"
+
+#: includes/core/class-builtin.php:1496
+msgid "Limburgish"
+msgstr "Лимбургский"
+
+#: includes/core/class-builtin.php:1495
+msgid "Ganda"
+msgstr "Ганда"
+
+#: includes/core/class-builtin.php:1494
+msgid "Luxembourgish"
+msgstr "Люксембургский"
+
+#: includes/core/class-builtin.php:1493
+msgid "Latin"
+msgstr "Латынь"
+
+#: includes/core/class-builtin.php:1492
+msgid "Kirghiz"
+msgstr "Киргизский"
+
+#: includes/core/class-builtin.php:1491
+msgid "Cornish"
+msgstr "Корниш"
+
+#: includes/core/class-builtin.php:1490
+msgid "Komi"
+msgstr "Коми"
+
+#: includes/core/class-builtin.php:1489
+msgid "Kurdish"
+msgstr "Курдский"
+
+#: includes/core/class-builtin.php:1488
+msgid "Kashmiri"
+msgstr "Кашмирский"
+
+#: includes/core/class-builtin.php:1487
+msgid "Kanuri"
+msgstr "Канури"
+
+#: includes/core/class-builtin.php:1486
+msgid "Korean"
+msgstr "Корейский"
+
+#: includes/core/class-builtin.php:1485
+msgid "Kannada"
+msgstr "Каннада"
+
+#: includes/core/class-builtin.php:1484
+msgid "Khmer"
+msgstr "Кхмерский"
+
+#: includes/core/class-builtin.php:1483
+msgid "Kalaallisut"
+msgstr "Гренландский"
+
+#: includes/core/class-builtin.php:1482
+msgid "Kazakh"
+msgstr "Казахский"
+
+#: includes/core/class-builtin.php:1481
+msgid "Kwanyama"
+msgstr "Кваньяма"
+
+#: includes/core/class-builtin.php:1480
+msgid "Kikuyu"
+msgstr "Кикуйю"
+
+#: includes/core/class-builtin.php:1479
+msgid "Kongo"
+msgstr "Конго"
+
+#: includes/core/class-builtin.php:1478
+msgid "Georgian"
+msgstr "Грузинский"
+
+#: includes/core/class-builtin.php:1477
+msgid "Javanese"
+msgstr "Яванский"
+
+#: includes/core/class-builtin.php:1476
+msgid "Japanese"
+msgstr "Японский"
+
+#: includes/core/class-builtin.php:1475
+msgid "Inuktitut"
+msgstr "Инуктитут"
+
+#: includes/core/class-builtin.php:1474
+msgid "Italian"
+msgstr "Итальянский"
+
+#: includes/core/class-builtin.php:1473
+msgid "Icelandic"
+msgstr "Исландский"
+
+#: includes/core/class-builtin.php:1472
+msgid "Ido"
+msgstr "Идо"
+
+#: includes/core/class-builtin.php:1471
+msgid "Inupiaq"
+msgstr "Инупиак"
+
+#: includes/core/class-builtin.php:1470
+msgid "Sichuan Yi"
+msgstr "Сычуань Йи"
+
+#: includes/core/class-builtin.php:1469
+msgid "Igbo"
+msgstr "Игбо"
+
+#: includes/core/class-builtin.php:1468
+msgid "Interlingue"
+msgstr "Интерлингве"
+
+#: includes/core/class-builtin.php:1467
+msgid "Indonesian"
+msgstr "Индонезийский"
+
+#: includes/core/class-builtin.php:1466
+msgid "Interlingua (International Auxiliary Language Association)"
+msgstr "Интерлингва (Международная ассоциация вспомогательных языков)"
+
+#: includes/core/class-builtin.php:1465
+msgid "Herero"
+msgstr "Гереро"
+
+#: includes/core/class-builtin.php:1464
+msgid "Armenian"
+msgstr "Армянский"
+
+#: includes/core/class-builtin.php:1463
+msgid "Hungarian"
+msgstr "Венгерский"
+
+#: includes/core/class-builtin.php:1462
+msgid "Haitian"
+msgstr "Гаитянский"
+
+#: includes/core/class-builtin.php:1461
+msgid "Croatian"
+msgstr "Хорватский"
+
+#: includes/core/class-builtin.php:1460
+msgid "Hiri Motu"
+msgstr "Хири Моту"
+
+#: includes/core/class-builtin.php:1459
+msgid "Hindi"
+msgstr "Хинди"
+
+#: includes/core/class-builtin.php:1458
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: includes/core/class-builtin.php:1457
+msgid "Hausa"
+msgstr "Хауса"
+
+#: includes/core/class-builtin.php:1456
+msgid "Manx"
+msgstr "Манкс"
+
+#: includes/core/class-builtin.php:1455
+msgid "Gujarati"
+msgstr "Гуджарати"
+
+#: includes/core/class-builtin.php:1454
+msgid "Guarani"
+msgstr "Гуарани"
+
+#: includes/core/class-builtin.php:1453
+msgid "Galician"
+msgstr "Галисийский"
+
+#: includes/core/class-builtin.php:1452
+msgid "Scottish Gaelic"
+msgstr "Шотландский гэльский"
+
+#: includes/core/class-builtin.php:1451
+msgid "Irish"
+msgstr "Ирландский"
+
+#: includes/core/class-builtin.php:1450
+msgid "Western Frisian"
+msgstr "Западный Фризский"
+
+#: includes/core/class-builtin.php:1449
+msgid "French"
+msgstr "Французский"
+
+#: includes/core/class-builtin.php:1448
+msgid "Faroese"
+msgstr "Фарерский"
+
+#: includes/core/class-builtin.php:1447
+msgid "Fijian"
+msgstr "Фиджийский"
+
+#: includes/core/class-builtin.php:1446
+msgid "Finnish"
+msgstr "Финский"
+
+#: includes/core/class-builtin.php:1445
+msgid "Fulah"
+msgstr "Фула"
+
+#: includes/core/class-builtin.php:1444
+msgid "Persian"
+msgstr "Персидский"
+
+#: includes/core/class-builtin.php:1443
+msgid "Basque"
+msgstr "Баскский"
+
+#: includes/core/class-builtin.php:1442
+msgid "Estonian"
+msgstr "Эстонский"
+
+#: includes/core/class-builtin.php:1441
+msgid "Spanish"
+msgstr "Испанский"
+
+#: includes/core/class-builtin.php:1440
+msgid "Esperanto"
+msgstr "Эсперанто"
+
+#: includes/core/class-builtin.php:1439
+msgid "English"
+msgstr "Английский"
+
+#: includes/core/class-builtin.php:1438
+msgid "Greek"
+msgstr "Греческий"
+
+#: includes/core/class-builtin.php:1437
+msgid "Ewe"
+msgstr "Эве"
+
+#: includes/core/class-builtin.php:1436
+msgid "Dzongkha"
+msgstr "Дзонг-кэ"
+
+#: includes/core/class-builtin.php:1435
+msgid "Divehi"
+msgstr "Дивехи"
+
+#: includes/core/class-builtin.php:1434
+msgid "German"
+msgstr "Немецкий"
+
+#: includes/core/class-builtin.php:1433
+msgid "Danish"
+msgstr "Датский"
+
+#: includes/core/class-builtin.php:1432
+msgid "Welsh"
+msgstr "Валлийский"
+
+#: includes/core/class-builtin.php:1431
+msgid "Chuvash"
+msgstr "Чувашский"
+
+#: includes/core/class-builtin.php:1430
+msgid "Church Slavic"
+msgstr "Церковнославянский"
+
+#: includes/core/class-builtin.php:1429
+msgid "Czech"
+msgstr "Чешский"
+
+#: includes/core/class-builtin.php:1428
+msgid "Cree"
+msgstr "Кри"
+
+#: includes/core/class-builtin.php:1427
+msgid "Corsican"
+msgstr "Корсиканский"
+
+#: includes/core/class-builtin.php:1426
+msgid "Chamorro"
+msgstr "Chamorro"
+
+#: includes/core/class-builtin.php:1425
+msgid "Chechen"
+msgstr "Чеченский"
+
+#: includes/core/class-builtin.php:1424
+msgid "Catalan"
+msgstr "Каталонский"
+
+#: includes/core/class-builtin.php:1423
+msgid "Bosnian"
+msgstr "Боснийский"
+
+#: includes/core/class-builtin.php:1422
+msgid "Breton"
+msgstr "Бретонский"
+
+#: includes/core/class-builtin.php:1421
+msgid "Tibetan"
+msgstr "Тибетский"
+
+#: includes/core/class-builtin.php:1420
+msgid "Bengali"
+msgstr "Бенгали"
+
+#: includes/core/class-builtin.php:1419
+msgid "Bambara"
+msgstr "Bambara"
+
+#: includes/core/class-builtin.php:1418
+msgid "Bislama"
+msgstr "Бислама"
+
+#: includes/core/class-builtin.php:1417
+msgid "Bihari"
+msgstr "Бихари"
+
+#: includes/core/class-builtin.php:1416
+msgid "Bulgarian"
+msgstr "Болгарский"
+
+#: includes/core/class-builtin.php:1415
+msgid "Belarusian"
+msgstr "Беларусский"
+
+#: includes/core/class-builtin.php:1414
+msgid "Bashkir"
+msgstr "Башкирский"
+
+#: includes/core/class-builtin.php:1413
+msgid "Azerbaijani"
+msgstr "Азербайджанский"
+
+#: includes/core/class-builtin.php:1412
+msgid "Aymara"
+msgstr "Аймара"
+
+#: includes/core/class-builtin.php:1411
+msgid "Avaric"
+msgstr "Аварский"
+
+#: includes/core/class-builtin.php:1410
+msgid "Assamese"
+msgstr "Assamese"
+
+#: includes/core/class-builtin.php:1409
+msgid "Arabic"
+msgstr "Арабский"
+
+#: includes/core/class-builtin.php:1408
+msgid "Aragonese"
+msgstr "Арагонский"
+
+#: includes/core/class-builtin.php:1407
+msgid "Amharic"
+msgstr "Амхарский"
+
+#: includes/core/class-builtin.php:1406
+msgid "Akan"
+msgstr "Акан"
+
+#: includes/core/class-builtin.php:1405
+msgid "Afrikaans"
+msgstr "Африкаанс"
+
+#: includes/core/class-builtin.php:1404
+msgid "Avestan"
+msgstr "Авестан"
+
+#: includes/core/class-builtin.php:1403
+msgid "Abkhazian"
+msgstr "Абхазский"
+
+#: includes/core/class-builtin.php:1402
+msgid "Afar"
+msgstr "Афар"
+
+#: includes/core/class-builtin.php:1363
+msgid "Custom Validation"
+msgstr "Пользовательские условия проверки"
+
+#: includes/core/class-builtin.php:1362
+msgid "YouTube Profile"
+msgstr "Профиль YouTube"
+
+#: includes/core/class-builtin.php:750 includes/core/class-builtin.php:753
+#: includes/core/class-builtin.php:1361
+msgid "Website URL"
+msgstr "URL-адрес вебсайта"
+
+#: includes/core/class-builtin.php:1360
+msgid "Unique Username/E-mail"
+msgstr "Уникальное имя пользователя/E-mail"
+
+#: includes/core/class-builtin.php:1359
+msgid "Unique Username"
+msgstr "Уникальное имя пользователя"
+
+#: includes/core/class-builtin.php:1358
+msgid "Unique Metakey value"
+msgstr "Уникальное значение мета-ключа"
+
+#: includes/core/class-builtin.php:1357
+msgid "Unique E-mail"
+msgstr "Уникальный E-mail"
+
+#: includes/core/class-builtin.php:1355
+msgid "Twitter URL"
+msgstr "Ссылка Twitter"
+
+#: includes/core/class-builtin.php:1354
+msgid "SoundCloud Profile"
+msgstr "Профиль SoundCloud"
+
+#: includes/core/class-builtin.php:1351
+msgid "Numeric value only"
+msgstr "Только числовое значение"
+
+#: includes/core/class-builtin.php:1350
+msgid "Lowercase only"
+msgstr "Без заглавных букв"
+
+#: includes/core/class-builtin.php:1349
+msgid "VKontakte URL"
+msgstr "Ссылка ВКонтакте"
+
+#: includes/core/class-builtin.php:1348
+msgid "LinkedIn URL"
+msgstr "Ссылка LinkedIn"
+
+#: includes/core/class-builtin.php:1347
+msgid "Instagram URL"
+msgstr "Ссылка Instagram"
+
+#: includes/core/class-builtin.php:1346
+msgid "Google+ URL"
+msgstr "Ссылка Google+"
+
+#: includes/core/class-builtin.php:1345
+msgid "Facebook URL"
+msgstr "Ссылка Facebook"
+
+#: includes/core/class-builtin.php:1344
+msgid "English letters only"
+msgstr "только латиница"
+
+#: includes/core/class-builtin.php:1343
+msgid "Alpha-numeric value"
+msgstr "Альфа-цифровое значение"
+
+#: includes/core/class-builtin.php:1342
+msgid "Alphabetic value only"
+msgstr "Только алфавитное значение"
+
+#: includes/core/class-builtin.php:1156
+msgid "If you confirm, everything related to your profile will be deleted permanently from the site"
+msgstr "В случае подтверждения, вся связанная с Вашим профилем информация будет безвозвратно удалена с сайта"
+
+#: includes/core/class-builtin.php:1138
+msgid "Here you can hide yourself from appearing in public directory"
+msgstr "Здесь Вы можете скрыть свой профиль из публикуемого на сайте списка участников"
+
+#: includes/core/class-builtin.php:1134 includes/core/class-builtin.php:1137
+msgid "Hide my profile from directory"
+msgstr "Скрыть мой профиль в списке участников"
+
+#: includes/core/class-builtin.php:1122
+msgid "Who can see your public profile?"
+msgstr "Кто может видеть Ваш публичный профиль?"
+
+#: includes/core/class-builtin.php:1118 includes/core/class-builtin.php:1121
+msgid "Profile Privacy"
+msgstr "Настройки безопасности"
+
+#: includes/core/class-builtin.php:1108
+msgid "Enter your username or email"
+msgstr "Введите имя пользователя или адрес электронной почты"
+
+#: templates/password-reset.php:56
+msgid "To reset your password, please enter your email address or username below"
+msgstr "Чтобы сбросить пароль, введите адрес электронной почты или имя пользователя ниже"
+
+#: includes/class-config.php:137 includes/class-config.php:795
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:276
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:296
+msgid "Password Reset"
+msgstr "Сброс пароля"
+
+#: includes/core/class-builtin.php:1094
+msgid "Upload profile cover here"
+msgstr "Загрузите фото обложки сюда"
+
+#: includes/core/class-builtin.php:1090
+msgid "Cover Photo"
+msgstr "Фото обложки"
+
+#: includes/core/class-builtin.php:1080
+msgid "Upload your photo here"
+msgstr "Загрузите Ваше фото сюда"
+
+#: includes/core/class-builtin.php:1079
+msgid "Change your profile photo"
+msgstr "Сменить фото профиля"
+
+#: includes/core/class-builtin.php:1076
+msgid "Profile Photo"
+msgstr "Фотография профиля"
+
+#: includes/core/class-builtin.php:1062 includes/core/class-builtin.php:1065
+#: includes/core/class-member-directory.php:323
+msgid "Mobile Number"
+msgstr "Мобильный"
+
+#: includes/core/class-builtin.php:1050 includes/core/class-builtin.php:1053
+#: includes/core/class-builtin.php:1352
+#: includes/core/class-member-directory.php:322
+msgid "Phone Number"
+msgstr "Телефон"
+
+#: includes/core/class-builtin.php:1042
+msgid "Select languages"
+msgstr "Выберите языки"
+
+#: includes/core/class-builtin.php:1041
+msgid "Languages Spoken"
+msgstr "Говорю на языках"
+
+#: includes/core/class-builtin.php:1038
+#: includes/core/class-member-directory.php:312
+msgid "Languages"
+msgstr "Языки"
+
+#: includes/core/class-builtin.php:1027
+msgid "Roles (Radio)"
+msgstr "Роли (точечный выбор)"
+
+#: includes/core/class-builtin.php:1018 includes/core/class-builtin.php:1030
+msgid "Account Type"
+msgstr "Тип учётной записи"
+
+#: includes/core/class-builtin.php:1015
+msgid "Roles (Dropdown)"
+msgstr "Роли (список)"
+
+#: includes/core/class-builtin.php:997 includes/core/class-builtin.php:1000
+msgid "VKontakte"
+msgstr "ВКонтакте"
+
+#: includes/core/class-builtin.php:979 includes/core/class-builtin.php:982
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: includes/core/class-builtin.php:961 includes/core/class-builtin.php:964
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/core/class-builtin.php:946 includes/core/class-builtin.php:949
+#: includes/core/class-builtin.php:1353
+msgid "Skype ID"
+msgstr "Skype ID"
+
+#: includes/core/class-builtin.php:928 includes/core/class-builtin.php:931
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/core/class-builtin.php:910 includes/core/class-builtin.php:913
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/core/class-builtin.php:892 includes/core/class-builtin.php:895
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/core/class-builtin.php:874 includes/core/class-builtin.php:877
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/core/class-builtin.php:856 includes/core/class-builtin.php:859
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/core/class-builtin.php:848
+msgid "Choose a Country"
+msgstr "Выберите страну"
+
+#: includes/core/class-builtin.php:844 includes/core/class-builtin.php:847
+#: includes/core/class-member-directory.php:310
+msgid "Country"
+msgstr "Страна"
+
+#: includes/core/class-builtin.php:840
+msgid "Female"
+msgstr "Женщина"
+
+#: includes/core/class-builtin.php:840
+msgid "Male"
+msgstr "Мужчина"
+
+#: includes/core/class-builtin.php:833 includes/core/class-builtin.php:836
+#: includes/core/class-member-directory.php:311
+msgid "Gender"
+msgstr "Пол"
+
+#: includes/core/class-builtin.php:819 includes/core/class-builtin.php:822
+msgid "Birth Date"
+msgstr "Дата рождения"
+
+#: includes/core/class-builtin.php:806 includes/core/class-builtin.php:809
+#: includes/core/class-member-directory.php:321
+msgid "Biography"
+msgstr "Биография"
+
+#: includes/core/class-builtin.php:794 includes/core/class-builtin.php:797
+#: includes/core/class-member-directory.php:320
+msgid "Secondary E-mail Address"
+msgstr "Запасной адрес электронной почты"
+
+#: includes/core/class-builtin.php:783 includes/core/class-builtin.php:786
+msgid "E-mail Address"
+msgstr "Адрес электронной почты"
+
+#: includes/core/class-builtin.php:772 includes/core/class-builtin.php:775
+#: includes/core/class-member-directory.php:315
+msgid "Last Login"
+msgstr "Последний вход"
+
+#: includes/core/class-builtin.php:761 includes/core/class-builtin.php:764
+msgid "Registration Date"
+msgstr "Дата регистрации"
+
+#: includes/admin/core/class-admin-settings.php:567
+#: includes/core/class-builtin.php:740 includes/core/class-builtin.php:743
+#: includes/core/class-member-directory.php:290
+#: includes/core/class-member-directory.php:319
+msgid "Nickname"
+msgstr "Ник"
+
+#: includes/core/class-builtin.php:695 includes/core/class-builtin.php:698
+#: includes/core/class-builtin.php:1105
+msgid "Username or E-mail"
+msgstr "Имя пользователя или E-mail"
+
+#: includes/core/class-builtin.php:671 includes/core/class-user.php:1711
+msgid "Only me"
+msgstr "Только я"
+
+#: includes/admin/templates/access/restrict_content.php:64
+#: includes/admin/core/class-admin-navmenu.php:80
+#: includes/admin/core/class-admin-navmenu.php:241
+#: includes/admin/core/class-admin-metabox.php:396
+#: includes/admin/core/class-admin-metabox.php:548
+#: includes/admin/core/class-admin-metabox.php:2269
+#: includes/core/class-builtin.php:670
+#: includes/admin/assets/js/um-admin-blocks.js:95
+msgid "Everyone"
+msgstr "Все"
+
+#: includes/core/class-builtin.php:492
+msgid "You must add a shortcode to the content area"
+msgstr "Вы должны добавить шорткод в область содержимого страницы"
+
+#: includes/core/class-builtin.php:423
+msgid "Number of years is not valid"
+msgstr "Количество лет неверно"
+
+#: includes/core/class-builtin.php:383 includes/core/class-builtin.php:403
+msgid "Please enter a valid size"
+msgstr "Пожалуйста, введите размер правильно"
+
+#: includes/core/class-builtin.php:271 includes/core/class-builtin.php:291
+#: includes/core/class-builtin.php:311 includes/core/class-builtin.php:331
+msgid "You have not added any choices yet."
+msgstr "Вы ещё не добавили никаких вариантов."
+
+#: includes/core/class-builtin.php:225
+msgid "Number"
+msgstr "Число"
+
+#: includes/core/class-builtin.php:216 includes/core/class-builtin.php:232
+#: includes/core/class-builtin.php:248 includes/core/class-builtin.php:264
+#: includes/core/class-builtin.php:284 includes/core/class-builtin.php:304
+#: includes/core/class-builtin.php:324 includes/core/class-builtin.php:344
+#: includes/core/class-builtin.php:360 includes/core/class-builtin.php:376
+#: includes/core/class-builtin.php:396 includes/core/class-builtin.php:416
+#: includes/core/class-builtin.php:442 includes/core/class-builtin.php:458
+#: includes/core/class-builtin.php:475 includes/core/class-builtin.php:488
+#: includes/core/class-builtin.php:505 includes/core/class-builtin.php:518
+#: includes/core/class-builtin.php:531 includes/core/class-builtin.php:547
+#: includes/core/class-builtin.php:563 includes/core/class-builtin.php:579
+msgid "You must provide a title"
+msgstr "Необходимо ввести заголовок"
+
+#: includes/core/class-builtin.php:174
+msgid "The end of date range must be greater than the start of date range"
+msgstr "Конечное значение диапазона даты должно быть больше, чем начальное значение диапазона даты"
+
+#: includes/core/class-builtin.php:173
+msgid "Please enter a valid end date in the date range"
+msgstr "Пожалуйста, укажите допустимую конечную дату в диапазоне дат"
+
+#: includes/core/class-builtin.php:172
+msgid "Please provide a date range end"
+msgstr "Пожалуйста, укажите конечную дату диапазона дат"
+
+#: includes/core/class-builtin.php:158
+msgid "Please enter a valid start date in the date range"
+msgstr "Пожалуйста, укажите допустимую начальную дату в диапазоне дат"
+
+#: includes/core/class-builtin.php:157
+msgid "Please provide a date range beginning"
+msgstr "Пожалуйста, укажите начальную дату диапазона дат"
+
+#: includes/core/class-builtin.php:144
+msgid "Your meta key contains illegal characters. Please correct it."
+msgstr "Ваш мета-ключ содержит недопустимые символы. Пожалуйста, исправьте это."
+
+#: includes/core/class-builtin.php:143
+msgid "Your meta key already exists in your fields list"
+msgstr "Ваш мета-ключ уже существует в вашем списке полей"
+
+#: includes/core/class-builtin.php:142
+msgid "Your meta key is a predefined reserved key and cannot be used"
+msgstr "Ваш мета-ключ оказался в числе предопределённых зарезервированных ключей и не может использоваться"
+
+#: includes/core/class-builtin.php:141
+msgid "Your meta key is a reserved core field and cannot be used"
+msgstr "Ваш мета-ключ оказался в числе зарезервированных основных полей и не может использоваться"
+
+#: includes/core/rest/class-api.php:434
+msgid "Invalid query!"
+msgstr "Неверное содержание запроса!"
+
+#: includes/core/rest/class-api-v2.php:341
+#: includes/core/rest/class-api-v1.php:341
+msgid "User has been successfully deleted."
+msgstr "Пользователь был успешно удалён."
+
+#: includes/core/rest/class-api-v2.php:334
+#: includes/core/rest/class-api-v2.php:371
+#: includes/core/rest/class-api-v1.php:334
+#: includes/core/rest/class-api-v1.php:371
+msgid "Invalid user specified"
+msgstr "Указан неверный пользователь"
+
+#: includes/core/rest/class-api-v2.php:303
+#: includes/core/rest/class-api-v1.php:303
+msgid "User meta has been changed."
+msgstr "Метаданные пользователя были изменены."
+
+#: includes/core/rest/class-api-v2.php:270
+#: includes/core/rest/class-api-v1.php:270
+msgid "User status has been changed."
+msgstr "Статус пользователя изменён."
+
+#: includes/core/rest/class-api-v2.php:261
+#: includes/core/rest/class-api-v1.php:261
+msgid "You need to provide data to update"
+msgstr "Чтобы обновить, Вам нужно ввести данные"
+
+#: includes/core/rest/class-api-v2.php:256
+#: includes/core/rest/class-api-v2.php:328
+#: includes/core/rest/class-api-v2.php:365
+#: includes/core/rest/class-api-v1.php:256
+#: includes/core/rest/class-api-v1.php:328
+#: includes/core/rest/class-api-v1.php:365
+msgid "You must provide a user ID"
+msgstr "Необходимо указать ID пользователя"
+
+#: includes/core/rest/class-api.php:277
+msgid "Invalid API key"
+msgstr "Неверный ключ API"
+
+#: includes/core/rest/class-api.php:265
+msgid "Your request could not be authenticated"
+msgstr "Ваш запрос не проходит проверку авторизации"
+
+#: includes/core/rest/class-api.php:253
+msgid "You must specify both a token and API key!"
+msgstr "Вы должны указать номер талона (token) и ключ API!"
+
+#: includes/core/um-actions-user.php:14
+msgid "Your account"
+msgstr "Ваша учётная запись"
+
+#: includes/class-config.php:135 includes/class-config.php:793
+#: includes/core/um-actions-profile.php:1335
+#: includes/core/class-member-directory.php:2181
+#: includes/core/um-actions-user.php:19
+msgid "Logout"
+msgstr "Выйти"
+
+#: includes/core/um-actions-profile.php:1334
+#: includes/core/class-member-directory.php:2176
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: includes/core/um-actions-profile.php:1302
+#: includes/core/um-actions-profile.php:1333
+#: includes/core/class-member-directory.php:2126
+#: includes/core/class-member-directory.php:2170
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: includes/core/um-actions-profile.php:1159
+msgid "This user account status is %s"
+msgstr "Статус этой учётной записи - %s"
+
+#: includes/core/um-actions-profile.php:1144
+msgid "Tell us a bit about yourself..."
+msgstr "Расскажите нам о себе..."
+
+#: includes/core/um-actions-profile.php:981
+msgid "Remove photo"
+msgstr "Удалить фото"
+
+#: includes/core/um-actions-profile.php:980 includes/core/class-fields.php:2619
+#: includes/core/class-fields.php:2643
+msgid "Change photo"
+msgstr "Сменить фото"
+
+#: includes/core/um-actions-profile.php:948
+msgid "Upload photo"
+msgstr "Загрузить фото"
+
+#: includes/core/um-actions-profile.php:744
+#: includes/core/um-actions-profile.php:760
+#: includes/core/um-actions-profile.php:831
+msgid "Upload a cover photo"
+msgstr "Загрузить фото обложки"
+
+#: includes/core/um-actions-profile.php:744
+msgid "Change cover photo"
+msgstr "Сменить фото обложки"
+
+#: includes/core/um-actions-profile.php:709
+#: includes/core/class-builtin.php:1093
+msgid "Change your cover photo"
+msgstr "Сменить фото Вашей обложки"
+
+#: includes/core/um-actions-profile.php:204
+msgid "You are not allowed to edit this user."
+msgstr "Вы не можете редактировать настройки этого пользователя."
+
+#: templates/password-change.php:45
+msgid "Change my password"
+msgstr "Изменить мой пароль"
+
+#: templates/password-reset.php:94
+msgid "Reset my password"
+msgstr "Сбросить мой пароль"
+
+#: includes/core/class-password.php:559
+msgid "You must confirm your new password"
+msgstr "Вы должны подтвердить новый пароль"
+
+#: includes/core/class-password.php:539
+msgid "You must enter a new password"
+msgstr "Вы должны ввести новый пароль"
+
+#: includes/core/class-password.php:483
+msgid "You have reached the limit for requesting password change for this user already. Contact support if you cannot open the email"
+msgstr "Вы уже достигли предела запросов на смену пароля для этого пользователя. Обратитесь в службу поддержки, если не удаётся открыть письмо электронной почты"
+
+#: includes/core/class-password.php:464
+msgid "We can't find an account registered with that address or username"
+msgstr "Не удаётся найти учётную запись, зарегистрированную с таким адресом или именем пользователя"
+
+#: includes/core/class-password.php:460
+msgid "Please provide your username or email"
+msgstr "Пожалуйста, укажите Ваше имя пользователя или E-mail"
+
+#: includes/core/um-actions-misc.php:186 includes/core/um-filters-login.php:104
+msgid "Your membership request has been rejected."
+msgstr "Вам было отказано в регистрации на сайте."
+
+#: includes/core/um-actions-misc.php:182 includes/core/um-filters-login.php:101
+msgid "Your account is awaiting e-mail verification."
+msgstr "Ваша учётная запись ожидает подтверждения по E-mail."
+
+#: includes/core/um-actions-misc.php:178 includes/core/um-filters-login.php:98
+msgid "Your account has not been approved yet."
+msgstr "Ваша учётная запись не была подтверждена."
+
+#: includes/core/um-actions-misc.php:174 includes/core/um-filters-login.php:95
+msgid "Your account has been disabled."
+msgstr "Ваша учётная запись была отключена."
+
+#: includes/core/um-actions-misc.php:170 includes/core/um-filters-login.php:43
+msgid "Your IP address has been blocked."
+msgstr "Ваш IP-адрес заблокирован."
+
+#: includes/core/um-actions-misc.php:166
+msgid "We do not accept registrations from that domain."
+msgstr "Мы не регистрируем с таким доменом."
+
+#: includes/core/um-actions-misc.php:162 includes/core/um-filters-login.php:40
+msgid "This email address has been blocked."
+msgstr "Этот адрес электронной почты был заблокирован."
+
+#: includes/core/um-actions-misc.php:153
+msgid "An error has been encountered"
+msgstr "Произошла ошибка"
+
+#: includes/core/um-actions-misc.php:119
+msgid "Your account is now active! You can login."
+msgstr "Ваша учётная запись теперь активна! Можно войти на сайт."
+
+#: includes/core/um-actions-misc.php:115
+msgid "You have successfully changed your password."
+msgstr "Пароль по Вашему запросу изменён."
+
+#: includes/core/um-actions-misc.php:111
+msgid "Your account was updated successfully."
+msgstr "Ваша учётная запись обновлена."
+
+#: includes/core/um-actions-misc.php:158
+msgid "Registration is currently disabled"
+msgstr "Регистрация в настоящий момент невозможна"
+
+#: templates/members-pagination.php:7
+msgid "Jump to page:"
+msgstr "На страницу:"
+
+#: templates/members.php:226 templates/members.php:228
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/core/um-actions-login.php:456
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+#: includes/core/um-actions-login.php:412
+msgid "Keep me signed in"
+msgstr "Запомнить меня"
+
+#: includes/core/um-actions-login.php:184
+msgid "This action has been prevented for security measures."
+msgstr "Это действие было прекращено в целях безопасности."
+
+#: includes/core/um-actions-login.php:59
+msgid "Password is incorrect. Please try again."
+msgstr "Пароль неверный. Пожалуйста, повторите ввод."
+
+#: includes/core/um-actions-login.php:52
+msgid "Please enter your password"
+msgstr "Пожалуйста, введите пароль"
+
+#: includes/core/um-actions-login.php:26
+msgid "Please enter your email"
+msgstr "Пожалуйста, укажите Ваш E-mail"
+
+#: includes/core/um-actions-login.php:22
+msgid "Please enter your username"
+msgstr "Пожалуйста, введите имя пользователя"
+
+#: includes/core/um-actions-login.php:18
+msgid "Please enter your username or email"
+msgstr "Пожалуйста, введите имя пользователя или E-mail"
+
+#: includes/core/um-actions-global.php:30
+msgid "Only fill in if you are not human"
+msgstr "Заполните только, если Вы - не человек"
+
+#: includes/core/um-actions-form.php:810
+msgid "Your user description must contain less than %s characters"
+msgstr "Описание пользователя не должно превышать %s символов"
+
+#: includes/core/um-actions-form.php:792
+msgid "You must provide lowercase letters."
+msgstr "Необходимо вводить строчные буквы."
+
+#: includes/core/um-actions-form.php:780
+msgid "You must provide alphabetic letters"
+msgstr "Необходимо задать значение из буквенных символов"
+
+#: includes/core/um-actions-form.php:770
+msgid "You must provide a unique value"
+msgstr "Необходимо задать уникальное значение"
+
+#: includes/core/um-actions-form.php:721
+msgid "Your email contains invalid characters"
+msgstr "Ваш адрес электронной почты содержит недопустимые символы"
+
+#: includes/core/um-actions-form.php:719 includes/core/um-actions-form.php:727
+#: includes/core/um-actions-form.php:751
+msgid "This is not a valid email"
+msgstr "Адрес электронной почты содержит ошибку"
+
+#: includes/core/um-actions-form.php:713
+msgid "You must provide your email"
+msgstr "Вам необходимо указать адрес электропочты"
+
+#: includes/core/um-actions-form.php:693 includes/core/um-actions-form.php:715
+#: includes/core/um-actions-form.php:717 includes/core/um-actions-form.php:729
+#: includes/core/um-actions-form.php:736
+msgid "This email is already linked to an existing account"
+msgstr "Данный адрес электронной почты уже связан с существующей учётной записью"
+
+#: includes/core/um-actions-form.php:681 includes/core/um-actions-form.php:695
+msgid "Your username contains invalid characters"
+msgstr "В имени пользователя содержатся недопустимые символы"
+
+#: includes/core/um-actions-form.php:679
+msgid "Username cannot be an email"
+msgstr "Имя пользователя не может быть его электронной почтой"
+
+#: includes/core/um-actions-form.php:677 includes/core/um-actions-form.php:691
+msgid "Your username is already taken"
+msgstr "Такое имя пользователя уже занято"
+
+#: includes/core/um-actions-form.php:675 includes/core/um-actions-form.php:689
+msgid "You must provide a username"
+msgstr "Необходимо указать имя пользователя"
+
+#: includes/core/um-actions-form.php:668
+msgid "Please enter a valid URL"
+msgstr "Пожалуйста, введите правильный адрес"
+
+#: includes/core/um-actions-form.php:619 includes/core/um-actions-form.php:625
+#: includes/core/um-actions-form.php:631 includes/core/um-actions-form.php:637
+#: includes/core/um-actions-form.php:650 includes/core/um-actions-form.php:656
+#: includes/core/um-actions-form.php:662
+msgid "Please enter a valid %s username or profile URL"
+msgstr "Пожалуйста, введите правильное имя пользователя %s или URL профиля"
+
+#: includes/core/um-actions-form.php:613
+msgid "Please enter a valid phone number"
+msgstr "Пожалуйста, введите верный номер телефона"
+
+#: includes/core/um-actions-form.php:607
+msgid "Please enter numbers only in this field"
+msgstr "Пожалуйста, вводите только числа в этом поле"
+
+#: includes/core/um-actions-form.php:571
+msgid "Maximum number limit is %s"
+msgstr "Максимальное числовое ограничение: %s"
+
+#: includes/core/um-actions-form.php:565
+msgid "Minimum number limit is %s"
+msgstr "Минимальное числовое ограничение: %s"
+
+#: includes/core/um-actions-form.php:559
+msgid "You can only select up to %s choices"
+msgstr "Вы можете выбрать не более %s вариантов"
+
+#: includes/core/um-actions-form.php:553
+msgid "Please select at least %s choices"
+msgstr "Пожалуйста, выберите хотя бы %s вариантов"
+
+#: includes/core/um-actions-form.php:547 includes/core/class-password.php:563
+msgid "Your passwords do not match"
+msgstr "Пароли не совпадают"
+
+#: includes/core/um-actions-form.php:544
+msgid "Please confirm your password"
+msgstr "Пожалуйста, подтвердите пароль"
+
+#: includes/core/um-actions-form.php:531
+msgid "You can not use HTML tags here"
+msgstr "Вы не можете использовать теги HTML здесь"
+
+#: includes/core/um-actions-form.php:522
+msgid "Your %s must contain less than %s characters"
+msgstr "%s должна содержать менее, чем %s символов"
+
+#: includes/core/um-actions-form.php:516
+msgid "Your %s must contain at least %s characters"
+msgstr "%s должна содержать, по крайней мере, %s символов"
+
+#: includes/core/um-actions-form.php:510
+msgid "You are only allowed to enter a maximum of %s words"
+msgstr "Вы можете ввести максимум %s слов"
+
+#: includes/core/um-actions-form.php:501
+msgid "%s is required"
+msgstr "%s требуется указать"
+
+#: includes/core/um-actions-form.php:469
+msgid "Please specify account type."
+msgstr "Пожалуйста, укажите тип учётной записи."
+
+#: includes/core/um-actions-form.php:456 includes/core/um-actions-form.php:460
+#: includes/core/um-actions-form.php:464
+msgid "%s is required."
+msgstr "%s требуется указать."
+
+#: includes/core/um-actions-form.php:94
+msgid "You are not allowed to use this word as your username."
+msgstr "Невозможно использовать это слово как имя пользователя."
+
+#: includes/core/um-actions-core.php:146
+msgid "You do not have permission to delete this user."
+msgstr "У Вас нет прав, чтобы удалить этого пользователя."
+
+#: includes/core/um-actions-core.php:27
+msgid "Super administrators can not be modified."
+msgstr "Суперадминистраторы не могут быть изменены."
+
+#: includes/core/class-files.php:324
+msgid "Invalid coordinates"
+msgstr "Неверные координаты"
+
+#: includes/core/class-files.php:319
+msgid "Invalid parameters"
+msgstr "Неверные параметры"
+
+#: includes/core/class-form.php:62 includes/core/class-profile.php:67
+#: includes/core/class-profile.php:86
+msgid "You can not edit this user"
+msgstr "Вы не можете редактировать этого пользователя"
+
+#: includes/core/class-account.php:116
+msgid "Update Notifications"
+msgstr "Обновить уведомления"
+
+#: includes/core/class-account.php:104
+msgid "Update Password"
+msgstr "Обновить пароль"
+
+#: includes/core/class-account.php:98
+msgid "Update Account"
+msgstr "Обновить учётную запись"
+
+#: includes/core/class-account.php:110
+msgid "Update Privacy"
+msgstr "Обновить настройки безопасности"
+
+#: includes/core/um-actions-account.php:26
+#: includes/core/um-actions-account.php:114
+msgid "You must enter your password"
+msgstr "Вам необходимо ввести пароль"
+
+#: includes/core/um-actions-account.php:84
+msgid "Your username is invalid"
+msgstr "Задано некорректное имя пользователя"
+
+#: includes/core/um-actions-account.php:66
+#: includes/core/um-actions-form.php:538 includes/core/class-password.php:553
+msgid "Your password must contain at least one lowercase letter, one capital letter and one number"
+msgstr "Пароль должен содержать как минимум одну заглавную букву, одну строчную и одну цифру"
+
+#: includes/core/um-actions-account.php:62 includes/core/class-password.php:549
+msgid "Your password must contain less than 30 characters"
+msgstr "Пароль должен содержать менее 30 символов"
+
+#: includes/core/um-actions-account.php:58 includes/core/class-password.php:545
+msgid "Your password must contain at least 8 characters"
+msgstr "Пароль должен содержать не менее 8 символов"
+
+#: includes/core/um-actions-account.php:51
+msgid "Your new password does not match"
+msgstr "Ваш новый пароль не совпадает"
+
+#: includes/core/um-actions-account.php:29
+#: includes/core/um-actions-account.php:46
+#: includes/core/um-actions-account.php:117
+msgid "This is not your password"
+msgstr "Это не ваш пароль"
+
+#: includes/core/um-actions-account.php:107
+msgid "Email already linked to another account"
+msgstr "Этот адрес E-mail уже соединён с другой учётной записью"
+
+#: includes/core/um-actions-account.php:103
+msgid "Please provide a valid e-mail"
+msgstr "Пожалуйста, укажите корректный адрес электронной почты"
+
+#: includes/core/um-actions-account.php:99
+msgid "You must provide your e-mail"
+msgstr "Вам необходимо указать вашу электронную почту"
+
+#: includes/core/um-actions-account.php:93
+msgid "You must provide your last name"
+msgstr "Вам необходимо указать свою фамилию"
+
+#: includes/core/um-actions-account.php:89
+msgid "You must provide your first name"
+msgstr "Вам необходимо указать своё имя"
+
+#: includes/core/class-builtin.php:1152 includes/core/class-builtin.php:1155
+#: includes/core/class-account.php:124 includes/core/class-account.php:125
+msgid "Delete Account"
+msgstr "Удалить учётную запись"
+
+#: includes/admin/core/class-admin-enqueue.php:493
+#: includes/core/class-account.php:115
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: includes/admin/core/class-admin-metabox.php:2279
+#: includes/admin/core/class-admin-enqueue.php:489
+#: includes/core/class-account.php:109
+msgid "Privacy"
+msgstr "Безопасность"
+
+#: includes/core/class-account.php:103
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+#: includes/admin/core/class-admin-settings.php:637
+#: includes/class-config.php:136 includes/class-config.php:794
+#: includes/core/class-account.php:97
+msgid "Account"
+msgstr "Учётная запись"
+
+#: includes/core/class-files.php:421 includes/core/class-files.php:507
+msgid "A theme or plugin compatibility issue"
+msgstr "Возник вопрос совместимости плагина или темы"
+
+#: includes/admin/templates/role/register.php:100
+msgid "Thank you for applying for membership to our site. We will review your details and send you an email letting you know whether your application has been successful or not."
+msgstr "Спасибо, что решили присоединиться к числу участников. Мы рассмотрим Ваши данные и отправим Вам уведомление о том, подтверждена Ваша заявка или нет."
+
+#: includes/admin/templates/role/register.php:80
+msgid "If you want users to go to a specific page other than login page after e-mail activation, enter the URL here."
+msgstr "Если после активации по электронной почте Вы хотите перенаправить пользователей на другую страницу, отличную от страницы входа, укажите требуемый URL здесь."
+
+#: includes/admin/templates/role/register.php:79
+msgid "URL redirect after e-mail activation"
+msgstr "Перенаправление по ссылке после активации по электронной почте"
+
+#: includes/admin/templates/role/register.php:66
+msgid "Thank you for registering. Before you can login we need you to activate your account by clicking the activation link in the email we just sent you."
+msgstr "Спасибо за регистрацию. Прежде чем Вы сможете зайти на сайт, необходимо активировать свою учётную запись, перейдя по ссылке активации в письме, которое только что отправлено Вам."
+
+#: includes/admin/templates/role/register.php:65
+#: includes/admin/templates/role/register.php:99
+msgid "Personalize the custom message"
+msgstr "Настроить заданное вручную сообщение"
+
+#: includes/admin/templates/role/register.php:57
+#: includes/admin/templates/role/register.php:91
+#: includes/admin/assets/js/um-admin-blocks.js:153
+msgid "Show custom message"
+msgstr "Показывать заданное вручную сообщение"
+
+#: includes/admin/templates/role/register.php:46
+msgid "Login the user after validating the activation link"
+msgstr "Авторизовать пользователя после прохождения проверки с переходом по ссылке активации учётной записи"
+
+#: includes/admin/templates/role/register.php:45
+msgid "Login user after validating the activation link?"
+msgstr "Выполнить вход после прохождения проверки с переходом по ссылке активации учётной записи?"
+
+#: includes/admin/templates/role/register.php:27
+#: includes/admin/templates/role/register.php:54
+#: includes/admin/templates/role/register.php:88
+msgid "Select what action is taken after a person registers on your site. Depending on the status you can redirect them to their profile, a custom url or show a custom message"
+msgstr "Выберите, какие действия выполняются после регистрации на сайте. В зависимости от статуса пользователя можно перенаправить его на страницу своего профиля, по указанной ссылке или отобразить заданное вручную сообщение"
+
+#: includes/admin/templates/role/register.php:26
+#: includes/admin/templates/role/register.php:53
+#: includes/admin/templates/role/register.php:87
+msgid "Action to be taken after registration"
+msgstr "Действия после регистрации"
+
+#: includes/admin/templates/role/register.php:20
+msgid "Require Admin Review"
+msgstr "Требуется просмотр администратором"
+
+#: includes/admin/templates/role/register.php:19
+msgid "Require Email Activation"
+msgstr "Требуется активация по электронной почте"
+
+#: includes/admin/templates/role/register.php:18
+msgid "Auto Approve"
+msgstr "Автоподтверждение"
+
+#: includes/admin/templates/role/register.php:15
+msgid "Select the status you would like this user role to have after they register on your site"
+msgstr "Выберите статус, который будет присвоен пользователю после регистрации на сайте"
+
+#: includes/admin/templates/role/register.php:14
+msgid "Registration Status"
+msgstr "Статус при регистрации"
+
+#: includes/admin/templates/role/profile.php:41
+msgid "Can this role view private profiles?"
+msgstr "Разрешить ли этой роли просмотр приватных профилей?"
+
+#: includes/admin/templates/role/profile.php:40
+msgid "Can view/access private profiles?"
+msgstr "Разрешить просмотр или доступ к приватным профилям?"
+
+#: includes/admin/templates/role/profile.php:33
+msgid "Can this role make their profile private?"
+msgstr "Разрешить ли этой роли делать собственный профиль приватным?"
+
+#: includes/admin/templates/role/profile.php:32
+msgid "Can make their profile private?"
+msgstr "Разрешить делать свой профиль приватным?"
+
+#: includes/admin/templates/role/profile.php:22
+msgid "Which roles that role can view, choose none to allow role to view all member roles"
+msgstr "Какие роли может просматривать пользователь с этой ролью (оставьте пустым для разрешения просмотра всех ролей)"
+
+#: includes/admin/templates/role/profile.php:21
+msgid "Can view these user roles only"
+msgstr "Разрешить просмотр только этих ролей"
+
+#: includes/admin/templates/role/profile.php:15
+msgid "Can this role view all member profiles?"
+msgstr "Может ли эта роль просматривать все профили участников?"
+
+#: includes/admin/templates/role/profile.php:14
+msgid "Can view other member profiles?"
+msgstr "Разрешить просмотр профилей других участников?"
+
+#: includes/admin/templates/role/logout.php:27
+msgid "Set a url to redirect this user role to after they logout from site"
+msgstr "Укажите URL для перенаправления этой роли пользователя после выхода из своей учётной записи"
+
+#: includes/admin/templates/role/logout.php:16
+msgid "Select what happens when a user with this role logouts of your site"
+msgstr "Выберите, что должно происходить при выходе пользователя с указанной ролью из учётной записи"
+
+#: includes/admin/templates/role/logout.php:15
+msgid "Action to be taken after logout"
+msgstr "Действия после выхода"
+
+#: includes/admin/templates/role/login.php:29
+msgid "Set a url to redirect this user role to after they login with their account"
+msgstr "Укажите URL для перенаправления этой роли пользователя после входа на сайт"
+
+#: includes/admin/templates/form/login_settings.php:20
+#: includes/admin/templates/role/login.php:22
+msgid "Redirect to WordPress Admin"
+msgstr "Перейти в административную панель WordPress"
+
+#: includes/admin/templates/form/login_settings.php:19
+#: includes/admin/templates/role/login.php:21
+msgid "Refresh active page"
+msgstr "Обновить текущую страницу"
+
+#: includes/admin/templates/form/login_settings.php:18
+#: includes/admin/templates/role/register.php:31
+#: includes/admin/templates/role/register.php:58
+#: includes/admin/templates/role/register.php:92
+#: includes/admin/templates/role/login.php:20
+msgid "Redirect to URL"
+msgstr "Перейти на указанный URL-адрес"
+
+#: includes/admin/templates/form/login_settings.php:17
+#: includes/admin/templates/role/register.php:30
+#: includes/admin/templates/role/login.php:19
+msgid "Redirect to profile"
+msgstr "Перейти к странице профиля"
+
+#: includes/admin/templates/role/login.php:16
+msgid "Select what happens when a user with this role logins to your site"
+msgstr "Выберите, что должно происходить при входе пользователя с указанной ролью на сайт"
+
+#: includes/admin/templates/role/login.php:15
+msgid "Action to be taken after login"
+msgstr "Действия после входа"
+
+#: includes/admin/templates/role/home.php:22
+msgid "Custom Homepage Redirect"
+msgstr "Перенаправление на Главную страницу по указанной ссылке"
+
+#: includes/admin/templates/role/home.php:16
+msgid "Allow this user role to view your site's homepage"
+msgstr "Разрешить этой роли просматривать домашнюю страницу сайта"
+
+#: includes/admin/templates/role/home.php:15
+msgid "Can view default homepage?"
+msgstr "Разрешить просмотр домашней страницы?"
+
+#: includes/admin/templates/role/general.php:22
+msgid "Allow this role to delete their account and end their membership on your site"
+msgstr "Разрешить этой роли удалить свою учётную запись и завершить участие в сообществе на этом сайте"
+
+#: includes/admin/templates/role/general.php:21
+msgid "Can delete their account?"
+msgstr "Разрешить удалять свою учётную запись?"
+
+#: includes/admin/templates/role/general.php:15
+msgid "Can this role edit his own profile?"
+msgstr "Разрешить ли этой роли редактировать свой профиль?"
+
+#: includes/admin/templates/role/general.php:14
+msgid "Can edit their profile?"
+msgstr "Разрешить редактировать свой профиль?"
+
+#: includes/admin/templates/role/delete.php:27
+msgid "Set a url to redirect this user role to after they delete account"
+msgstr "Укажите URL для перенаправления этой роли пользователя после удаления учётной записи"
+
+#: includes/admin/templates/role/logout.php:20
+#: includes/admin/templates/role/delete.php:20
+msgid "Go to Custom URL"
+msgstr "Переход по указанной (пользовательской) ссылке"
+
+#: includes/admin/templates/role/logout.php:19
+#: includes/admin/templates/role/delete.php:19
+msgid "Go to Homepage"
+msgstr "Переход на Главную страницу"
+
+#: includes/admin/templates/role/delete.php:16
+msgid "Select what happens when a user with this role deletes their own account"
+msgstr "Выберите, что должно происходить при удалении пользователем с указанной ролью своей учётной записи"
+
+#: includes/admin/templates/role/delete.php:15
+msgid "Action to be taken after account is deleted"
+msgstr "Действия после удаления аккаунта"
+
+#: includes/admin/templates/role/admin-permissions.php:52
+msgid "Can delete these user roles only"
+msgstr "Удалить можно только эти роли пользователей"
+
+#: includes/admin/templates/role/admin-permissions.php:45
+msgid "Can delete other member accounts?"
+msgstr "Разрешить удалять учётные записи участников?"
+
+#: includes/admin/templates/role/admin-permissions.php:36
+#: includes/admin/templates/role/admin-permissions.php:53
+msgid "Which roles that role can edit, choose none to allow role to edit all member roles"
+msgstr "Какие роли может редактировать пользователь с этой ролью (оставьте пустым для разрешения редактирования всех ролей)"
+
+#: includes/admin/templates/role/admin-permissions.php:35
+msgid "Can edit these user roles only"
+msgstr "Редактировать можно только эти роли пользователей"
+
+#: includes/admin/templates/role/admin-permissions.php:29
+#: includes/admin/templates/role/admin-permissions.php:46
+msgid "Allow this role to edit accounts of other members"
+msgstr "Разрешить этой роли редактирование учётных записей других участников"
+
+#: includes/admin/templates/role/admin-permissions.php:28
+msgid "Can edit other member accounts?"
+msgstr "Разрешить редактировать учётные записи участников?"
+
+#: includes/admin/templates/role/admin-permissions.php:21
+msgid "Force hiding adminbar in frontend?"
+msgstr "Скрывать верхнюю панель администратора в веб-интерфейсе?"
+
+#: includes/admin/templates/role/admin-permissions.php:15
+msgid "The core admin role must always have access to wp-admin / WordPress backend"
+msgstr "Встроенная роль Администратора всегда должна иметь доступ к wp-admin / административной панели WordPress"
+
+#: includes/admin/templates/role/admin-permissions.php:14
+msgid "Can access wp-admin?"
+msgstr "Разрешить доступ к wp-admin?"
+
+#: includes/admin/templates/modal/fonticons.php:7
+msgid "Choose from %s available icons"
+msgstr "Выбрать из %s доступных значков"
+
+#: includes/admin/templates/modal/fields.php:7
+msgid "Fields Manager"
+msgstr "Менеджер полей"
+
+#: includes/admin/templates/modal/dynamic_registration_preview.php:7
+msgid "Review Registration Details"
+msgstr "Просмотреть регистрационные данные"
+
+#: includes/admin/templates/modal/dynamic_new_group.php:9
+msgid "Add a New Field Group"
+msgstr "Добавить новую группу полей"
+
+#: includes/admin/templates/modal/dynamic_new_field.php:9
+msgid "Add a New Field"
+msgstr "Добавить новое поле"
+
+#: includes/admin/templates/modal/dynamic_new_field.php:15
+#: includes/admin/templates/modal/dynamic_new_group.php:15
+#: includes/admin/templates/modal/dynamic_new_divider.php:15
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/admin/templates/modal/dynamic_new_divider.php:9
+msgid "Add a New Divider"
+msgstr "Добавить разделитель"
+
+#: includes/admin/templates/modal/dynamic_form_preview.php:13
+msgid "Continue editing"
+msgstr "Продолжить редактирование"
+
+#: includes/admin/templates/modal/dynamic_form_preview.php:7
+msgid "Live Form Preview"
+msgstr "Предпросмотр формы"
+
+#: includes/admin/templates/modal/dynamic_edit_row.php:9
+msgid "Edit Row Settings"
+msgstr "Редактировать настройки колонки"
+
+#: includes/admin/templates/role/publish.php:24
+#: includes/admin/templates/modal/dynamic_new_field.php:18
+#: includes/admin/templates/modal/dynamic_edit_row.php:18
+#: includes/admin/templates/modal/fonticons.php:14
+#: includes/admin/templates/modal/dynamic_new_group.php:18
+#: includes/admin/templates/modal/dynamic_new_divider.php:18
+#: includes/admin/templates/modal/dynamic_edit_field.php:18
+#: includes/class-config.php:254 includes/core/um-actions-profile.php:749
+#: includes/core/um-actions-profile.php:761
+#: includes/core/um-actions-profile.php:949
+#: includes/core/um-actions-profile.php:982
+#: includes/core/um-actions-profile.php:1329
+#: includes/core/um-actions-profile.php:1336
+#: includes/core/class-fields.php:2644 includes/core/class-fields.php:2743
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/admin/templates/modal/dynamic_edit_row.php:15
+#: includes/admin/templates/modal/dynamic_edit_field.php:15
+msgid "Update"
+msgstr "Обновить"
+
+#: includes/admin/templates/modal/dynamic_edit_field.php:9
+msgid "Edit Field"
+msgstr "Редактировать поле"
+
+#: includes/admin/templates/form/login_customize.php:53
+#: includes/admin/templates/form/login_customize.php:72
+#: includes/admin/templates/form/profile_customize.php:80
+#: includes/admin/templates/form/profile_customize.php:99
+#: includes/admin/templates/form/register_customize.php:68
+#: includes/admin/templates/form/register_customize.php:87
+msgid "Customize the button text"
+msgstr "Изменить текст кнопки"
+
+#: includes/admin/templates/form/login_customize.php:40
+#: includes/admin/templates/form/profile_customize.php:67
+#: includes/admin/templates/form/register_customize.php:55
+msgid "Whether to show field icons and where to show them relative to the field"
+msgstr "Отображать ли иконки поля и где именно по отношению к полю"
+
+#: includes/admin/templates/form/profile_customize.php:127
+#: includes/admin/core/class-admin-settings.php:1101
+#: includes/admin/core/class-admin-settings.php:1191
+msgid "The shortcode is centered by default unless you specify otherwise here"
+msgstr "Форма центрирована по умолчанию, если здесь не указано иное"
+
+#: includes/admin/templates/form/register_customize.php:30
+msgid "Assign role to form"
+msgstr "Применить роль к форме"
+
+#: includes/admin/templates/form/profile_settings.php:21
+msgid "Field(s) to show in user meta"
+msgstr "Поле(я) для отображения в информации о пользователе"
+
+#: includes/admin/templates/form/profile_customize.php:195
+msgid "Show user description in profile header?"
+msgstr "Показывать описание пользователя в заголовке профиля?"
+
+#: includes/admin/templates/form/profile_customize.php:184
+msgid "Show social links in profile header?"
+msgstr "Показывать ссылки на соц. сети в заголовке профиля?"
+
+#: includes/admin/templates/form/profile_customize.php:173
+msgid "Show display name in profile header?"
+msgstr "Показывать отображаемое имя в заголовке профиля?"
+
+#: includes/admin/templates/form/profile_customize.php:161
+msgid "Make Profile Photo Required"
+msgstr "Сделать Фото Профиля обязательным"
+
+#: includes/admin/templates/form/profile_customize.php:152
+#: includes/admin/core/class-admin-settings.php:963
+msgid "Profile Photo Size"
+msgstr "Размер фото профиля"
+
+#: includes/admin/templates/form/profile_customize.php:126
+msgid "Cover photo ratio"
+msgstr "Пропорции сторон фото обложки"
+
+#: includes/admin/templates/form/profile_customize.php:106
+msgid "Enable Cover Photos"
+msgstr "Включить фото обложки"
+
+#: includes/admin/templates/form/profile_customize.php:58
+msgid "Profile Area Max. Width (px)"
+msgstr "Макс. ширина области профиля (px)"
+
+#: includes/admin/templates/form/mode.php:16
+#: includes/admin/core/class-admin-settings.php:1168
+msgid "Login Form"
+msgstr "Форма входа"
+
+#: includes/admin/templates/form/mode.php:14
+msgid "Profile Form"
+msgstr "Форма профиля"
+
+#: includes/admin/templates/form/mode.php:12
+#: includes/admin/core/class-admin-settings.php:1078
+msgid "Registration Form"
+msgstr "Форма регистрации"
+
+#: includes/admin/templates/form/mode.php:9
+msgid "<strong>Note:</strong> Form type cannot be changed for the default forms."
+msgstr "<strong>Примечание:</strong> Тип формы не может быть изменён для форм по умолчанию."
+
+#: includes/admin/templates/form/login_settings.php:26
+#: includes/admin/templates/role/register.php:38
+#: includes/admin/templates/role/register.php:72
+#: includes/admin/templates/role/register.php:106
+#: includes/admin/templates/role/logout.php:26
+#: includes/admin/templates/role/delete.php:26
+#: includes/admin/templates/role/login.php:28
+msgid "Set Custom Redirect URL"
+msgstr "Указать свою ссылку для перенаправления"
+
+#: includes/admin/templates/form/login_settings.php:12
+msgid "Redirection after Login"
+msgstr "Перенаправление после входа"
+
+#: includes/admin/templates/form/login_customize.php:90
+msgid "Show \"Remember Me\"?"
+msgstr "Показывать \"Запомнить меня\"?"
+
+#: includes/admin/templates/form/login_customize.php:79
+msgid "Show Forgot Password Link?"
+msgstr "Показывать ссылку \"Забыли пароль?\"?"
+
+#: includes/admin/templates/form/login_customize.php:71
+#: includes/admin/templates/form/profile_customize.php:98
+#: includes/admin/templates/form/register_customize.php:86
+msgid "Secondary Button Text"
+msgstr "Текст вторичной кнопки"
+
+#: includes/admin/templates/form/login_customize.php:60
+#: includes/admin/templates/form/profile_customize.php:87
+#: includes/admin/templates/form/register_customize.php:75
+msgid "Show Secondary Button"
+msgstr "Показать вторичную кнопку"
+
+#: includes/admin/templates/form/login_customize.php:52
+#: includes/admin/templates/form/profile_customize.php:79
+#: includes/admin/templates/form/register_customize.php:67
+msgid "Primary Button Text"
+msgstr "Текст основной кнопки"
+
+#: includes/admin/templates/form/login_customize.php:39
+#: includes/admin/templates/form/profile_customize.php:66
+#: includes/admin/templates/form/register_customize.php:54
+msgid "Field Icons"
+msgstr "Иконки поля"
+
+#: includes/admin/templates/form/login_customize.php:31
+#: includes/admin/templates/form/profile_customize.php:50
+#: includes/admin/templates/form/register_customize.php:46
+msgid "Max. Width (px)"
+msgstr "Макс. ширина (px)"
+
+#: includes/admin/templates/form/builder.php:27
+msgid "Add Master Row"
+msgstr "Добавить Главную строчку"
+
+#: includes/admin/templates/form/builder.php:13
+msgid "Live Preview"
+msgstr "Предпросмотр"
+
+#: includes/class-config.php:183
+msgid "We are sorry. We cannot find any users who match your search criteria."
+msgstr "К сожалению, не удаётся найти пользователей, которые соответствуют критериям поиска."
+
+#: includes/admin/templates/directory/pagination.php:60
+msgid "Custom text if no users were found"
+msgstr "Текст для вывода, если пользователей не найдено"
+
+#: includes/class-config.php:182 includes/class-config.php:282
+msgid "{total_users} Member"
+msgstr "{total_users} участник"
+
+#: includes/admin/templates/directory/pagination.php:53
+msgid "Same as above but in case of 1 user found only"
+msgstr "То же, что и предыдущий вариант, но в случае обнаружения только 1 пользователя"
+
+#: includes/admin/templates/directory/pagination.php:52
+msgid "Single Result Text"
+msgstr "Текст при обнаружении 1 пользователя"
+
+#: includes/class-config.php:181 includes/class-config.php:281
+msgid "{total_users} Members"
+msgstr "{total_users} участников"
+
+#: includes/admin/templates/directory/pagination.php:45
+msgid "Customize the search result text . e.g. Found 3,000 Members. Leave this blank to not show result text"
+msgstr "Задание текста для результатов поиска. Например, Найдено 3000 участников. Оставьте это поле пустым, чтобы не показывать текст"
+
+#: includes/admin/templates/directory/pagination.php:44
+msgid "Results Text"
+msgstr "Текст результатов"
+
+#: includes/admin/templates/directory/search.php:32
+msgid "User Roles that can use search"
+msgstr "Роли пользователей, которые могут выполнять поиск"
+
+#: includes/admin/templates/directory/search.php:25
+msgid "Enable Search feature"
+msgstr "Включить возможность поиска"
+
+#: includes/admin/templates/directory/profile.php:56
+msgid "Show extra user information below tagline?"
+msgstr "Показывать дополнительную информацию о пользователе под основной информацией?"
+
+#: includes/admin/templates/directory/profile.php:45
+msgid "Choose field(s) to display in tagline"
+msgstr "Выберите поле(я) для отображения в информации о пользователе"
+
+#: includes/admin/templates/directory/profile.php:39
+msgid "Show tagline below profile name"
+msgstr "Показать информацию о пользователе под именем в профиле"
+
+#: includes/admin/templates/directory/profile.php:33
+msgid "Show display name"
+msgstr "Показывать отображаемое имя"
+
+#: includes/admin/templates/directory/profile.php:26
+msgid "Enable Cover Photo"
+msgstr "Включить фото обложки"
+
+#: includes/admin/templates/directory/profile.php:20
+msgid "Enable Profile Photo"
+msgstr "Включить фото профиля"
+
+#: includes/admin/templates/directory/pagination.php:21
+msgid "Use this setting to control the maximum number of profiles to appear in this directory. Leave blank to disable this limit"
+msgstr "Используйте этот параметр, чтобы задать максимальное количество профилей для этого списка. Оставьте пустым, чтобы отключить это ограничение"
+
+#: includes/admin/templates/directory/pagination.php:20
+msgid "Maximum number of profiles"
+msgstr "Максимальное количество профилей"
+
+#: includes/admin/templates/directory/pagination.php:37
+msgid "Number of profiles to appear on page for mobile users"
+msgstr "Число профилей на страницу для пользователей мобильных устройств"
+
+#: includes/admin/templates/directory/pagination.php:36
+msgid "Number of profiles per page (for Mobiles & Tablets)"
+msgstr "Число профилей на страницу (для Мобильных и Планшетов)"
+
+#: includes/admin/templates/directory/pagination.php:29
+msgid "Number of profiles to appear on page for standard users"
+msgstr "Число участников на странице для обычных посетителей"
+
+#: includes/admin/templates/directory/pagination.php:28
+msgid "Number of profiles per page"
+msgstr "Число профилей на страницу"
+
+#: includes/admin/templates/directory/general.php:82
+msgid "Only show specific users (Enter one username per line)"
+msgstr "Показывать только определённых пользователей (введите по одному в каждую строку)"
+
+#: includes/admin/templates/directory/sorting.php:23
+#: includes/admin/core/class-admin-forms.php:1538
+#: includes/admin/core/class-admin-forms.php:1560
+#: includes/admin/assets/js/um-admin-forms.js:203
+msgid "Meta key"
+msgstr "Мета-ключ"
+
+#: includes/core/class-member-directory.php:302
+msgid "Random"
+msgstr "Случайное"
+
+#: includes/core/class-builtin.php:730 includes/core/class-builtin.php:733
+#: includes/core/class-member-directory.php:318
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: includes/core/class-builtin.php:720 includes/core/class-builtin.php:723
+#: includes/core/class-member-directory.php:317
+msgid "First Name"
+msgstr "Имя"
+
+#: includes/core/class-member-directory.php:295
+msgid "Last login"
+msgstr "Прошлый вход на сайт"
+
+#: includes/core/class-member-directory.php:288
+msgid "Old users first"
+msgstr "Сначала старые пользователи"
+
+#: includes/core/class-member-directory.php:287
+msgid "New users first"
+msgstr "Сначала новые пользователи"
+
+#: includes/admin/templates/directory/general.php:76
+msgid "Only show members who have uploaded a cover photo"
+msgstr "Показывать только участников, которые загрузили фото обложки"
+
+#: includes/admin/templates/directory/general.php:69
+msgid "Only show members who have uploaded a profile photo"
+msgstr "Показывать только участников, которые загрузили фотографию профиля"
+
+#: includes/admin/templates/directory/general.php:60
+msgid "User Roles to Display"
+msgstr "Какие роли пользователей отображать"
+
+#: includes/admin/templates/form/login_customize.php:23
+#: includes/admin/templates/form/profile_customize.php:42
+#: includes/admin/templates/form/register_customize.php:38
+#: includes/admin/templates/directory/appearance.php:12
+msgid "Template"
+msgstr "Шаблон"
+
+#: includes/admin/templates/dashboard/users.php:73
+#: includes/core/class-user.php:985
+msgid "Awaiting E-mail Confirmation"
+msgstr "Ожидается подтверждение по E-mail"
+
+#: includes/admin/templates/dashboard/users.php:60
+#: includes/core/class-user.php:989
+msgid "Pending Review"
+msgstr "На утверждении"
+
+#: includes/admin/templates/dashboard/users.php:15
+#: includes/admin/core/class-admin-settings.php:542
+msgid "Users"
+msgstr "Пользователи"
+
+#: includes/admin/templates/access/restrict_content.php:127
+#: includes/admin/core/class-admin-metabox.php:458
+#: includes/admin/core/class-admin-metabox.php:617
+msgid "Redirect URL"
+msgstr "URL-адрес для перехода"
+
+#: includes/admin/templates/access/restrict_content.php:60
+#: includes/admin/core/class-admin-metabox.php:392
+#: includes/admin/core/class-admin-metabox.php:544
+#: includes/admin/assets/js/um-admin-blocks.js:91
+msgid "Who can access this content?"
+msgstr "Кто может иметь доступ к этому содержимому?"
+
+#: includes/admin/core/class-admin-users.php:124
+#: includes/core/class-fields.php:2643
+msgid "Apply"
+msgstr "Применить"
+
+#: includes/admin/core/class-admin-users.php:117
+#: includes/admin/core/class-admin-users.php:120
+msgid "UM Action"
+msgstr "Действие UM"
+
+#: includes/admin/core/class-admin-users.php:381
+msgid "You do not have enough permissions to do that."
+msgstr "У Вас недостаточно прав, чтобы сделать это."
+
+#: includes/admin/templates/dashboard/users.php:41
+#: includes/admin/core/class-admin-users.php:318
+msgid "Rejected"
+msgstr "Отклонено"
+
+#: includes/admin/templates/dashboard/users.php:86
+#: includes/admin/core/class-admin-users.php:317
+msgid "Inactive"
+msgstr "Неактивно"
+
+#: includes/admin/core/class-admin-users.php:316
+msgid "Waiting e-mail confirmation"
+msgstr "Ожидается подтверждение по E-mail"
+
+#: includes/admin/core/class-admin-users.php:315
+msgid "Pending review"
+msgstr "Ожидает утверждения"
+
+#: includes/admin/templates/dashboard/users.php:28
+#: includes/admin/core/class-admin-users.php:314
+#: includes/core/class-user.php:981
+msgid "Approved"
+msgstr "Принято"
+
+#: includes/admin/core/class-admin-users.php:209
+msgid "Info"
+msgstr "Инфо"
+
+#: templates/account.php:43 templates/account.php:84
+#: includes/admin/core/class-admin-users.php:204
+msgid "View profile"
+msgstr "Просмотр профиля"
+
+#: includes/admin/core/list-tables/roles-list-table.php:418
+msgid "WP-Admin Access"
+msgstr "Доступ к WP-Admin"
+
+#: includes/admin/core/list-tables/roles-list-table.php:414
+msgid "Role Title"
+msgstr "Название роли"
+
+#: includes/admin/class-admin.php:318
+#: includes/admin/core/class-admin-settings.php:1409
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/core/class-admin-notices.php:442
+msgid "Other users have been updated."
+msgstr "Другие пользователи обновлены."
+
+#: includes/admin/core/class-admin-notices.php:441
+msgid "Super administrators cannot be modified."
+msgstr "Суперадминистраторы не могут быть изменены."
+
+#: includes/admin/core/class-admin-notices.php:437
+msgid "Changed roles."
+msgstr "Изменённые Роли."
+
+#: includes/admin/core/class-admin-notices.php:433
+msgid "Users have been updated."
+msgstr "Пользователи обновлены."
+
+#: includes/admin/core/class-admin-notices.php:429
+msgid "User has been updated."
+msgstr "Пользователь обновлён."
+
+#: includes/admin/core/class-admin-notices.php:425
+msgid "The form has been duplicated successfully."
+msgstr "Форма успешно дублирована."
+
+#: includes/admin/core/class-admin-notices.php:413
+msgid "Your user cache is now removed."
+msgstr "Кэш-данные Вашего пользователя удалены."
+
+#: includes/admin/core/class-admin-notices.php:409
+msgid "Your temp uploads directory is now clean."
+msgstr "Папка временных загрузок очищена."
+
+#: includes/admin/core/class-admin-notices.php:405
+msgid "Your translation files have been updated successfully."
+msgstr "Ваши файлы перевода были успешно обновлены."
+
+#: includes/admin/core/class-admin-notices.php:400
+msgid "Undo"
+msgstr "Вернуть"
+
+#: includes/admin/core/class-admin-notices.php:399
+msgid "Are you sure you want to delete the selected user(s)? The following users will be deleted: <p>%s</p> <strong>This cannot be undone!</strong>"
+msgstr "Вы уверены в том, что хотите удалить выбранных пользователей? Следующие пользователи будут удалены: <p>%s</p> <strong>Это действие не может быть отменено!</strong>"
+
+#: includes/admin/core/class-admin-notices.php:344
+msgid "Ultimate Member Setup Error: Account page can not be a child page."
+msgstr "Ошибка в настройках Ultimate Member. Страница учётной записи не может быть дочерней страницей."
+
+#: includes/admin/core/class-admin-notices.php:334
+msgid "Ultimate Member Setup Error: User page can not be a child page."
+msgstr "Ошибка в настройках Ultimate Member. Страница пользователя не может быть дочерней страницей."
+
+#: includes/admin/core/class-admin-notices.php:362
+msgid "Exif is not enabled on your server. Mobile photo uploads will not be rotated correctly until you enable the exif extension. <a href=\"%s\">Hide this notice</a>"
+msgstr "EXIF не активировано на сервере. Загруженные фотографии с мобильных телефонов не будут повёрнуты правильно, пока Вы не включите PHP расширение EXIF. <a href=\"%s\">Скрыть это уведомление</a>"
+
+#: includes/admin/core/class-admin-metabox.php:2101
+msgid "Maximum number that can be entered in this field"
+msgstr "Максимальное число, которое можно ввести в это поле"
+
+#: includes/admin/core/class-admin-metabox.php:2091
+msgid "Minimum number that can be entered in this field"
+msgstr "Минимальное число, которое можно ввести в это поле"
+
+#: includes/admin/core/class-admin-metabox.php:1722
+msgid "Turn on to add a confirm password field. If turned on the confirm password field will only show on register forms and not on login forms."
+msgstr "Включите, чтобы добавить поле подтверждения пароля. Если включено, то поле Подтверждение пароля будет отображаться только для регистрационной формы, а не для формы Входа на сайт."
+
+#: includes/admin/core/class-admin-metabox.php:1712
+msgid "Turn on to force users to create a strong password (A combination of one lowercase letter, one uppercase letter, and one number). If turned on this option is only applied to register forms and not to login forms."
+msgstr "Включите, чтобы попросить пользователей создавать надёжные пароли (комбинацию одной буквы в нижнем регистре, одной в верхнем и одного числа в пароле). Если включить эту опцию, она будет влиять только на формы регистрации и не будет влиять на формы входа."
+
+#: includes/admin/core/class-admin-metabox.php:1521
+msgid "Optional text to include with the divider"
+msgstr "Возможный текст для включения с разделителем"
+
+#: includes/admin/core/class-admin-metabox.php:1378
+msgid "Value"
+msgstr "Значение"
+
+#: includes/admin/core/class-admin-metabox.php:1301
+msgid "If"
+msgstr "Если"
+
+#: includes/admin/core/class-admin-metabox.php:1269
+msgid "Select where this field should appear. This option should only be changed on the profile form and allows you to show a field in one mode only (edit or view) or in both modes."
+msgstr "Выберите, где это поле должно появиться. Эта опция должна изменяться только в форме профиля и позволяет показывать поле только в одном режиме (правка или просмотр) или в обоих режимах."
+
+#: includes/admin/core/class-admin-metabox.php:998
+msgid "User Meta"
+msgstr "Метаданные пользователя"
+
+#: includes/admin/core/class-admin-metabox.php:976
+#: includes/admin/core/class-admin-metabox.php:997
+#: includes/admin/core/class-admin-metabox.php:1019
+msgid "Customize this form"
+msgstr "Настроить эту форму"
+
+#: includes/admin/core/class-admin-metabox.php:973
+msgid "Form Builder"
+msgstr "Создание форм"
+
+#: includes/admin/core/class-admin-metabox.php:972
+msgid "Select Form Type"
+msgstr "Выбрать тип формы"
+
+#: includes/admin/core/class-admin-metabox.php:888
+msgid "Delete Options"
+msgstr "Настройки удаления"
+
+#: includes/admin/core/class-admin-metabox.php:880
+msgid "Logout Options"
+msgstr "Настройки выхода"
+
+#: includes/admin/core/class-admin-metabox.php:872
+msgid "Login Options"
+msgstr "Настройки входа"
+
+#: includes/admin/core/class-admin-metabox.php:864
+msgid "Registration Options"
+msgstr "Настройки регистрации"
+
+#: includes/admin/core/class-admin-metabox.php:853
+msgid "Homepage Options"
+msgstr "Настройки Главной страницы"
+
+#: includes/admin/core/class-admin-metabox.php:842
+msgid "Profile Access"
+msgstr "Доступ к профилю"
+
+#: includes/admin/core/class-admin-metabox.php:834
+msgid "General Permissions"
+msgstr "Общие разрешения"
+
+#: includes/admin/core/class-admin-metabox.php:826
+msgid "Administrative Permissions"
+msgstr "Административные разрешения"
+
+#: includes/admin/core/class-admin-metabox.php:813
+msgid "Styling: General"
+msgstr "Стиль: Общий"
+
+#: includes/admin/core/class-admin-metabox.php:811
+msgid "Results &amp; Pagination"
+msgstr "Результаты &amp; разделения страниц"
+
+#: includes/admin/core/class-admin-metabox.php:810
+msgid "Search Options"
+msgstr "Настройки поиска"
+
+#: includes/admin/core/class-admin-metabox.php:809
+msgid "Profile Card"
+msgstr "Карточка профиля"
+
+#: includes/admin/core/class-admin-metabox.php:807
+msgid "General Options"
+msgstr "Общие настройки"
+
+#: includes/admin/templates/form/login_customize.php:16
+#: includes/admin/templates/form/login_customize.php:64
+#: includes/admin/templates/form/login_customize.php:83
+#: includes/admin/templates/form/login_customize.php:94
+#: includes/admin/templates/form/profile_customize.php:25
+#: includes/admin/templates/form/profile_customize.php:91
+#: includes/admin/templates/form/profile_customize.php:110
+#: includes/admin/templates/form/profile_customize.php:145
+#: includes/admin/templates/form/profile_customize.php:166
+#: includes/admin/templates/form/profile_customize.php:177
+#: includes/admin/templates/form/profile_customize.php:188
+#: includes/admin/templates/form/profile_customize.php:199
+#: includes/admin/templates/form/register_gdpr.php:26
+#: includes/admin/templates/form/register_customize.php:23
+#: includes/admin/templates/form/register_customize.php:79
+#: includes/admin/core/list-tables/roles-list-table.php:371
+#: includes/admin/core/list-tables/roles-list-table.php:379
+#: includes/admin/core/class-admin-settings.php:722
+#: includes/admin/core/class-admin-columns.php:186
+#: includes/admin/core/class-admin-columns.php:219
+#: includes/core/class-builtin.php:1144 includes/core/class-builtin.php:1160
+#: includes/core/class-builtin.php:1161
+#: includes/core/um-actions-account.php:277
+msgid "No"
+msgstr "Нет"
+
+#: includes/admin/templates/form/login_customize.php:17
+#: includes/admin/templates/form/login_customize.php:65
+#: includes/admin/templates/form/login_customize.php:84
+#: includes/admin/templates/form/login_customize.php:95
+#: includes/admin/templates/form/profile_customize.php:26
+#: includes/admin/templates/form/profile_customize.php:92
+#: includes/admin/templates/form/profile_customize.php:111
+#: includes/admin/templates/form/profile_customize.php:146
+#: includes/admin/templates/form/profile_customize.php:167
+#: includes/admin/templates/form/profile_customize.php:178
+#: includes/admin/templates/form/profile_customize.php:189
+#: includes/admin/templates/form/profile_customize.php:200
+#: includes/admin/templates/form/register_gdpr.php:27
+#: includes/admin/templates/form/register_customize.php:24
+#: includes/admin/templates/form/register_customize.php:80
+#: includes/admin/core/list-tables/roles-list-table.php:371
+#: includes/admin/core/list-tables/roles-list-table.php:379
+#: includes/admin/core/class-admin-settings.php:723
+#: includes/admin/core/class-admin-columns.php:186
+#: includes/admin/core/class-admin-columns.php:219
+#: includes/admin/core/packages/2.1.3-beta3/functions.php:75
+#: includes/admin/core/packages/2.1.3-beta3/functions.php:76
+#: includes/core/class-builtin.php:1145 includes/core/class-builtin.php:1161
+#: includes/core/class-user.php:212 includes/core/class-user.php:213
+#: includes/core/um-actions-account.php:272
+msgid "Yes"
+msgstr "Да"
+
+#: includes/admin/class-admin.php:400
+msgid "Form draft updated."
+msgstr "Черновик формы обновлён."
+
+#: includes/admin/class-admin.php:399
+msgid "Form scheduled."
+msgstr "Форма запланирована."
+
+#: includes/admin/class-admin.php:398
+msgid "Form submitted."
+msgstr "Форма отправлена."
+
+#: includes/admin/class-admin.php:397
+msgid "Form saved."
+msgstr "Форма сохранена."
+
+#: includes/admin/class-admin.php:396
+msgid "Form created."
+msgstr "Форма создана."
+
+#: includes/admin/class-admin.php:395
+msgid "Form restored to revision."
+msgstr "Форма восстановлена до версии из ревизии."
+
+#: includes/admin/class-admin.php:393
+msgid "Custom field deleted."
+msgstr "Произвольное поле удалено."
+
+#: includes/admin/class-admin.php:392
+msgid "Custom field updated."
+msgstr "Произвольное поле обновлено."
+
+#: includes/admin/class-admin.php:391 includes/admin/class-admin.php:394
+msgid "Form updated."
+msgstr "Форма обновлена."
+
+#: includes/admin/core/class-admin-menu.php:225
+msgid "User Cache"
+msgstr "Кэш-данные пользователя"
+
+#: includes/admin/core/class-admin-menu.php:223
+msgid "Purge Temp Files"
+msgstr "Удалить временные файлы"
+
+#: includes/admin/core/class-admin-menu.php:221
+msgid "Latest from our blog"
+msgstr "Последнее из нашего блога"
+
+#: includes/admin/core/class-admin-menu.php:219
+msgid "Users Overview"
+msgstr "Обзор участников"
+
+#: includes/admin/core/class-admin-menu.php:164
+#: includes/core/class-common.php:88
+msgid "Member Directories"
+msgstr "Списки участников"
+
+#: includes/admin/core/list-tables/roles-list-table.php:483
+#: includes/admin/core/class-admin-menu.php:161
+#: includes/admin/core/packages/2.0-beta1/user_roles.php:12
+msgid "User Roles"
+msgstr "Роли пользователей"
+
+#: includes/admin/templates/gdpr.php:7
+#: includes/admin/core/class-admin-menu.php:159
+#: includes/core/class-common.php:58
+msgid "Forms"
+msgstr "Формы"
+
+#: includes/admin/core/class-admin-menu.php:151
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: includes/admin/core/class-admin-menu.php:135
+msgctxt "Admin menu name"
+msgid "All Users"
+msgstr "Все Пользователи"
+
+#: includes/admin/core/class-admin-menu.php:127
+msgctxt "Admin menu name"
+msgid "Users"
+msgstr "Пользователи"
+
+#: includes/admin/core/class-admin-menu.php:65
+msgid "Thanks :)"
+msgstr "Спасибо :)"
+
+#: includes/admin/core/class-admin-columns.php:136
+#: includes/admin/core/class-admin-columns.php:155
+msgid "Date"
+msgstr "Дата"
+
+#: includes/admin/core/class-admin-metabox.php:812
+#: includes/admin/core/class-admin-metabox.php:974
+#: includes/admin/core/class-admin-columns.php:135
+#: includes/admin/core/class-admin-columns.php:154
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: includes/admin/core/class-admin-columns.php:133
+msgid "Type"
+msgstr "Тип"
+
+#: includes/admin/core/class-admin-columns.php:132
+#: includes/admin/core/class-admin-columns.php:152
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/core/class-admin-columns.php:102
+#: includes/admin/core/class-admin-builder.php:545
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: includes/admin/core/class-admin-dragdrop.php:168
+#: includes/admin/core/class-admin-dragdrop.php:183
+#: includes/admin/core/class-admin-dragdrop.php:208
+#: includes/admin/core/class-admin-builder.php:465
+msgid "Delete Row"
+msgstr "Удалить ряд"
+
+#: includes/admin/core/class-admin-dragdrop.php:166
+#: includes/admin/core/class-admin-builder.php:392
+#: includes/admin/core/class-admin-builder.php:462
+msgid "Edit Row"
+msgstr "Править ряд"
+
+#: includes/admin/core/class-admin-dragdrop.php:165
+#: includes/admin/core/class-admin-builder.php:391
+#: includes/admin/core/class-admin-builder.php:461
+msgid "Add Row"
+msgstr "Добавить ряд"
+
+#: includes/admin/class-admin.php:197
+msgid "Duplicate of %s"
+msgstr "Дубликат %s"
+
+#: includes/admin/core/class-admin-gdpr.php:64
+msgid "Community Role"
+msgstr "Роль сообщества"
+
+#: includes/admin/core/class-admin-builder.php:929
+#: includes/admin/core/class-admin-builder.php:1003
+msgid "This field type is not setup correcty."
+msgstr "Этот тип поля установлен некорректно"
+
+#: includes/admin/core/class-admin-builder.php:897
+msgid "You did not create any custom fields"
+msgstr "Вы не создали ни одного пользовательского поля"
+
+#: includes/admin/core/class-admin-builder.php:883
+msgid "Custom Fields"
+msgstr "Произвольные (пользовательские) поля"
+
+#: includes/admin/core/class-admin-builder.php:878
+#: includes/core/class-builtin.php:1341
+msgid "None"
+msgstr "Нет"
+
+#: includes/admin/core/class-admin-builder.php:866
+msgid "Predefined Fields"
+msgstr "Предустановленные поля"
+
+#: includes/admin/core/class-admin-builder.php:849
+msgid "Setup New Field"
+msgstr "Настроить новое поле"
+
+#: includes/admin/core/class-admin-builder.php:829
+msgid "Search Icons..."
+msgstr "Искать иконки..."
+
+#: includes/admin/core/class-admin-builder.php:231
+msgid "Reset all rules"
+msgstr "Сбросить все правила"
+
+#: includes/admin/core/class-admin-builder.php:215
+msgid "Add conditional fields support"
+msgstr "Добавить поддержку полей с условием"
+
+#: includes/admin/core/class-admin-builder.php:213
+msgid "Manage conditional fields support"
+msgstr "Организовать поддержку полей с условием"
+
+#: includes/admin/core/class-admin-builder.php:1174
+#: includes/core/class-form.php:176 includes/core/class-form.php:396
+#: includes/core/class-password.php:535
+msgid "This is not possible for security reasons."
+msgstr "Это не допустимо по причинам безопасности."
+
+#: includes/admin/core/class-admin-menu.php:106
+#: includes/admin/core/class-admin-dragdrop.php:33
+#: includes/admin/core/class-admin-builder.php:284
+#: includes/admin/core/class-admin-builder.php:604
+#: includes/admin/core/class-admin-builder.php:763
+#: includes/core/class-fields.php:4544
+msgid "Please login as administrator"
+msgstr "Пожалуйста, войдите как администратор"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/admin/core/class-admin-menu.php:147
+#: includes/core/class-user.php:712
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#: includes/admin/class-admin.php:317
+msgid "Docs"
+msgstr "Документы"
+
+#: includes/admin/core/class-admin-settings.php:1573
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/admin/core/class-admin-columns.php:50
+msgid "Status"
+msgstr "Статус"
+
+#: includes/admin/core/class-admin-menu.php:206
+#: includes/admin/core/class-admin-settings.php:1265
+msgid "Extensions"
+msgstr "Расширения"
+
+#: includes/class-config.php:131 includes/class-config.php:789
+msgid "User"
+msgstr "Пользователь"
+
+#: includes/admin/core/class-admin-metabox.php:1561
+#: includes/admin/core/class-admin-metabox.php:1732
+msgid "Style"
+msgstr "Стиль"
+
+#: includes/admin/core/list-tables/roles-list-table.php:342
+#: includes/admin/core/list-tables/roles-list-table.php:410
+#: includes/admin/core/class-admin-builder.php:552
+#: includes/admin/core/class-admin-enqueue.php:497
+msgid "Delete"
+msgstr "Удалить"
+
+#: includes/admin/templates/role/role-edit.php:193
+#: includes/admin/core/class-admin-metabox.php:2158
+#: includes/admin/core/class-admin-columns.php:131
+#: includes/admin/core/class-admin-columns.php:151
+#: includes/widgets/class-um-search-widget.php:86
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/admin/core/class-admin-settings.php:551
+#: includes/admin/core/class-admin-settings.php:568
+#: includes/core/class-builtin.php:682 includes/core/class-builtin.php:685
+#: includes/core/class-member-directory.php:289
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: includes/admin/core/class-admin-enqueue.php:485
+#: includes/core/class-builtin.php:706 includes/core/class-builtin.php:709
+#: includes/core/class-builtin.php:1166 includes/core/class-builtin.php:1169
+#: includes/core/um-actions-account.php:538
+#: includes/core/um-actions-account.php:598
+msgid "Password"
+msgstr "Пароль"
+
+#: includes/admin/core/class-admin-users.php:308
+#: includes/admin/core/class-admin-users.php:310
+#: includes/admin/assets/js/um-admin-blocks-shortcode.js:340
+msgid "All"
+msgstr "всё"
+
+#: includes/admin/core/class-admin-forms.php:1033
+#: includes/admin/core/class-admin-forms.php:1052
+#: includes/admin/core/class-admin-forms.php:1178
+#: includes/admin/core/class-admin-forms.php:1187
+#: includes/admin/core/class-admin-forms.php:1427
+#: includes/admin/core/class-admin-forms.php:1441
+#: includes/admin/core/class-admin-forms.php:1537
+#: includes/admin/core/class-admin-forms.php:1559
+#: includes/admin/core/class-admin-notices.php:400
+#: includes/core/um-actions-profile.php:748
+#: includes/admin/assets/js/um-admin-forms.js:201
+#: includes/admin/assets/js/um-admin-forms.js:266
+#: includes/admin/assets/js/um-admin-forms.js:539
+#: includes/admin/assets/js/um-admin-forms.js:573
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/admin/core/class-admin-metabox.php:2002
+#: includes/core/class-fields.php:1707 includes/core/class-fields.php:1748
+#: includes/core/class-fields.php:2587 includes/core/class-fields.php:2662
+msgid "Upload"
+msgstr "Загрузить"
+
+#: includes/admin/templates/form/login_settings.php:16
+#: includes/admin/templates/form/register_customize.php:6
+#: includes/admin/templates/form/register_customize.php:32
+#: includes/admin/core/class-admin-settings.php:609
+#: includes/admin/core/class-admin-columns.php:134
+#: includes/admin/core/class-admin-columns.php:153
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/admin/core/class-admin-metabox.php:1020
+msgid "Options"
+msgstr "Настройки"
+
+#: includes/admin/core/class-admin-settings.php:2508
+msgid "To copy the Install info, click below then press Ctrl + C (PC) or Cmd + C (Mac)."
+msgstr "Чтобы скопировать информацию об установке, нажмите ниже, затем нажмите Ctrl + C (ПК) или Cmd + C (Mac)."

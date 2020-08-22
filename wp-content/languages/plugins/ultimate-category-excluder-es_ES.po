@@ -1,0 +1,72 @@
+# Translation of Plugins - Ultimate Category Excluder - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Ultimate Category Excluder - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-04 14:35:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Ultimate Category Excluder - Development (trunk)\n"
+
+#: ultimate-category-excluder.php:60
+msgid "Update"
+msgstr "Actualizar"
+
+#. Author of the plugin/theme
+msgid "Michael Clark"
+msgstr "Michael Clark"
+
+#. Author URI of the plugin/theme
+msgid "http://www.planetmike.com"
+msgstr "http://www.planetmike.com"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.planetmike.com/plugins/ultimate-category-excluder/"
+msgstr "http://www.planetmike.com/plugins/ultimate-category-excluder/"
+
+#: ultimate-category-excluder.php:19 ultimate-category-excluder.php:27
+msgid "Ultimate Category Excluder Options"
+msgstr "Opciones de Ultimate Category Excluder "
+
+#. Description of the plugin/theme
+msgid "Easily exclude categories from your front page, feeds, archives, and search results."
+msgstr "Excluye categorías fácilmente de tu página de inicio, feeds, archivos y resultados de búsqueda."
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Category Excluder"
+msgstr "Ultimate Category Excluder"
+
+#: ultimate-category-excluder.php:93
+msgid "Excludes successfully updated"
+msgstr "Exclusiones actualizadas correctamente"
+
+#: ultimate-category-excluder.php:38
+msgid "Exclude from Search?"
+msgstr "¿Excluir de la búsqueda?"
+
+#: ultimate-category-excluder.php:37
+msgid "Exclude from Archives?"
+msgstr "¿Excluir de los archivos?"
+
+#: ultimate-category-excluder.php:36
+msgid "Exclude from Feeds?"
+msgstr "¿Excluir de los feeds?"
+
+#: ultimate-category-excluder.php:35
+msgid "Exclude from Main Page?"
+msgstr "¿Excluir de la página de inicio?"
+
+#: ultimate-category-excluder.php:29
+msgid "Use this page to select the categories you wish to exclude and where you would like to exclude them from."
+msgstr "Utiliza esta página para elegir las categorías que quieres excluir y de dónde quieres excluirlas."
+
+#: ultimate-category-excluder.php:19
+msgid "Category Exclusion"
+msgstr "Exclusión de categorías"
+
+#: ultimate-category-excluder.php:34
+msgid "Category"
+msgstr "Categoría"

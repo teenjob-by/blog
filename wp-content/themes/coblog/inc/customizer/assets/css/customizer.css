@@ -1,0 +1,43 @@
+/*
+* Customizer CSS
+*/
+
+/* Switch */
+.coblog-customizer-switch{
+	position: relative;
+}
+.coblog-customizer-switch input{
+	top: -20px;
+    position: absolute;
+    right: 0;
+}
+
+.coblog-customizer-typography select{
+	display: inline-block;
+	width: 48%;
+}
+
+/* Layout */
+.coblog-customizer-layout input{
+	border: 1px solid #ffffff;
+    visibility: hidden;
+	overflow: hidden;
+	height: 0px;
+}
+.coblog-customizer-layout label{
+	display: block;
+}
+.coblog-customizer-layout input[type="radio"]:checked + label {
+	border: 1px solid #3F51B5;
+	border-radius: 3px;
+}
+.coblog-customizer-layout img{
+	width: 100%;
+	display: block;
+	border-radius: 3px;
+}
+
+/* Typography */
+.coblog-customizer-typography-input{
+	display: none;
+}

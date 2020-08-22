@@ -1,0 +1,1039 @@
+# Translation of Themes - Wishful Blog in Russian
+# This file is distributed under the same license as the Themes - Wishful Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-03 07:45:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Wishful Blog\n"
+
+#. Description of the theme
+msgid "Wishful Blog is simple and attractive free WordPress Blog theme. Wishful Blog is suitable to everykinds of blog you are looking for. It has highly customizable options to manage site and SEO is properly managed for site ranking. Default fallback image is additional features where you rarely get this option in WordPress theme. Beside these, there are layout options for banner and blog list, sidebar options, color options, typography options and many more. You can also find custom widgets of Wishful Blog to make site more attractive and unique. For more details, please visit : https://www.wishfulthemes.com/themes/wishful-blog/"
+msgstr "Wishful Blog - это простая и привлекательная бесплатная тема для блога на WordPress. Wishful Blog подходит для всех типов блогов, которые вам нужны. Она имеет настраиваемые параметры для управления сайтом и SEO управляеться должным образом для хорошего рейтинга сайта. Резервное изображение по умолчанию - это дополнительная функция, которую вы редко получаете в теме WordPress. Помимо этого, есть варианты макета для баннера и списка блогов, параметры боковой панели, параметры цвета, параметры типографии и многое другое. Вы также найдете пользовательские виджеты блога Wishful, чтобы сделать сайт более привлекательным и уникальным. Для получения более подробной информации, пожалуйста, посетите: https://www.wishfulthemes.com/themes/wishful-blog/"
+
+#: footer.php:83
+msgid "Copyright."
+msgstr "Копирайт"
+
+#: 404.php:22
+msgid "Sorry, but the page you were looking for could not be found."
+msgstr "К сожалению, запрашиваемая вами страница не была найдена."
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: 404.php:20
+msgid "404"
+msgstr "404"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: search query.
+#: search.php:27
+msgid "Search Results For : %s"
+msgstr "Результаты поиска «%s»"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:192
+msgid "Add widget here for Footer Widget Area : Right."
+msgstr "Добавьте тут виджет для раздела виджетов в подвале : справа."
+
+#: functions.php:190
+msgid "Footer Widget Area : Right"
+msgstr "Раздел виджетов в подвале : справа"
+
+#: functions.php:182
+msgid "Add widget here for Footer Widget Area : Middle."
+msgstr "Добавьте тут виджет для раздела виджетов в подвале : посредине."
+
+#: functions.php:180
+msgid "Footer Widget Area : Middle"
+msgstr "Раздел виджетов в подвале : посредине"
+
+#: functions.php:172
+msgid "Add widget here for Footer Widget Area : Left."
+msgstr "Добавьте тут виджет для раздела виджетов в подвале : слева."
+
+#: functions.php:170
+msgid "Footer Widget Area : Left"
+msgstr "Область виджетов в подвале"
+
+#: functions.php:157
+msgid "Add only homepage post widget here."
+msgstr "Добавьте сюда только виджет записи главной страницы."
+
+#: functions.php:155
+msgid "Homepage Top Widget Area"
+msgstr "Раздел виджета верха главной страницы"
+
+#: functions.php:134 functions.php:146
+msgid "Add widgets here for sidebar."
+msgstr "Добавьте здесь виджеты для боковой панели."
+
+#: functions.php:132
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Основное"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:99
+msgid "%1$s by %2$s"
+msgstr "%1$s от %2$s"
+
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:94 footer.php:99
+msgid "Wishfulthemes"
+msgstr "Wishfulthemes"
+
+#: inc/theme-functions.php:570
+msgid "Number Format"
+msgstr "Числовой формат"
+
+#: inc/theme-functions.php:569
+msgid "Standard Format"
+msgstr "Обычный формат"
+
+#: inc/theme-functions.php:550
+msgid "Dark Mode"
+msgstr "Темный режим"
+
+#: inc/theme-functions.php:549
+msgid "Light Mode"
+msgstr "Светлый режим"
+
+#: inc/theme-functions.php:508
+msgid "Fullwidth"
+msgstr "На всю ширину"
+
+#: inc/theme-functions.php:489 inc/theme-functions.php:590
+msgid "Style Two"
+msgstr "Второй стиль"
+
+#: inc/theme-functions.php:488 inc/theme-functions.php:589
+msgid "Style One"
+msgstr "Первый стиль"
+
+#: inc/theme-functions.php:469
+msgid "Grid : 2 Column"
+msgstr "Сетка: 2 колонки"
+
+#: inc/theme-functions.php:468
+msgid "List Layout"
+msgstr "Вывод в виде списка"
+
+#: inc/theme-functions.php:449
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: inc/theme-functions.php:448
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+#: inc/theme-functions.php:375
+msgid "Maximum 3 items and minimum 2 items can be set."
+msgstr "Могут быть установлены от 2 до 3 элементов."
+
+#: inc/theme-functions.php:337
+msgid "Banner Layout Two"
+msgstr "Макет баннера 2"
+
+#: inc/theme-functions.php:336
+msgid "Banner Layout One"
+msgstr "Макет банера один"
+
+#: inc/theme-functions.php:299
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/theme-functions.php:298
+msgid "Wishful Blog Pro"
+msgstr "Wishful Blog Pro"
+
+#: inc/theme-functions.php:183
+msgid "Add Menu"
+msgstr "Добавить меню"
+
+#: inc/theme-functions.php:159
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/theme-functions.php:159
+msgid "Enter Keyword"
+msgstr "Введите слово"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/theme-functions.php:26
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/theme-functions.php:22
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "off"
+
+#: inc/metabox/post-meta.php:71
+msgid "checked"
+msgstr "отмечено"
+
+#: inc/metabox/post-meta.php:60
+msgid "None"
+msgstr "Нет"
+
+#: inc/metabox/post-meta.php:59 inc/theme-functions.php:510
+msgid "Left"
+msgstr "Слева"
+
+#: inc/metabox/post-meta.php:58 inc/theme-functions.php:509
+msgid "Right"
+msgstr "Справа"
+
+#: inc/metabox/post-meta.php:37
+msgid "Sidebar Position"
+msgstr "Положение боковой панели"
+
+#. translators: %s: post title
+#: inc/template-tags.php:291
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к записи %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:281
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:278
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:274
+msgid "Posted in %1$s"
+msgstr "Опубликовано в рубрике %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:271
+msgid ", "
+msgstr ", "
+
+#. translators: %s: comments number.
+#: inc/template-tags.php:138
+msgid "%s comments"
+msgstr "Комментариев: %s"
+
+#. translators: %s: comments number.
+#: inc/template-tags.php:134
+msgid "%s comment"
+msgstr "Комментариев: %s"
+
+#: inc/template-tags.php:131
+msgid "0 Comment"
+msgstr "Нет комментариев"
+
+#. translators: %1$s: category list.
+#: inc/template-tags.php:108
+msgid "&nbsp;%1$s"
+msgstr "&nbsp;%1$s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:33
+msgctxt "post date"
+msgid "&emsp%s"
+msgstr "&emsp%s"
+
+#: inc/customizer/customizer-theme-options.php:1621 functions.php:144
+msgid "WooCommerce Sidebar"
+msgstr "Боковая колонка WooCommerce"
+
+#: inc/customizer/customizer-theme-options.php:1611
+msgid "Button Background Hover Color"
+msgstr "Цвет кнопки фона субменю при наведении"
+
+#: inc/customizer/customizer-theme-options.php:1601
+msgid "Button Background Color"
+msgstr "Цвет фона кнопки"
+
+#: inc/customizer/customizer-theme-options.php:1591
+msgid "Button Text Hover Color"
+msgstr "Цвет текста кнопки при наведении"
+
+#: inc/customizer/customizer-theme-options.php:1581
+msgid "Button Text Color"
+msgstr "Цвет текста кнопки"
+
+#: inc/customizer/customizer-theme-options.php:1571
+msgid "Label Color"
+msgstr "Цвет надписей"
+
+#: inc/customizer/customizer-theme-options.php:1561
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer/customizer-theme-options.php:1551
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer/customizer-theme-options.php:1540
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/customizer-theme-options.php:1527
+msgid "Button Font Size"
+msgstr "Размер шрифта кнопки"
+
+#: inc/customizer/customizer-theme-options.php:1514
+msgid "Button Font Weight"
+msgstr "Толщина шрифта кнопки"
+
+#: inc/customizer/customizer-theme-options.php:1501
+msgid "Button Font Family"
+msgstr "Семейство шрифта кнопки"
+
+#: inc/customizer/customizer-theme-options.php:1486
+msgid "Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: inc/customizer/customizer-theme-options.php:1473
+msgid "Title Font Weight"
+msgstr "Толщина шрифта заголовка"
+
+#: inc/customizer/customizer-theme-options.php:1460
+msgid "Title Font Family"
+msgstr "Шрифт заголовка"
+
+#: inc/customizer/customizer-theme-options.php:1447
+#: inc/customizer/customizer-theme-options.php:1541
+msgid "You need to install Email Capture &amp; Lead Generation plugin for this option."
+msgstr "Вам надо установить плагин Email Capture &amp; Lead Generation для этой опции."
+
+#: inc/customizer/customizer-theme-options.php:1446
+msgid "Typography"
+msgstr "Типография"
+
+#: inc/customizer/customizer-theme-options.php:1435
+msgid "Newsletter Options"
+msgstr "Настройки новостной рассылки"
+
+#: inc/customizer/customizer-theme-options.php:1423
+msgid "You can use <a> & <span> tags with the copyright and credit text."
+msgstr "Вы можете использовать теги <a> & <span> в авторской информации и благодарностях."
+
+#: inc/customizer/customizer-theme-options.php:1422
+msgid "Copyright & Credit Text"
+msgstr "Текст авторского права и благодарности"
+
+#: inc/customizer/customizer-theme-options.php:1395
+msgid "Footer Color Mode"
+msgstr "Режим цвета подвала"
+
+#: inc/customizer/customizer-theme-options.php:1385
+msgid "Footer Options"
+msgstr "Настройка подвала"
+
+#: inc/customizer/customizer-theme-options.php:1370
+msgid "Next Text"
+msgstr "Текст \"Далее\""
+
+#: inc/customizer/customizer-theme-options.php:1357
+msgid "Previous Text"
+msgstr "Текст \"Предыдущий\""
+
+#: inc/customizer/customizer-theme-options.php:1343
+msgid "Pagination Format"
+msgstr "Формат пагинации"
+
+#: inc/customizer/customizer-theme-options.php:1326
+msgid "Sets numbers to either side of current page, but not including current page. Maximum 5 and minimum 0 can be set."
+msgstr "Устанавливает числа по обе стороны от текущей страницы, но не включая текущую страницу. Можно установить максимум 5 и минимум 0."
+
+#: inc/customizer/customizer-theme-options.php:1325
+msgid "Paination Middle Size"
+msgstr "Средний размер пагинации"
+
+#: inc/customizer/customizer-theme-options.php:1314
+msgid "Pagination Setting"
+msgstr "Настройки пагинации"
+
+#: inc/customizer/customizer-theme-options.php:1307
+msgid "Pagination Options"
+msgstr "Настройки пагинации"
+
+#: inc/customizer/customizer-theme-options.php:1293
+msgid "Related Posts : Meta Options"
+msgstr "Схожие записи: Настройки мета"
+
+#: inc/customizer/customizer-theme-options.php:1280
+msgid "Related Posts : Title"
+msgstr "Схожие записи: Заголовок"
+
+#: inc/customizer/customizer-theme-options.php:1268
+msgid "Display Related Posts"
+msgstr "Отображать похожие записи"
+
+#: inc/customizer/customizer-theme-options.php:1256
+msgid "Display Author Box"
+msgstr "Показывать раздел автора"
+
+#: inc/customizer/customizer-theme-options.php:1209
+msgid "Single Post"
+msgstr "Одиночная запись"
+
+#: inc/customizer/customizer-theme-options.php:1101
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: inc/customizer/customizer-theme-options.php:993
+msgid "Archive Page"
+msgstr "Страница архива"
+
+#: inc/customizer/customizer-theme-options.php:981
+msgid "Site Pages Options"
+msgstr "Настройки страниц сайта"
+
+#: inc/customizer/customizer-theme-options.php:967
+#: inc/customizer/customizer-theme-options.php:1086
+#: inc/customizer/customizer-theme-options.php:1194
+#: inc/customizer/customizer-theme-options.php:1244
+msgid "Display Posted Date"
+msgstr "Показывать дату публикации"
+
+#: inc/customizer/customizer-theme-options.php:954
+#: inc/customizer/customizer-theme-options.php:1073
+#: inc/customizer/customizer-theme-options.php:1181
+#: inc/customizer/customizer-theme-options.php:1232
+msgid "Display Post Author"
+msgstr "Показывать автора публикации"
+
+#: inc/customizer/customizer-theme-options.php:928
+#: inc/customizer/customizer-theme-options.php:1047
+#: inc/customizer/customizer-theme-options.php:1155
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customizer/customizer-theme-options.php:914
+#: inc/customizer/customizer-theme-options.php:1033
+#: inc/customizer/customizer-theme-options.php:1141
+#: inc/customizer/customizer-theme-options.php:1632
+msgid "Select Sidebar Position"
+msgstr "Выберите позицию области виджетов"
+
+#: inc/customizer/customizer-theme-options.php:899
+#: inc/customizer/customizer-theme-options.php:1018
+#: inc/customizer/customizer-theme-options.php:1126
+msgid "Select Post Listing Style"
+msgstr "Выберите стиль листинга записи"
+
+#: inc/customizer/customizer-theme-options.php:885
+#: inc/customizer/customizer-theme-options.php:1004
+#: inc/customizer/customizer-theme-options.php:1112
+msgid "Select Post Listing Layout"
+msgstr "Выберите макет листинга записи"
+
+#: inc/customizer/customizer-theme-options.php:875
+msgid "Homepage Options"
+msgstr "Настройки домашней страницы"
+
+#: inc/customizer/customizer-theme-options.php:847
+msgid "Enable Fallback Image in Banner"
+msgstr "Разрешить резервное изображение в баннере"
+
+#: inc/customizer/customizer-theme-options.php:819
+msgid "Number of Posts"
+msgstr "Число записей"
+
+#: inc/customizer/customizer-theme-options.php:805
+msgid "Select Post Type"
+msgstr "Выбрать тип записи:"
+
+#: inc/customizer/customizer-theme-options.php:791
+msgid "Select Post Category"
+msgstr "Выберите категорию записи"
+
+#: inc/customizer/customizer-theme-options.php:777
+msgid "Posts must have featured image in order to display content."
+msgstr "В записях должно быть главное изображение для отображения контента."
+
+#: inc/customizer/customizer-theme-options.php:776
+msgid "Select Banner Layout"
+msgstr "Выберите макет банера"
+
+#: inc/customizer/customizer-theme-options.php:764
+msgid "Enable Banner Section"
+msgstr "Включить раздел банера"
+
+#: inc/customizer/customizer-theme-options.php:754
+msgid "Banner Options"
+msgstr "Настройки банера"
+
+#: inc/customizer/customizer-theme-options.php:738
+msgid "Enable WooCommerce Cart"
+msgstr "Включить корзину WooCommerce"
+
+#: inc/customizer/customizer-theme-options.php:723
+msgid "User Logout Text"
+msgstr "Текст выхода пользователя"
+
+#: inc/customizer/customizer-theme-options.php:710
+msgid "User Edit Profile Text"
+msgstr "Текст редактирования профиля пользователя"
+
+#: inc/customizer/customizer-theme-options.php:697
+msgid "User Lost Password Text"
+msgstr "Текст пользователя при потере пароля"
+
+#: inc/customizer/customizer-theme-options.php:684
+msgid "User Login Text"
+msgstr "Текст входа пользователя"
+
+#: inc/customizer/customizer-theme-options.php:671
+msgid "User Register Text"
+msgstr "Текст регистрации пользователя"
+
+#: inc/customizer/customizer-theme-options.php:659
+msgid "Display User Login/Register Icon"
+msgstr "Показать иконку входа/регистрации пользователя"
+
+#: inc/customizer/customizer-theme-options.php:647
+msgid "Enable Search Button"
+msgstr "Включить кнопку поиска"
+
+#: inc/customizer/customizer-theme-options.php:635
+#: inc/customizer/customizer-theme-options.php:1409
+msgid "Enable Social Links"
+msgstr "Включить соц. сети"
+
+#: inc/customizer/customizer-theme-options.php:611
+msgid "Enable Sticky Header"
+msgstr "Включить прилипание верхнего колонтитула"
+
+#: inc/customizer/customizer-theme-options.php:594
+msgid "You can set opacity from 0 to 10"
+msgstr "Вы можете установить прозрачность от 0 до 10"
+
+#: inc/customizer/customizer-theme-options.php:593
+msgid "Header Image Opacity"
+msgstr "Прозрачность изображения заголовка"
+
+#: inc/customizer/customizer-theme-options.php:582
+msgid "Main Header"
+msgstr "Основной заголовок"
+
+#: inc/customizer/customizer-theme-options.php:569
+msgid "Site Title Font Size"
+msgstr "Размер шрифта заголовка сайта"
+
+#: inc/customizer/customizer-theme-options.php:556
+msgid "Site Title Font Weight"
+msgstr "Толщина шрифта заголовка сайта"
+
+#: inc/customizer/customizer-theme-options.php:543
+msgid "Site Title Font Family"
+msgstr "Шрифт заголовка сайта"
+
+#: inc/customizer/customizer-theme-options.php:530
+msgid "Padding Bottom"
+msgstr "Нижний отступ"
+
+#: inc/customizer/customizer-theme-options.php:518
+#: inc/customizer/customizer-theme-options.php:531
+msgid "You have to use in px. Eg: 20px."
+msgstr "Вы должны использовать в px. Например: 20px."
+
+#: inc/customizer/customizer-theme-options.php:517
+msgid "Padding Top"
+msgstr "Верхний отступ"
+
+#: inc/customizer/customizer-theme-options.php:506
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+#: inc/customizer/customizer-theme-options.php:493
+msgid "Logo & Header Options"
+msgstr "Настройки логотипа и шапки"
+
+#: inc/customizer/customizer-theme-options.php:480
+msgid "Upload Fallback Image"
+msgstr "Загрузить резервное изображение"
+
+#: inc/customizer/customizer-theme-options.php:470
+msgid "Enable Fallback Image"
+msgstr "Включить Резервное изображение"
+
+#: inc/customizer/customizer-theme-options.php:460
+msgid "Fallback Image"
+msgstr "Резервное изображение"
+
+#: inc/customizer/customizer-theme-options.php:443
+msgid "Excerpt is the short post content. Excerpt length sets the number of words that the excerpt can contain. This is the default excerpt length used for other pages too. Maximum excerpt length 40 and minimum excerpt length 20 can be set."
+msgstr "Отрывок это небольшая часть текста записи. Длина отрывка задает количество слов, которое может содержать отрывок. Это длина выдержки по умолчанию, используемая и для других страниц. Может быть установлена максимальная длина отрывка 40 и минимальная длина отрывка 20."
+
+#: inc/customizer/customizer-theme-options.php:431
+#: inc/customizer/customizer-theme-options.php:442
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+#: inc/customizer/customizer-theme-options.php:417
+msgid "Enable Scroll Top"
+msgstr "Включить прокрутить наверх"
+
+#: inc/customizer/customizer-theme-options.php:406
+msgid "Scroll Top"
+msgstr "Пролистать наверх"
+
+#: inc/customizer/customizer-theme-options.php:333
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: inc/customizer/customizer-theme-options.php:279
+msgid "Widget Title Typography"
+msgstr "Типографика заголовка виджета"
+
+#: inc/customizer/customizer-theme-options.php:225
+msgid "Post Listing Title Typography"
+msgstr "Типография заголовка записи"
+
+#: inc/customizer/customizer-theme-options.php:211
+#: inc/customizer/customizer-theme-options.php:265
+#: inc/customizer/customizer-theme-options.php:319
+#: inc/customizer/customizer-theme-options.php:570
+#: inc/customizer/customizer-theme-options.php:1487
+#: inc/customizer/customizer-theme-options.php:1528
+msgid "You can set font size in pixel or normal. Eg: 24px, 1.3em etc."
+msgstr "Вы можете установить размер шрифта в пикселях или обычный. Например: 24px, 1.3em и т.д."
+
+#: inc/customizer/customizer-theme-options.php:210
+#: inc/customizer/customizer-theme-options.php:264
+#: inc/customizer/customizer-theme-options.php:318
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/customizer/customizer-theme-options.php:197
+#: inc/customizer/customizer-theme-options.php:251
+#: inc/customizer/customizer-theme-options.php:305
+msgid "Font Weight"
+msgstr "Толщина шрифта"
+
+#: inc/customizer/customizer-theme-options.php:184
+#: inc/customizer/customizer-theme-options.php:238
+#: inc/customizer/customizer-theme-options.php:292
+msgid "Font Family"
+msgstr "Семейство шрифтов"
+
+#: inc/customizer/customizer-theme-options.php:171
+msgid "Body Typography"
+msgstr "Основная типографика"
+
+#: inc/customizer/customizer-theme-options.php:158
+msgid "Responsive : Sub Menu Background Color"
+msgstr "Адаптивный: Цвет фона подменю"
+
+#: inc/customizer/customizer-theme-options.php:148
+msgid "Sub Menu Border Color"
+msgstr "Цвет границы подменю"
+
+#: inc/customizer/customizer-theme-options.php:138
+msgid "Main Menu Border Color"
+msgstr "Цвет границы основного меню"
+
+#: inc/customizer/customizer-theme-options.php:128
+msgid "Sub Menu Background Color"
+msgstr "Цвет фона подменю"
+
+#: inc/customizer/customizer-theme-options.php:118
+msgid "Main Menu Background Color"
+msgstr "Цвет фона основного меню"
+
+#: inc/customizer/customizer-theme-options.php:108
+msgid "Sub Menu Link Hover Color"
+msgstr "Цвет ссылки подменю при наведении"
+
+#: inc/customizer/customizer-theme-options.php:98
+msgid "Sub Menu Link Color"
+msgstr "Цвет ссылки подменю"
+
+#: inc/customizer/customizer-theme-options.php:88
+msgid "Main Menu Link Hover Color"
+msgstr "Цвет ссылки главного меню при наведении"
+
+#: inc/customizer/customizer-theme-options.php:78
+msgid "Main Menu Link Color"
+msgstr "Цвет ссылки главного меню"
+
+#: inc/customizer/customizer-theme-options.php:66
+msgid "Menu Color"
+msgstr "Цвет меню"
+
+#: inc/customizer/customizer-theme-options.php:53
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/customizer-theme-options.php:41
+msgid "Global Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/customizer-theme-options.php:28
+msgid "General Options"
+msgstr "Основные настройки"
+
+#: inc/customizer/customizer.php:51
+msgid "Site Background"
+msgstr "Фон сайта"
+
+#: inc/customizer/customizer.php:50
+msgid "Site Title Color"
+msgstr "Цвет названия сайта"
+
+#: inc/template-functions.php:458
+msgid "right"
+msgstr "справа"
+
+#: inc/template-functions.php:365 inc/woocommerce-functions.php:33
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#: inc/template-functions.php:362 inc/woocommerce-functions.php:30
+msgid "View Cart"
+msgstr "Перейти в корзину"
+
+#: inc/template-functions.php:308
+msgid "Log Out"
+msgstr "Выйти"
+
+#: inc/template-functions.php:307
+msgid "Edit Profile"
+msgstr "Изменить"
+
+#: inc/template-functions.php:306
+msgid "Reset Password"
+msgstr "Задать пароль"
+
+#: inc/template-functions.php:305
+msgid "Log In"
+msgstr "Войти"
+
+#: inc/template-functions.php:304
+msgid "Sign Up"
+msgstr "Регистрация"
+
+#: inc/template-functions.php:153
+msgid "Comments Pagination"
+msgstr "Пагинация комментариев"
+
+#: inc/template-functions.php:152
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: inc/template-functions.php:151
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: inc/template-functions.php:136
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: inc/template-functions.php:135
+msgid "Next"
+msgstr "Вперед"
+
+#: inc/template-functions.php:131
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/welcome/welcome.php:221
+msgid "Processing..."
+msgstr "Обработка..."
+
+#: inc/welcome/welcome.php:188
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно подключить файловую систему. Перепроверьте данные авторизации."
+
+#: inc/welcome/welcome.php:110
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вам не разрешено устанавливать плагины на этот сайт."
+
+#: inc/welcome/welcome.php:74
+msgid "Get started with %s"
+msgstr "Начать с %s"
+
+#: inc/welcome/welcome.php:74
+msgid "Clicking on get started will activate &quot;Wishful Companion&quot;, &quot;Email Capture &amp; Lead Generation&quot; plugins."
+msgstr "При нажатии кнопки «Начать» активируются плагины &quot;Wishful Companion&quot;, &quot;Email Capture &amp; Lead Generation&quot;."
+
+#: inc/welcome/welcome.php:74
+msgid "Welcome! Thank you for choosing %1$s!. To fully take advantage of our theme what we offer, Lets Get Started."
+msgstr "Добро пожаловать! Спасибо за выбор %1$s!. Для того, чтобы полностью воспользоваться всем лучшим предлагаемым этой темой, давайте начнем."
+
+#: widgets/eclg-newsletter-widget.php:159
+#: inc/customizer/customizer-theme-options.php:834
+msgid "Button Title"
+msgstr "Заголовок кнопки"
+
+#: widgets/eclg-newsletter-widget.php:153
+msgid "Display Last Name Field"
+msgstr "Показать поле Фамилия"
+
+#: widgets/eclg-newsletter-widget.php:146
+msgid "Display First Name Field"
+msgstr "Показать поле Имя"
+
+#: widgets/eclg-newsletter-widget.php:126
+msgid "Email Capture &amp; Lead Generation"
+msgstr "Email Capture &amp; Lead Generation"
+
+#. translators: %1$s: plugin name.
+#: widgets/eclg-newsletter-widget.php:125
+msgid "Please install and activate %1$s plugin to use Newsletter widget."
+msgstr "Пожалуйста, установите и активируйте плагин %1$s, чтобы использовать виджет Новостная рассылка."
+
+#: widgets/eclg-newsletter-widget.php:44 widgets/eclg-newsletter-widget.php:113
+msgid "Submit"
+msgstr "Отправить"
+
+#: widgets/eclg-newsletter-widget.php:23
+msgid "WB : Newsletter Widget"
+msgstr "WB : Виджет новостная рассылка"
+
+#: widgets/eclg-newsletter-widget.php:19
+msgid "Custom Wishful Blog Newsletter Plugin compatible with ECLG Newsletter."
+msgstr "Пользовательский плагин Wishful Blog для рассылки новостей, совместимый с ECLG."
+
+#: widgets/post-widget-layout-one.php:146
+msgid "Place \"Post Widget Layout One\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Поместите \"Макет один виджета записи\" в \"Боковую панель или Зону виджетов подвала\"."
+
+#: widgets/post-widget-layout-one.php:23
+msgid "WB : Post Widget Layout One"
+msgstr "WB : Макет один виджета записи"
+
+#: widgets/post-widget-layout-one.php:19
+msgid "Custom Wishful Blog Post Widget Layout One"
+msgstr "Пользовательский Wishful Blog макет один виджета записи"
+
+#: widgets/wishful-author-widget.php:158
+msgid "Author Link Title"
+msgstr "Заголовок ссылки страницы автора"
+
+#: widgets/wishful-author-widget.php:150
+msgid "&mdash; Select Page &mdash;"
+msgstr "&mdash; Выбор страницы &mdash;"
+
+#: widgets/wishful-author-widget.php:142
+msgid "Author Page"
+msgstr "Страница автора"
+
+#: widgets/wishful-author-widget.php:104
+msgid "Place \"Author Widget\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Поместите \"Виджет автор\" в \"Боковую панель или Зону виджетов подвала\"."
+
+#: widgets/wishful-author-widget.php:23
+msgid "WB : Author Widget"
+msgstr "WB: Виджет об авторе"
+
+#: widgets/wishful-author-widget.php:19
+msgid "Custom Wishful Blog Author Widget"
+msgstr "Пользовательский Wishful Blog виджет автора"
+
+#: widgets/homepage-post-widget.php:207
+msgid "Layout Style"
+msgstr "Стиль разметки"
+
+#: widgets/homepage-post-widget.php:23
+msgid "WB : Homepage Post Widget"
+msgstr "WB : Виджет записи домашней страницы"
+
+#: widgets/homepage-post-widget.php:19
+msgid "Custom Wishful Blog Homepage Post Widget"
+msgstr "Пользовательский Wishful Blog виджет записи домашней страницы"
+
+#: widgets/social-widget.php:165
+msgid "Vimeo Link"
+msgstr "Ссылка Vimeo"
+
+#: widgets/social-widget.php:158
+#: inc/customizer/customizer-theme-options.php:368
+msgid "Pinterest Link"
+msgstr "Ссылка в Pinterest "
+
+#: widgets/social-widget.php:151
+#: inc/customizer/customizer-theme-options.php:380
+msgid "Instagram Link"
+msgstr "ссылка на Instagram"
+
+#: widgets/social-widget.php:144
+#: inc/customizer/customizer-theme-options.php:392
+msgid "Youtube Link"
+msgstr "Ссылка Youtube"
+
+#: widgets/social-widget.php:137
+#: inc/customizer/customizer-theme-options.php:356
+msgid "Twitter Link"
+msgstr "ссылка на Твиттер"
+
+#: widgets/social-widget.php:130
+#: inc/customizer/customizer-theme-options.php:344
+msgid "Facebook Link"
+msgstr "Ссылка Facebook"
+
+#: widgets/social-widget.php:91
+msgid "Place \"Social Widget\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Поместите \"Социальный виджет\" в \"Боковую панель или Зону виджетов подвала\"."
+
+#: widgets/social-widget.php:78
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/social-widget.php:74
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: widgets/social-widget.php:70
+msgid "instagram"
+msgstr "instagram"
+
+#: widgets/social-widget.php:66
+msgid "Youtube"
+msgstr "Youtube"
+
+#: widgets/social-widget.php:62
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/social-widget.php:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/social-widget.php:23
+msgid "WB : Social Widget"
+msgstr "WB : Виджет соц. сетей"
+
+#: widgets/social-widget.php:19
+msgid "Custom Wishful Blog Social Widget"
+msgstr "Пользовательский Wishful Blog виджет соц. сетей"
+
+#: widgets/post-widget-layout-two.php:239 widgets/homepage-post-widget.php:277
+#: widgets/post-widget-layout-one.php:236 inc/theme-functions.php:530
+msgid "Display Comment No."
+msgstr "Отображать число комментариев"
+
+#: widgets/post-widget-layout-two.php:238 widgets/homepage-post-widget.php:276
+#: widgets/post-widget-layout-one.php:235
+#: inc/customizer/customizer-theme-options.php:860
+#: inc/customizer/customizer-theme-options.php:941
+#: inc/customizer/customizer-theme-options.php:1060
+#: inc/customizer/customizer-theme-options.php:1168
+#: inc/customizer/customizer-theme-options.php:1220 inc/theme-functions.php:529
+msgid "Display Category"
+msgstr "Показывать рубрику"
+
+#: widgets/post-widget-layout-two.php:233 widgets/homepage-post-widget.php:271
+#: widgets/post-widget-layout-one.php:230
+msgid "Display Options"
+msgstr "Настройки отображения"
+
+#: widgets/post-widget-layout-two.php:226 widgets/homepage-post-widget.php:264
+#: widgets/post-widget-layout-one.php:223
+msgid "No of Posts"
+msgstr "Число записей"
+
+#: widgets/post-widget-layout-two.php:206 widgets/homepage-post-widget.php:244
+#: widgets/post-widget-layout-one.php:203
+msgid "Post Type"
+msgstr "Тип записи"
+
+#: widgets/post-widget-layout-two.php:198 widgets/homepage-post-widget.php:236
+#: widgets/post-widget-layout-one.php:195
+msgid "Show All Category Posts"
+msgstr "Показать все записи рубрики"
+
+#: widgets/post-widget-layout-two.php:189 widgets/homepage-post-widget.php:227
+#: widgets/post-widget-layout-one.php:186
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+#: widgets/post-widget-layout-two.php:182 widgets/social-widget.php:123
+#: widgets/homepage-post-widget.php:200 widgets/wishful-author-widget.php:135
+#: widgets/post-widget-layout-one.php:179
+#: widgets/eclg-newsletter-widget.php:138
+msgid "Title"
+msgstr "Заголовок"
+
+#: widgets/post-widget-layout-two.php:149
+msgid "Place \"Post Widget Layout Two\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Поместите \"Макет два виджета записи\" в \"Боковую панель или Зону виджетов подвала\"."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:37 template-parts/content-none.php:49
+#: 404.php:23
+msgid "Back Home"
+msgstr "Вернуться на главную"
+
+#: template-parts/content-none.php:32
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:60 attachment.php:34 inc/template-tags.php:308
+#: page.php:80
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/banner/banner-one.php:52
+#: template-parts/banner/banner-two.php:63
+#: template-parts/banner/banner-two.php:124 inc/template-functions.php:946
+#: inc/template-functions.php:951 inc/template-functions.php:956
+msgid "Read More"
+msgstr "Читать далее"
+
+#. Theme Name of the theme
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#: footer.php:94
+msgid "Wishful Blog"
+msgstr "Wishful Blog"
+
+#. Author URI of the theme
+msgid "https://wishfulthemes.com/"
+msgstr "https://wishfulthemes.com/"
+
+#. Author of the theme
+msgid "wishfulthemes"
+msgstr "wishfulthemes"
+
+#. Theme URI of the theme
+msgid "https://www.wishfulthemes.com/themes/wishful-blog/"
+msgstr "https://www.wishfulthemes.com/themes/wishful-blog/"

@@ -1,0 +1,378 @@
+# Translation of Plugins - Gutenberg Post Blocks - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Gutenberg Post Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-18 08:46:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Gutenberg Post Blocks - Stable (latest release)\n"
+
+#: classes/Options.php:752
+msgid "Getting started"
+msgstr "Primeros pasos"
+
+#: classes/Options.php:747
+msgid "Image Overlay"
+msgstr "Superposición de imágenes"
+
+#: classes/Options.php:746
+msgid "Post Carousel"
+msgstr "Carrusel de entradas"
+
+#: classes/Options.php:731
+msgid "Plugin Details"
+msgstr "Detalles del plugin"
+
+#: classes/Options.php:717
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: classes/Options.php:716
+msgid "Getting Started"
+msgstr "Empezar"
+
+#: classes/Options.php:260
+msgid "Free Download"
+msgstr "Descarga gratuita"
+
+#: classes/Options.php:728
+msgid "Quick Overview"
+msgstr "Vista rápida"
+
+#: classes/Options.php:719
+msgid "Video Tutorials"
+msgstr "Tutoriales en vídeo"
+
+#: classes/Options.php:254
+msgid "Header Variations"
+msgstr "Variaciones de la cabecera"
+
+#: classes/Options.php:251 classes/Options.php:736
+msgid "Core Features"
+msgstr "Características del núcleo"
+
+#: blocks/Heading.php:680 blocks/Image.php:548
+msgid "section"
+msgstr "sección"
+
+#: blocks/Heading.php:680 blocks/Image.php:548
+msgid "title"
+msgstr "título"
+
+#: blocks/Heading.php:680 blocks/Image.php:548
+msgid "heading"
+msgstr "encabezado"
+
+#: blocks/Post_Grid_4.php:2021 blocks/Post_List_3.php:2208
+#: blocks/Post_List_1.php:2164 blocks/Post_Grid_2.php:2036
+#: blocks/Post_Grid_1.php:2160 blocks/Post_List_2.php:2232
+#: blocks/Post_Grid_3.php:2068
+msgid "listing"
+msgstr "listado"
+
+#: blocks/Post_Grid_4.php:2021 blocks/Post_List_3.php:2208
+#: blocks/Post_List_1.php:2164 blocks/Post_Grid_2.php:2036
+#: blocks/Post_Grid_1.php:2160 blocks/Post_List_2.php:2232
+#: blocks/Post_Grid_3.php:2068
+msgid "article"
+msgstr "artículo"
+
+#: blocks/Post_Grid_4.php:2021 blocks/Post_List_3.php:2208
+#: blocks/Post_List_1.php:2164 blocks/Post_Grid_2.php:2036
+#: blocks/Post_Grid_1.php:2160 blocks/Post_List_2.php:2232
+#: blocks/Post_Grid_3.php:2068
+msgid "post"
+msgstr "entrada"
+
+#: blocks/Post_Grid_4.php:2021 blocks/Post_List_3.php:2208
+#: blocks/Post_List_1.php:2164 blocks/Post_Grid_2.php:2036
+#: blocks/Post_Grid_1.php:2160 blocks/Post_List_2.php:2232
+#: blocks/Post_Grid_3.php:2068
+msgid "grid"
+msgstr "cuadrícula"
+
+#: blocks/Post_Slider_1.php:2060 blocks/Taxonomy.php:2088
+msgid "Article"
+msgstr "Artículo"
+
+#: blocks/Post_Slider_1.php:2060 blocks/Taxonomy.php:2088
+msgid "Popular Post"
+msgstr "Entradas populares"
+
+#: blocks/Post_Slider_1.php:2060 blocks/Taxonomy.php:2088
+msgid "Latest Post"
+msgstr "Últimas entradas"
+
+#: classes/Options.php:720
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: classes/Options.php:156
+msgid "Version"
+msgstr "Versión"
+
+#: classes/Options.php:106
+msgid "Download Now"
+msgstr "Descargar ahora"
+
+#: classes/Options.php:59
+msgid "Preloader Style"
+msgstr "Estilo del precargador"
+
+#: classes/Functions.php:147 classes/Functions.php:199
+msgid "Next"
+msgstr "Siguiente"
+
+#: classes/Functions.php:127 classes/Functions.php:194
+msgid "Previous"
+msgstr "Anterior"
+
+#: blocks/template/meta.php:13
+msgid " comments"
+msgstr " comentarios"
+
+#: blocks/template/meta.php:7 blocks/template/meta.php:8
+#: blocks/template/meta.php:10
+msgid "By"
+msgstr "Por"
+
+#: blocks/Post_Grid_4.php:2125 blocks/Post_List_3.php:2307
+#: blocks/Post_List_1.php:2264 blocks/Post_Grid_2.php:2142
+#: blocks/Post_Grid_1.php:2262 blocks/Post_List_2.php:2338
+#: blocks/Post_Slider_1.php:2130 blocks/Post_Grid_3.php:2172
+#: blocks/Taxonomy.php:2186
+msgid "Read More"
+msgstr "Leer más"
+
+#: classes/Options.php:154
+msgid "Released on "
+msgstr "Lanzado el "
+
+#: classes/Options.php:69
+msgid "Container Width"
+msgstr "Anchura del contenedor"
+
+#: blocks/template/meta.php:17 blocks/template/meta.php:18
+msgid " ago"
+msgstr " atrás"
+
+#: blocks/template/meta.php:15
+msgid " views"
+msgstr "  visualizaciones"
+
+#: classes/REST_API.php:121 blocks/template/data.php:17
+msgid " min read"
+msgstr " minutos de lectura"
+
+#: classes/Options.php:800
+msgid "How to use Meta"
+msgstr "Cómo usar los meta"
+
+#: classes/Options.php:796
+msgid "How to use Category"
+msgstr "Cómo usar las categorías"
+
+#: classes/Options.php:788
+msgid "How to use Pre-made Blocks"
+msgstr "Como usar los bloques prediseñados"
+
+#: classes/Options.php:792
+msgid "How to use Image Overlay"
+msgstr "Cómo usar la superposición de imagen"
+
+#: classes/Options.php:784
+msgid "How to use Advanced Pagination"
+msgstr "Cómo usar la paginación avanzada"
+
+#: classes/Options.php:780
+msgid "How to use Post Slider"
+msgstr "Cómo usar el carrusel de entradas"
+
+#: classes/Options.php:772
+msgid "How to Import Layouts"
+msgstr "Cómo importar los diseños"
+
+#: classes/Options.php:776
+msgid "How to use advaced query builder"
+msgstr "Cómo utilizar la consulta avanzada del maquetador"
+
+#: classes/Options.php:745
+msgid "Filter Option"
+msgstr "Opciones del filtro"
+
+#: classes/Options.php:744
+msgid "Post Grid View"
+msgstr "Vista de la cuadrícula de entradas"
+
+#: classes/Options.php:743
+msgid "Post List View"
+msgstr "Vista de la lista de entradas"
+
+#: classes/Options.php:740
+msgid "Advanced Query"
+msgstr "Consulta avanzada"
+
+#: classes/Options.php:738
+msgid "Infinite Load More"
+msgstr "«Cargar más» infinito"
+
+#: classes/Options.php:710
+msgid "Rate the plugin"
+msgstr "Valora el plugin"
+
+#: classes/Options.php:708
+msgid "Welcome to <strong>Gutenberg Post Blocks</strong> - Version"
+msgstr "Bienvenido a <strong>Gutenberg Post Blocks</strong>  - Versión"
+
+#: classes/Options.php:742
+msgid "Premade Blocks"
+msgstr "Bloques prediseñados"
+
+#: classes/Options.php:741
+msgid "Premade Layouts"
+msgstr "Diseños preconstruídos"
+
+#: classes/Options.php:739
+msgid "Advanced Pagination"
+msgstr "Paginación avanzada"
+
+#: classes/Options.php:732
+msgid "Free Layout Pack"
+msgstr "Paquete de diseños gratuitos"
+
+#: classes/Options.php:258
+msgid "Unlimited Color Options"
+msgstr "Opciones de color ilimitadas"
+
+#: classes/Options.php:256
+msgid "Advanced Option Panel"
+msgstr "Panel de opciones avanzadas"
+
+#: classes/Options.php:249
+msgid "Coblog Theme"
+msgstr "Tema Coblog"
+
+#: classes/Options.php:718
+msgid "Recommended Theme"
+msgstr "Tema recomendado"
+
+#. Author URI of the plugin
+msgid "https://wpxpo.com/"
+msgstr "https://wpxpo.com/"
+
+#. Author of the plugin
+msgid "wpxpo"
+msgstr "wpxpo"
+
+#: classes/Options.php:255
+msgid "Footer Variations"
+msgstr "Variaciones del pie de página"
+
+#: classes/Options.php:253
+msgid "Based On Gutenberg"
+msgstr "Basado en Gutenberg"
+
+#: classes/Options.php:710
+msgid "Most Powerful & Advanced Gutenberg Kit"
+msgstr "El paquete de Gutenberg más potente y avanzado"
+
+#: classes/Options.php:257
+msgid "Box Width layout"
+msgstr "Diseño de ancho de caja"
+
+#. Plugin Name of the plugin
+#: classes/Options.php:712 classes/Initialization.php:254
+msgid "Gutenberg Post Blocks"
+msgstr "Bloques de entrada de Gutenberg"
+
+#: classes/Options.php:65
+msgid "Select Preloader Style."
+msgstr "Selecciona el estilo de precargador."
+
+#: classes/Options.php:62
+msgid "Preloader Style 2"
+msgstr "Estilo del precargador 2"
+
+#: classes/Options.php:61
+msgid "Preloader Style 1"
+msgstr "Estilo del precargador 1"
+
+#: classes/Options.php:55
+msgid "Select where you want to save CSS."
+msgstr "Selecciona dónde quieres guardar el CSS."
+
+#: classes/Styles.php:113
+msgid "CSS can not be saved due to permission!!!"
+msgstr "¡CSS no puede ser guardado debido a los permisos!"
+
+#: classes/Styles.php:78 classes/Styles.php:87
+msgid "Data not found!!"
+msgstr "¡Datos no encontrados!"
+
+#: classes/Styles.php:76 classes/Styles.php:85
+msgid "Data retrive done"
+msgstr "Recuperación de datos realizada"
+
+#: classes/Options.php:71
+msgid "Change Container Width."
+msgstr "Cambiar el ancho del contenedor."
+
+#: classes/Options.php:250
+msgid "Responsive WordPress Theme news theme built for personal blog, blogging, blogger, journal, lifestyle, magazine, photography, editorial, traveler and so on."
+msgstr "Tema de noticias Responsive WordPress Theme creado para blog personal, blogging, blogger, revista, estilo de vida, revista, fotografía, editorial, viajero, etc."
+
+#: classes/Options.php:729
+msgid "Gutenberg Post Blocks is a Gutenberg post block plugins for creating beautiful Gutenberg post grid blocks, post listing blocks, post slider blocks and post carousel blocks within a few seconds."
+msgstr "Gutenberg Post Blocks es un plugin para bloques de entradas para Gutenberg para crear bonitos bloques de cuadrículas de entradas, bloques de listas de entradas, bloques de diapositivas de entradas y bloques de carruseles de entradas en pocos segundos."
+
+#: classes/Styles.php:116
+msgid "Gutenberg Post block css file has been updated."
+msgstr "El archivo CSS de Gutenberg Post Blocks ha sido actualizado."
+
+#. Description of the plugin
+msgid "Gutenberg Post blocks is a Gutenberg block Plugin for creating dynamic blog listing, grid and slider."
+msgstr "Gutenberg Post blocks es un plugin de bloques para Gutenberg para crear listados dinámicos en blogs, cuadrículas y carruseles."
+
+#: blocks/Heading.php:679 blocks/Image.php:547
+msgid "Show heading or title with ultimate controls."
+msgstr "Muestra el encabezado o el título con los mejores controles."
+
+#: blocks/Post_Grid_1.php:2159
+msgid "Post grid with classic style."
+msgstr "Cuadrícula de entradas con estilo clásico."
+
+#: blocks/Post_Grid_2.php:2035
+msgid "Post grid with gradient image overlay style."
+msgstr "Cuadrícula de entradas con estilo de superposición de imagen con degradado."
+
+#: blocks/Post_Grid_3.php:2067
+msgid "Post grid with top big posts overlay style."
+msgstr "Cuadrícula de entradas con estilo de superposición de grandes entradas en la parte superior."
+
+#: blocks/Post_Grid_4.php:2020
+msgid "Post grid with left big posts overlay style."
+msgstr "Cuadrícula de entradas con estilo de superposición de grandes entradas a la izquierda."
+
+#: blocks/Post_List_1.php:2163
+msgid "Listing your post with classic style."
+msgstr "Lista tus entradas con estilo clásico."
+
+#: blocks/Post_List_2.php:2231
+msgid "Listing your post with top big post."
+msgstr "Lista tus entradas con una gran entrada en la parte superior."
+
+#: blocks/Post_List_3.php:2207
+msgid "Listing your post with left side image."
+msgstr "Lista tus entradas con una imagen en el lado izquierdo."
+
+#: blocks/Post_Slider_1.php:2059
+msgid "Dynamic post slider with lots of settings."
+msgstr "Carrusel de entradas dinámico con muchos ajustes."
+
+#: blocks/Taxonomy.php:2087
+msgid "Listing your products in a easy way."
+msgstr "Lista tus productos de una manera fácil."
